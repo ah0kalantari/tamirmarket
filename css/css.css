@@ -1,0 +1,2952 @@
+@media only screen and (min-width: 1000px){
+    /* blog styles  */
+    .blog-title{
+        color: brown;
+        font-family: iransans;
+        direction: rtl;
+    }
+    .blog-titr{
+        color: #fff;
+        font-family: iransans;
+        text-align: center;
+        font-size: 30px;
+        background-color: #0d22dfb7;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        direction: rtl;
+    }
+    .blog-text-p{
+        color: black;
+        font-family: iransans;
+        font-size: 20px;
+        text-align: right;
+        padding-right: 15px;
+        direction: rtl;
+        margin-left: 50px;
+    }
+    .blog-text-titr{
+        color: rgb(187, 168, 0);
+        font-family: iransans;
+        font-size: 25px;
+        text-align: right;
+        padding-right: 15px;
+        direction: rtl;
+    }
+    .blog-alarm{
+        color: red;
+        font-family: iransans;
+        font-size: 20px;
+        text-align: right;
+        padding-right: 25px;
+        direction: rtl;
+    }
+    .blog-tabliq-gif{
+        width: 70%;
+        text-align: center;
+        margin-left: 14%;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    /* end blog styles  */
+    /* choose RG or SBS  */
+    .chooseRGorSBS-text{
+        font-family: iransans;
+        font-size: 40px;
+        color: rgb(43, 216, 0);
+        text-shadow: darkslategray 2px 2px 2px;
+        text-align: center;
+        margin-left: 40%;
+    }
+    .style-of-chooseRGorSBS-img{
+        width: 30% !important;
+        animation-name: border-ItemTamirat;
+        animation-duration: 10000ms;
+        animation-iteration-count: infinite;
+        border-radius: 10px !important;
+        display: inline-block;
+        margin-left: 40%;
+    }
+    .chooseRGorSBS-td{
+        width: 50% !important;
+        text-align: center;
+    }
+    .chooseRGorSBS-tr{
+        width: 100% !important;
+        text-align: center;
+    }
+    .style-of-chooseRGorSBS-a :hover{
+        text-shadow: red 2px 2px 3px;
+    }
+    /* end choose RG or SBS  */
+    .style-of-hr-in-first-brand-page{
+        border: blue solid 4px;
+        opacity: 1;
+    }
+    .style-of-ItemTamirat-box-in-brand-page{
+        width: 92% !important;
+        border-top: solid 4px blue;
+        border-bottom: solid 4px blue;
+        margin-left: 0% !important;
+        margin-right: 0% !important;
+        padding-left: 4% !important;
+        padding-right: 4% !important;
+    }
+    .style-of-mazit-estfade-az-ma{
+        animation-name: color-of-mazit-estefade-az-ma;
+        animation-duration: 2000ms;
+        animation-iteration-count: infinite;
+        direction: rtl;
+        text-align: justify;
+        font-size: 25px;
+        font-family: iransans;
+        padding-right: 30px;
+        padding-left: 30px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+    .style-of-left-ra{
+        width: 100%;
+        border-bottom: #070ac6 solid 3px;
+    }
+    .style-of-mazit-estfade-az-ma-text{
+        animation-name: color-of-mazit-estefade-az-ma-text;
+        animation-duration: 4000ms;
+        animation-iteration-count: infinite;
+        direction: rtl;
+        text-align: justify;
+        font-size: 22px;
+        font-family: iransans;
+        padding-right: 50px;
+        padding-left: 50px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        line-height: 40px;
+    }
+    .style-of-rah-haye-ertebaty-gif{
+        width: 90%;
+        margin-left: 2%;
+        border: green solid 5px;
+        border-radius:10px;
+        padding: 20px;
+    }
+    .style-of-rah-haye-ertebaty-gif2{
+        width: 50% !important;
+        margin-left: 24% !important;
+        border: green solid 5px;
+        border-radius:10px;
+        padding: 20px;
+    }
+    .style-of-original-title-why-this-co{
+        border-top: #070ac6 solid 3px;
+        width: 100%;
+        float: left;
+    }
+    .style-of-factory-img-in-brand-page{
+        width: 40%;
+        margin-left: 4%;
+        margin-right: 4%;
+    }
+    .about-brand-title{
+        animation-name: color-of-about-brand-title;
+        animation-duration: 2000ms;
+        animation-iteration-count: infinite;
+        text-align: right;
+        font-size: 25px;
+        font-family: iransans;
+        border-right:  15px solid rgb(0, 51, 128);
+        border-left:   3px solid rgb(0, 51, 128);
+        border-bottom: 3px solid rgb(0, 51, 128);
+        border-top:    3px solid rgb(0, 51, 128);
+        border-radius: 15px;
+        background-color: rgb(47, 255, 255);
+        width: 70%;
+        margin-left: 24%;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-right: 15px;
+    }
+    .about-brand-text{
+        color: black;
+        text-align: justify;
+        padding-left: 60px;
+        padding-right: 60px;
+        font-size: 22px;
+        line-height: 40px;
+        font-family: iransans;
+        direction: rtl;
+    }
+    .animation-of-title-brand{
+        color: #2bc607;
+        text-align: center;
+        padding-top:    10px;
+        padding-bottom: 10px;
+        padding-left: 30px;
+        padding-right: 30px;
+        font-family: iransans;
+        line-height: 60px;
+        font-size: 40px;
+        direction: rtl;
+        animation-name: animation-of-title-brand;
+        animation-duration: 5000ms;
+        animation-iteration-count: infinite;
+        text-shadow: rgb(51, 51, 51) 1px 1px 1px;
+        white-space: nowrap;
+        box-sizing: border-box;
+    }
+/* ---------------------------------------------------------------------------------------------------- */
+/* menu styles  */
+
+@keyframes show-of-original-zirmenu {
+    0%{
+        top: 20%;
+    }
+    100%{
+        top: 12%;
+    }
+    }
+    
+    @keyframes showkadrmakhsostbe {
+    0% {
+        right: 17%;
+    }
+    100% {
+        right: 24%;
+    }
+    }
+    
+    @keyframes showzirmenu-of-tamirat {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+    }
+    .display-none-pc{
+        display: none !important;
+    }
+    .style-of-menu-icon-in-mo{
+        display: none;
+    }
+    .style-of-menu-icon-zarbdar-in-mo{
+        display: none;
+    }
+    .style-of-all-menu{
+        position: fixed !important;
+        top: 0%;
+        background-color: #1a58af !important;
+        width: 100%;
+        z-index: unset !important;
+        display: block;
+        animation-name: 52252525;
+        animation-duration: 1000ms;
+    }
+    .position-of-menu{
+        direction: rtl !important;
+        position: fixed;
+        top: 0%;
+        right: 0% ;
+        width: 100%;
+    }
+    .style-of-menu{
+        background-color: #1a58af;
+    }
+    .style-of-sdf{
+        text-decoration: none !important;
+        color: white !important;
+        font-family: iransans;
+        font-size: 17px !important;
+        list-style: none;
+        padding: 10px 15px;
+    }
+    /* .border-top-of-menu{
+        border-top: white solid 2px !important;
+    } */
+    .style-of-text-of-zirmenus{
+        color: white;
+        text-decoration: none;
+        direction: rtl !important;
+        padding: 10px 25px;
+    }
+    .style-of-all-menu{
+        padding: 25px !important;
+    }
+    .style-of-sabt-sefaresh-in-menu{
+        border: white 3px solid;
+        border-radius:5px;
+        padding: 2px 10px;
+    }
+    .style-of-zirmenu-of-tamirat{
+        position: fixed;
+        right: 10%;
+        display: none;
+        margin-top: 0%;
+        margin-bottom: 25px !important;
+        margin-right: 25px !important;
+        margin-left: 25px !important;
+        padding-top: 10px !important;
+        padding-bottom: 10px !important;
+        padding-right: 0px !important;
+        padding-left: 0px !important;
+        background-color: #1a58af;
+        border-top-left-radius: 0px;
+        border-top-right-radius: 0px;
+        border-bottom-right-radius: 0px;
+        border-bottom-left-radius: 0px;
+        animation-name: show-of-original-zirmenu;
+        animation-duration: 1000ms;
+    }
+    #style-of-zirmenu-of-tamirat {
+        position: fixed;
+        top: 12%;
+        right: 10%;
+        display: none;
+    }
+    .z-index-of-orginal-item-of-menu{
+        z-index: 1500000000000 !important;
+    }
+    .style-of-temirat-in-menu-and-open-or-close{
+        display: inline;
+    }
+    .style-of-all-of-zirmajmoee{
+        background-color: #1a58af;
+    }
+    .solid-animation{
+        animation-name: solid-animation !important;
+    }
+    .style-of-zirmenu-of-tamirat2{
+        position: fixed;
+        display: none;
+        margin-top: 4.5% !important;
+        margin-bottom: 25px !important;
+        margin-right: 25px !important;
+        margin-left: 25px !important;
+        padding-top: 10px !important;
+        padding-bottom: 10px !important;
+        padding-right: 0px !important;
+        padding-left: 0px !important;
+        background-color: #1a58af;
+        border-top-left-radius: 0px;
+        border-top-right-radius: 0px;
+        border-bottom-right-radius: 0px;
+        border-bottom-left-radius: 0px;
+    }
+    #style-of-zirmenu-of-tamirat2{
+        position: fixed;
+        top: 1.8%;
+        right: 24%;
+        display: none;
+        margin-top: 4.5% !important;
+        margin-bottom: 25px !important;
+        margin-right: 25px !important;
+        margin-left: 25px !important;
+        padding-top: 10px !important;
+        padding-bottom: 10px !important;
+        padding-right: 0px !important;
+        padding-left: 0px !important;
+        background-color: #1a58af;
+        border-top-left-radius: 0px;
+        border-top-right-radius: 0px;
+        border-bottom-right-radius: 0px;
+        border-bottom-left-radius: 0px;
+        border-top-left-radius: 0px;
+        border-top-right-radius: 0px;
+        animation-name: showkadrmakhsostbe;
+        animation-duration:1000ms;
+    }
+    .style-of-zirmenu-of-tamirat3{
+        position: fixed;
+        display: none;
+        margin-top: 4.5% !important;
+        margin-bottom: 25px !important;
+        margin-right: 25px !important;
+        margin-left: 25px !important;
+        padding-top: 10px !important;
+        padding-bottom: 10px !important;
+        padding-right: 0px !important;
+        padding-left: 0px !important;
+        background-color: #1a58af;
+        border-top-left-radius: 0px;
+        border-top-right-radius: 0px;
+        border-bottom-right-radius: 0px;
+        border-bottom-left-radius: 0px;
+    }
+    #style-of-zirmenu-of-tamirat3{
+        position: fixed;
+        top: 10.2%;
+        right: 24%;
+        display: none;
+        margin-top: 4.5% !important;
+        margin-bottom: 25px !important;
+        margin-right: 25px !important;
+        margin-left: 25px !important;
+        padding-top: 10px !important;
+        padding-bottom: 10px !important;
+        padding-right: 0px !important;
+        padding-left: 0px !important;
+        background-color: #1a58af;
+        border-top-left-radius: 0px;
+        border-top-right-radius: 0px;
+        border-bottom-right-radius: 0px;
+        border-bottom-left-radius: 0px;
+        border-top-left-radius: 0px;
+        border-top-right-radius: 0px;
+        animation-name: showkadrmakhsostbe;
+        animation-duration:1000ms;
+    }
+    .style-of-zirmenu-of-tamirat4{
+        position: fixed;
+        display: none;
+        margin-top: 4.5% !important;
+        margin-bottom: 25px !important;
+        margin-right: 25px !important;
+        margin-left: 25px !important;
+        padding-top: 10px !important;
+        padding-bottom: 10px !important;
+        padding-right: 0px !important;
+        padding-left: 0px !important;
+        background-color: #1a58af;
+        border-top-left-radius: 0px;
+        border-top-right-radius: 0px;
+        border-bottom-right-radius: 0px;
+        border-bottom-left-radius: 0px;
+    }
+    #style-of-zirmenu-of-tamirat4{
+        position: fixed;
+        top: 20%;
+        right: 24%;
+        display: none;
+        margin-top: 4.5% !important;
+        margin-bottom: 25px !important;
+        margin-right: 25px !important;
+        margin-left: 25px !important;
+        padding-top: 10px !important;
+        padding-bottom: 10px !important;
+        padding-right: 0px !important;
+        padding-left: 0px !important;
+        background-color: #1a58af;
+        border-top-left-radius: 0px;
+        border-top-right-radius: 0px;
+        border-bottom-right-radius: 0px;
+        border-bottom-left-radius: 0px;
+        border-top-left-radius: 0px;
+        border-top-right-radius: 0px;
+        animation-name: showkadrmakhsostbe;
+        animation-duration:1000ms;
+    }
+    .style-show-menu-button{
+        background-color: #1a58af;
+        border-top-left-radius: 50%;
+        border-bottom-left-radius: 50%;
+        font-family: yekanplusbold;
+        font-size: 30px;
+        color: white;
+        width: 4%;
+        height: 7%;
+        text-align: center;
+        vertical-align: middle;
+        right: 100%;
+        top: -3%;
+        border-top: white solid 5px;
+        border-left: white solid 5px;
+        border-bottom: 0px;
+        position: fixed;
+        animation-name: 21142341561;
+        animation-duration: 1000ms;
+        opacity: 1;
+    }
+/* end menu styles  */
+/* ---------------------------------------------------------------------------------------------------- */
+    
+    .styles-of-first-logo-in-all-pages-1{
+        width: 17% !important;
+        margin-right: 43% !important;
+        margin-left: 4% !important;
+        margin-top: 80px;
+    }
+    .styles-of-first-logo-in-all-pages-2{
+        margin-right: 5% !important;
+        width: 30% !important;
+    }
+    .dtngjdfjiogdrjiogfyhsei{
+        margin-left: 5%;
+    }
+    .style-of-hr-in-bottom-of-first-logo-in-all-pages{
+        background-color: blue;
+        height: 5px !important;
+        opacity: 1;
+    }
+    .styles-of-slide-show{
+        margin-left: 9% !important;
+        width: 80% !important;
+        background-image: url(img/slide\ show/1.png);
+        background-size: 100% !important;
+        background-clip:padding-box;
+        animation-name: avazshdanaxhayslideshow;
+        animation-duration: 40000ms !important;
+        animation-iteration-count: infinite;
+    }
+    .styles-of-lg-slide-show{
+        margin-left: 9% !important;
+        width: 80% !important;
+        background-size: 100% !important;
+        background-clip:padding-box;
+        animation-name: avazshdanaxhayslideshowLG;
+        animation-duration: 40000ms !important;
+        animation-iteration-count: infinite;
+    }
+    .styles-of-WM-slide-show{
+        margin-left: 9% !important;
+        width: 80% !important;
+        background-size: 100% !important;
+        background-clip:padding-box;
+        animation-name: avazshdanaxhayslideshowWM;
+        animation-duration: 40000ms !important;
+        animation-iteration-count: infinite;
+    }
+    .style-of-moarefi-shoql{
+        color: white;
+        text-align: center;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        font-family: iransans;
+        line-height: 40px;
+        font-size: 35px;
+        direction: rtl;
+        margin: 0% !important;
+        background-color: #1a58af;
+    }
+    .style-of-moarefi-shoql2{
+        color: white;
+        text-align: center;
+        padding-top: 0px;
+        padding-bottom: 20px;
+        font-family: iransans;
+        line-height: 40px;
+        font-size: 25px;
+        direction: rtl;
+        margin: 0% !important;
+        background-color: #1a58af;
+    }
+    .style-of-moarefi-shoql3{
+        color: white;
+        text-align: center;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        font-family: iransans;
+        line-height: 40px;
+        font-size: 25px;
+        direction: rtl;
+        margin: 0% !important;
+        background-color: #1a58af;
+    }
+    .style-of-shoar-img-in-index{
+        width: 70%;
+        text-align: center;
+        margin-left: 15% !important;
+        border-radius: 10px;
+    }
+    .style-of-entekhab-brand{
+        color: white;
+        background-color: #1a58af;
+        text-align: center;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        font-family: iransans;
+        line-height: 40px;
+        font-size: 25px;
+        /* animation-name: taqir-BackgroundColor-az-blue-be-sabz;
+        animation-duration: 2000ms;
+        animation-iteration-count: infinite; */
+    }
+    .style-of-edame-brand{
+        color: white;
+        background-color: #2bc607;
+        text-align: center;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        font-family: iransans;
+        font-size: 25px;
+        /* animation-name: taqir-BackgroundColor-az-blue-be-sabz;
+        animation-duration: 2000ms;
+        animation-iteration-count: infinite; */
+        margin-left: 30%;
+        margin-right: 30%;
+        border-radius: 20px;
+    }
+    .style-of-ItemTamirat-img{
+        display: inline !important;
+        width: 14% !important;
+        animation-name: border-ItemTamirat;
+        animation-duration: 10000ms;
+        animation-iteration-count: infinite;
+        border-radius: 10px !important;
+    }
+    .style-of-ItemTamirat-box{
+        width: 80%;
+        margin-left: 17%;
+    }
+    .style-of-ItemTamirat-radif{
+        display: inline !important;
+        margin-top: 10px !important;
+    }
+    .style-of-ItemTamirat-div{
+        display: inline !important;
+        width: 19% !important;
+        padding: 1% !important;
+    }
+    .rotate-ItemTamirat-img :hover{
+        animation-name: rotate-ItemTamirat-img;
+        animation-duration: 1500ms;
+        animation-iteration-count: infinite;
+    }
+    .style-of-vipsabtsefaresh-box{
+        width: 50% !important;
+        margin-left: 25%;
+    }
+    .style-of-vipsabtsefaresh1{
+        background-color: #030441;
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+        text-align: center;
+        padding: 15px !important;
+        color: white;
+        font-family: iransans;
+        font-size: 20px;
+        animation-name: style-ofvipsabtsefaresh1;
+        animation-duration: 2500ms;
+        animation-iteration-count: infinite;
+    }
+    .style-of-vipsabtsefaresh2{
+        background-color: #d8ba10;
+        border-bottom-left-radius: 20px;
+        border-bottom-right-radius: 20px;
+        text-align: center;
+        padding: 15px !important;
+        color: white;
+        font-family: iransans;
+        font-size: 20px;
+        animation-name: style-ofvipsabtsefaresh2;
+        animation-duration: 2500ms;
+        animation-iteration-count: infinite;
+    }
+    .style-of-title-mak1{
+        color: white;
+        background-color: #030441;
+        text-align: center;
+        font-size: 22px;
+        font-family: iransans;
+        padding: 20px;
+        margin: 0% !important;
+    }
+    .style-of-title-mak2{
+        color: white;
+        background-color: #030441;
+        text-align: center;
+        font-size: 20px;
+        font-family: iransans;
+        padding: 20px;
+        margin: 0% !important;
+    }
+    .style-of-mak-box{
+        background-color: #030441;
+    }
+    .style-of-mak-img-tag{
+        width: 20% !important;
+        margin-left: 2%;
+        margin-right: 2%;
+    }
+    .style-of-mak-img{
+        width: 40% !important;
+        margin-left: 29% !important;
+    }
+    .style-of-mak-img-tr{
+        width: 100% !important;
+    }
+    .style-of-mak-img-text{
+        color: white;
+        text-align: center;
+        font-family: iransans;
+        font-size: 20px !important;
+        border-left: white solid 2px;
+    }
+    .style-of-mak-box-in-mo{
+        display: none;
+    }
+/* ---------------------------------------------------------------------------------------------------- */
+/* styles of why-this-co */
+    .style-of-zir-why-this-co-box-mo{
+        display: none;
+    }
+    .why-this-co{
+        color: white;
+        background-color: #d8ba10;
+        padding: 20px !important;
+        text-align: center;
+        width: 50% !important;
+        border-radius: 20px;
+        font-size: 25px;
+        font-family: iransans;
+        margin-left: 24%;
+    }
+    .style-of-zir-why-this-co-box{
+        width: 100%;
+        background-color: white;
+    }
+    .style-of-zir-why-this-co-td{
+        margin: 3%;
+        background-color: black;
+    }
+    .style-of-zir-why-this-co-img{
+        width: 15%;
+        display: inline;
+        float: left;
+        padding: 20px;
+    }
+    .style-of-zir-why-this-co-title-text{
+        color: white;
+        font-size: 22px;
+        font-family: iransans;
+        width: 69%;
+        display: inline;
+        text-align: right;
+        float: right;
+        margin: 0%;
+        margin-right: 3% !important;
+    }
+    .style-of-zir-why-this-co-text{
+        color: #d8ba10;
+        font-size: 17px;
+        font-family: iransans;
+        text-align: right;
+        float: right;
+        margin: 0%;
+        margin-right: 3% !important;
+    }
+    .style-ra-text{
+        font-size: 20px;
+        padding-right: 20px;
+    }
+    .style-of-re-hr{
+        color: green;
+        opacity: 1;
+        border: 5px solid green;
+    }
+/* end of why-this-co styles */
+/* ---------------------------------------------------------------------------------------------------- */
+/* styles of amadegy-aqd-qarardad */
+/* ---------------------------------------------------------------------------------------------------- */
+    .style-of-amadegy-aqd-qarardad{
+        background-color: rgb(221, 108, 16);
+        color: white;
+        width: 50%;
+        margin-left: 24%;
+        border-radius: 20px;
+        padding: 10px;
+        font-size: 25px;
+        text-align: center;
+        font-family: iransans;
+        /* animation-name: change-text-color-of-amadegy-aqd-qarardad;
+        animation-duration: 2000ms;
+        animation-iteration-count: infinite; */
+        z-index: 0 !important;
+    }
+/* end styles of amadegy-aqd-qarardad */
+
+    .rwyfgweofjwehfv{
+        width: 30%;
+    }
+/* ---------------------------------------------------------------------------------------------------- */
+/* brand images style  */
+    .style-of-all-brand-img{
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+    .style-of-brand-img-in-brand-page{
+        width: 20% !important;
+        margin-left: 39% !important;
+    }
+    .style-of-brand-img{
+        width: 11%;
+        border: black 3px solid;
+        border-radius: 50% !important;
+        padding: 5px !important;
+        margin-right: 1.5%;
+        margin-bottom: 15px;
+        animation-name: effect-of-brand-img-in-lavazem-khangy-page;
+        animation-duration: 4000ms;
+        animation-iteration-count: infinite;
+        background-color: white;
+    }    
+    .style-of-brand-img-in-lavazem-khangy-page{
+        width: 12.5%;
+        border: black 3px solid;
+        border-radius: 50% !important;
+        padding: 5px !important;
+        margin-right: 1.8%;
+        margin-bottom: 15px;
+        animation-name: effect-of-brand-img-in-lavazem-khangy-page;
+        animation-duration: 4000ms;
+        animation-iteration-count: infinite;
+        background-color: white;
+    }
+    #display-first-brand-pic{
+        display: block;
+    }
+    .scale-brand-img{
+        display: inline !important;
+    }
+    .scale-brand-img :hover{
+        display: inline !important;
+        animation-name: changebrandimg;
+        animation-duration: 3000ms;
+    }
+    .display-brand-second-pic{
+        display: none;
+    }
+/* ---------------------------------------------------------------------------------------------------- */
+/* style of naqshe-iran */
+    .style-of-naqshe-iran-box-mo{
+        display: none;
+    }
+    .style-of-naqshe-iran-box{
+        background-color: #0c489c !important;
+        float: right;
+        border-top: #070ac6 solid 3px;
+    }
+    .style-of-naqshe-iran-img{
+        width: 80%;
+        left: 0%;
+        margin: 9% !important;
+        background-color: rgb(7, 80, 7);
+        border-radius:100px;
+        border: white solid 5px;
+    }
+    .style-of-naqshe-iran-title-text{
+        text-align: center;
+        color: white;
+        font-size: 30px;
+        font-family: iransans;
+        text-align: center;
+        background-color: #0c489c !important;
+        font-weight: bold;
+        padding: 0%;
+        margin: 0%;
+        padding-right: 25px !important;
+    }
+    .style-of-naqshe-iran-mini-title-text{
+        text-align: center;
+        font-size: 28px;
+        font-family: iransans;
+        color: white;
+        text-align: center;
+        background-color: #0c489c !important;
+        font-weight: bold;
+        padding: 0%;
+        margin: 0%;
+        margin-left: 25%;
+        border-bottom: white solid 2px;
+        width: 45%;
+    }
+    .style-of-naqshe-iran-text{
+        text-align: center;
+        font-size: 24px;
+        font-family: iransans;
+        color: white;
+        text-align: center;
+        background-color: #0c489c !important;
+        font-weight: bold;
+        padding-right: 25px;
+    }
+    .style-of-new-news{
+        color: black;
+        background-color: #d8ba10;
+        font-size: 25px;
+        font-family: iransans;
+        padding: 20px;
+        text-align: center;    
+        /* animation-name: change-color-text-of-new-news;    
+        animation-duration: 2000ms;
+        animation-iteration-count: infinite; */
+        width: 100% !important;
+        float: right;
+    }
+    .style-of-new-news-table-box{
+        width: 100%;
+    }
+    .style-of-new-news-table-box-mo{
+        display: none;
+    }
+    .style-of-new-news-td{
+        width: 10% !important;                         
+    }
+    .style-of-new-news-img{
+        width: 90% !important;
+        margin: 5%;
+        border: black 5px solid;
+        border-radius: 20px;
+        background-image: linear-gradient(#00fffc, #ffffff);
+        animation-name: change-background-image-of-new-news-img;
+        animation-duration: 40000ms;
+        animation-iteration-count: infinite;
+    }
+    .style-of-new-news-tr{
+        width: 100% !important;
+    }
+    .style-of-footer-asli-title{
+        color: white;
+        font-size: 27px;
+        font-family: iransans;
+        text-align: center;
+        background-color: black;
+    }
+    .style-of-footer-copyright{
+        color: rgb(146, 146, 146);
+        font-size: 15px;
+        font-family: iransans;
+        text-align: center;
+        background-color: black;
+        direction: rtl;
+    }
+    .style-of-footer-made-by-ITROSOFT{
+        color: #2bc607;
+        font-size: 15px;
+        font-family: iransans;
+        text-align: center;
+        background-color: black;
+        direction: rtl;
+        animation-name: change-text-color-of-footer-made-by-ITROSOFT;
+        animation-duration: 1000ms;
+        animation-iteration-count: infinite;
+        text-decoration: none;
+        margin: 0%;
+        padding: 0%;
+    }
+    .style-of-footer-made-by-ITROSOFT :hover{
+        color: red !important;
+        text-shadow: rgb(161, 206, 0) 2px 2px 2px;
+        font-size: 17px;
+        stroke: white;
+        stroke-width: 2200000000000000000000000000000000000px;
+        stroke-linecap: round;
+    }
+    .style-of-footer-title{
+        color: white;
+        font-size: 30px;
+        font-family: iransans;
+        text-align: center;
+        background-color: black;
+        margin: 0%;
+        padding: 0%;
+        float: left;
+    }
+    .style-of-footer-email{
+        color: rgb(0, 51, 218);
+        font-size: 22px;
+        font-family: iransans;
+        text-align: center;
+        background-color: black;
+    }
+    .style-of-footer-address{
+        color: white;
+        font-size: 20px;
+        font-family: iransans;
+        text-align: center;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .style-of-footer-logo{
+        width: 50%;
+    }
+    .style-of-footer-a{
+        text-decoration: none;
+    }
+    .style-of-footer-td{
+        width: 33% !important;
+        margin: 0% !important;
+        padding: 0% !important;
+    }
+    
+    .style-of-ItemTamirat-radif{
+        display: inline !important;
+        margin-top: 30px !important;
+    }
+    .style-lavazem-brand-page{
+        margin-left: 8%;
+    }
+    .right {
+        display: inline;
+        float: right !important;
+        width: 67% !important;
+        border: blue solid 3px;
+        border-bottom: none !important;
+        padding-top: 50px;
+        margin-right: 1%;
+        border-radius: 15px !important;
+    }
+    .style-of-brand-img-in-brand-page2{
+        width: 35%;
+        margin-left: 32%;
+        border-radius: 50%;
+        border: black solid 7px;
+        animation-name: effect-of-brand-img-in-brand-page;
+        animation-duration: 4000ms;
+        animation-iteration-count: infinite;
+    }
+    .style-of-orginal-brand-image{
+        width: 90%;
+        margin-left: 4%;
+        border-radius: 15px;
+        box-shadow: black 10px 10px 30px;
+    }
+    .left-left{
+        float: left;
+        /* width: 69%;     */
+        text-align: center;
+        vertical-align: middle !important;
+        margin: 0% !important;
+    }
+    .left-left-p {
+        color: black !important;
+        font-size: 17px !important;
+        font-family: iransans !important;
+        text-align: center;
+        padding-right: 3px !important;
+        padding-left: 1px !important;
+        padding-top: 5px !important;
+        padding-bottom: 5px !important;
+        margin-top: 4% !important;
+        /* width: 100% !important; */
+        direction: rtl;
+        /* border-top-left-radius: 15px; */
+        /* border-bottom-left-radius: 15px; */
+        /* background-color: #d3d2d2; */
+        margin-left: 50px; 
+        /* border: solid black 3px; */
+    }
+    .right-left{
+        float: right;
+        width: 80px;   
+        left: 10px; 
+        margin-left: 25px ;
+    }
+    .right-left img{
+        width: 80%;
+        /* border: solid black 3px;
+        border-radius: 10px; */
+        margin-left: 2%;
+        border: solid rgb(0, 0, 0) 1.5px;
+        border-radius: 5px;
+        margin-top: 3px;
+    }
+    .left-poshesh {
+        /* border: solid rgb(131, 131, 131) 3px; */
+
+        /* border-radius: 10px; */
+        width: 100%;
+        margin-right: 0px !important;
+        border-spacing: 0px !important;
+    }
+    .left-hr{
+        border: solid rgb(0, 0, 0) 1px;
+        /* border-bottom: solid rgb(0, 0, 0) 3px; */
+        margin: 0% !important;
+    }
+    .left-tr-poshesh{
+        width: 100%;
+        margin-right: 0px !important;
+    }
+    .left-a{
+        text-decoration: none;
+    }
+    .left {
+        display: inline;
+        float: left !important;
+        width: 30% !important;
+        display: inline;
+        border-top: blue solid 3px;
+        padding-top: 50px;
+        border: #585858 3px solid;
+        border-radius: 15px;
+        background-color: white !important;
+        z-index: 10000 !important;
+    }
+    .left p {
+        color: black;
+        font-size: 25px;
+        text-align: center;
+        vertical-align: middle !important;
+        font-family: iransans;
+        animation-name: in-bakhsh-be-zoodi-dar-dastres-khahab-bood-animation;
+        animation-duration: 2000ms;
+        animation-iteration-count: infinite;
+    }
+    .blog-code-style {
+        color: black;
+        font-size: 25px;
+        text-align: center;
+        vertical-align: middle !important;
+        font-family: iransans;
+        animation-name: in-bakhsh-be-zoodi-dar-dastres-khahab-bood-animation;
+        animation-duration: 2000ms;
+        animation-iteration-count: infinite;
+    }
+/* end style of naqshe-iran */
+/* ---------------------------------------------------------------------------------------------------- */
+
+}
+/* end brand image styles  */
+/* ---------------------------------------------------------------------------------------------------- */
+.style-of-moarefi-shoql-box{
+    background-color: #1a58af;
+}
+.style-of-comming-soon-fa{
+    color: black;
+    font-size: 25px;
+    text-align: center;
+    font-family: iransans;
+    animation-name: in-bakhsh-be-zoodi-dar-dastres-khahab-bood-animation;
+    animation-duration: 2000ms;
+    animation-iteration-count: infinite;
+}
+@media only screen and (max-width: 1000px){
+
+}
+@font-face {
+    font-family: noor;
+    src: url('fonts/A Noor.ttf');
+}
+@font-face {
+    font-family: negar;
+    src: url('fonts/Negaar\ Regular.ttf');
+}
+@font-face {
+    font-family: negarb;
+    src: url('fonts/Negaar\ Bold.ttf');
+}
+
+@font-face {
+    font-family: YekanPlus;
+    src: url('fonts/BYekan+.ttf');
+}
+
+@font-face {
+    font-family: iransans;
+    src: url('fonts/BYekan+\ Bold.ttf');
+} 
+
+@font-face {
+    font-family: homa;
+    src: url('fonts/BHoma.ttf');
+}
+
+@font-face {
+    font-family: titr;
+    src: url('fonts/BTitrBd.ttf');
+
+
+}
+
+@font-face {
+    font-family: sina;
+    src: url('fonts/BSINABD.TTF');
+}
+
+@font-face {
+    font-family: amir;
+    src: url('fonts/LMN Amir.ttf');
+}
+
+@font-face {
+    font-family: mir;
+    src: url('fonts/Miremad.ttf');
+}
+
+@font-face {
+    font-family: nas;
+    src: url('fonts/Iran Nastaliq 2.0.ttf');
+}
+
+@font-face {
+    font-family: naz;
+    src: url('fonts/BNazanin.ttf');
+}
+
+@font-face {
+    font-family: tah;
+    src: url('fonts/tahoma.ttf');
+}
+
+@font-face {
+    font-family: dir;
+    src: url('fonts/Dirooz.ttf');
+}
+
+@font-face {
+    font-family: jadid;
+    src: url('fonts/BJadidBd.ttf');
+}
+
+@font-face {
+    font-family: nasim;
+    src: url('fonts/BNasimBd.ttf');
+}
+@font-face {
+    font-family: iransans;
+    src: url('../fonts/IRAN\ Sans\ Bold.ttf');
+}
+.style-pf-secret-key-words{
+    font-size: 1px;
+    line-height: 1px;
+    color: white;
+}
+
+
+@media only screen and (max-width: 1280px){
+   
+    .dispaly-none-1280{
+        display: none;
+    }
+    .style-of-zirmenu-of-tamirat{
+        position: fixed;
+        right: 10%;
+        display: none;
+        margin-top: 0%;
+        margin-bottom: 25px !important;
+        margin-right: 25px !important;
+        margin-left: 25px !important;
+        padding-top: 10px !important;
+        padding-bottom: 10px !important;
+        padding-right: 0px !important;
+        padding-left: 0px !important;
+        background-color: #1a58af;
+        border-top-left-radius: 0px;
+        border-top-right-radius: 0px;
+        border-bottom-right-radius: 0px;
+        border-bottom-left-radius: 0px;
+        animation-name: show-of-original-zirmenu;
+        animation-duration: 1000ms;
+    }
+    #style-of-zirmenu-of-tamirat {
+        position: fixed;
+        top: 8%;
+        right: 10%;
+        display: none;
+    }
+    @keyframes show-of-original-zirmenu {
+        0%{
+            top: 15%;
+        }
+        100%{
+            top: 8%;
+        }
+    }
+    #style-of-zirmenu-of-tamirat4{
+        position: fixed;
+        top: 16%;
+        right: 24%;
+        display: none;
+        margin-top: 4.5% !important;
+        margin-bottom: 25px !important;
+        margin-right: 25px !important;
+        margin-left: 25px !important;
+        padding-top: 10px !important;
+        padding-bottom: 10px !important;
+        padding-right: 0px !important;
+        padding-left: 0px !important;
+        background-color: #1a58af;
+        border-top-left-radius: 0px;
+        border-top-right-radius: 0px;
+        border-bottom-right-radius: 0px;
+        border-bottom-left-radius: 0px;
+        border-top-left-radius: 0px;
+        border-top-right-radius: 0px;
+        animation-name: showkadrmakhsostbe;
+        animation-duration:1000ms;
+    }
+}
+@media only screen and (max-width: 400px){
+    .display-none-400{
+        display: none !important;
+    }
+}
+@media only screen and (max-width: 1000px){
+        /* blog styles  */
+        .blog-title{
+            color: brown;
+            font-family: iransans;
+            direction: rtl;
+        }
+        .blog-titr{
+            color: #fff;
+            font-family: iransans;
+            text-align: center;
+            font-size: 25px;
+            background-color: #0d22dfb7;
+            padding-top: 10px;
+            padding-bottom: 10px;
+            direction: rtl;
+        }
+        .blog-text-p{
+            color: black;
+            font-family: iransans;
+            font-size: 12px;
+            text-align: justify;
+            padding-right: 50px;
+            direction: rtl;
+            margin-left: 50px;
+        }
+        .blog-text-titr{
+            color: rgb(187, 168, 0);
+            font-family: iransans;
+            font-size: 20px;
+            text-align: center;
+            padding-right: 15px;
+            direction: rtl;
+        }
+        .blog-alarm{
+            color: red;
+            font-family: iransans;
+            font-size: 12px;
+            text-align: center;
+            padding-right: 25px;
+            direction: rtl;
+            border: red 3px solid;
+            border-radius: 15px;
+            margin-left: 30px;
+            margin-right: 30px;
+        }
+        .blog-tabliq-gif{
+            width: 70%;
+            text-align: center;
+            margin-left: 14%;
+            margin-top: 20px;
+            margin-bottom: 20px;
+        }
+        /* end blog styles  */
+    .style-of-rah-haye-ertebaty-gif{
+        width: 100%;
+        border: green solid 10px;
+        border-radius:10px;
+    }
+    .style-of-rah-haye-ertebaty-gif2{
+        width: 100% !important;
+        border: green solid 10px;
+        border-radius:20px;
+    }
+    .style-sharayet-garanty-img{
+        width: 80%;
+        margin-left: 9%;
+
+    }
+    .style-of-footer-asli-title{
+        color: white;
+        font-size: 60px;
+        font-family: iransans;
+        text-align: center;
+        background-color: black;
+    }
+    .style-of-footer-copyright{
+        color: rgb(146, 146, 146);
+        font-size: 40px !important;
+        font-family: iransans;
+        text-align: center;
+        background-color: black;
+    }
+    .style-of-footer-made-by-ITROSOFT{
+        color: #2bc607;
+        font-size: 40px !important;
+        font-family: iransans;
+        text-align: center;
+        background-color: black;
+        direction: rtl;
+        animation-name: change-text-color-of-footer-made-by-ITROSOFT;
+        animation-duration: 1000ms;
+        animation-iteration-count: infinite;
+        text-decoration: none;
+        margin: 0%;
+        padding: 0%;
+    }
+    .style-of-footer-made-by-ITROSOFT :hover{
+        color: red !important;
+        text-shadow: rgb(161, 206, 0) 2px 2px 2px;
+        font-size: 40px;
+        stroke: white;
+        stroke-width: 2200000000000000000000000000000000000px;
+        stroke-linecap: round;
+    }
+    .style-of-footer-hr{
+        border: white solid 50px !important;
+        height: 10px;
+        color: white !important;
+    }
+    .style-of-footer-title{
+        color: white;
+        font-size: 60px !important;
+        font-family: iransans;
+        text-align: center;
+        background-color: black;
+        margin: 0%;
+        padding: 0%;
+        padding-top:    40px;
+        padding-bottom: 40px;
+        float: left;
+        width: 100%;
+    }
+    .style-of-footer-email{
+        color: rgb(0, 51, 218);
+        font-size: 22px;
+        font-family: iransans;
+        text-align: center;
+        background-color: black;
+    }
+    .style-of-footer-address{
+        color: white;
+        font-size: 40px !important;
+        font-family: iransans;
+        text-align: center;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .style-of-footer-logo{
+        width: 50%;
+    }
+    .style-of-footer-a{
+        text-decoration: none;
+    }
+    .style-of-footer-td{
+        width: 33% !important;
+        margin: 0% !important;
+        padding: 0% !important;
+    }
+    
+    .style-of-ItemTamirat-radif{
+        display: inline !important;
+        margin-top: 30px !important;
+        
+    }
+
+    .style-of-original-page-item-in-menu-for-mo{
+        color: #32ec08;
+    }
+    .style-of-original-title-why-this-co{
+        width: 100%;
+        float: left;
+    }
+    .styles-of-first-logo-in-all-pages-1{
+        width: 50%;
+        margin-left: 24%;
+    }
+    .styles-of-first-logo-in-all-pages-2{
+        width: 100%;
+    }
+    .style-of-hr-in-bottom-of-first-logo-in-all-pages{
+        background-color: blue;
+        height: 5px !important;
+        opacity: 1;
+    }
+    .styles-of-slide-show{
+        width: 100% !important;
+        background-image: url(img/slide\ show/1.jpg);
+        background-size: 100% !important;
+        background-clip:padding-box;
+        animation-name: avazshdanaxhayslideshow;
+        animation-duration: 40000ms !important;
+        animation-iteration-count: infinite;
+    }
+    .style-of-moarefi-shoql{
+        color: white;
+        background-color: #1a58af;
+        text-align: center;
+        padding-top: 10px;
+        padding-bottom: 20px;
+        padding-left: 30px;
+        padding-right: 30px;
+        font-family: iransans;
+        line-height: 60px;
+        font-size: 40px;
+        direction: rtl;
+        margin: 0 !important;
+    }
+    .style-of-moarefi-shoql2{
+        color: white;
+        background-color: #1a58af;
+        text-align: center;
+        padding-top: 20px;
+        padding-bottom: 10px;
+        padding-left: 30px;
+        padding-right: 30px;
+        font-family: iransans;
+        line-height: 60px;
+        font-size: 30px;
+        direction: rtl;
+        margin: 0 !important;
+    }
+    .style-of-moarefi-shoql3{
+        color: white;
+        background-color: #1a58af;
+        text-align: center;
+        padding-top: 40px;
+        padding-bottom: 40px;
+        padding-left: 30px;
+        padding-right: 30px;
+        font-family: iransans;
+        line-height: 60px;
+        font-size: 30px;
+        direction: rtl;
+        margin: 0 !important;
+    }
+    .style-of-shoar-img-in-index{
+        width: 100%;
+        border-radius: 10px;
+    }
+    .style-of-entekhab-brand{
+        color: white;
+        background-color: #1a58af;
+        text-align: center;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        font-family: iransans;
+        line-height: 60px;
+        font-size: 45px;
+        /* animation-name: taqir-BackgroundColor-az-blue-be-sabz;
+        animation-duration: 2000ms;
+        animation-iteration-count: infinite; */
+    }
+    .style-of-moarfi-kar-hayy-ke-anjam-myshan-mo{
+        text-decoration: none;
+    }
+    .style-of-moarfi-kar-hayy-ke-anjam-myshan-text-mo{
+        color: gray;
+        font-size: 60px;
+        font-family: iransans;
+        display: block;
+        text-align: center;
+        text-decoration: none;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        border-bottom: rgba(128, 128, 128, 0.671) solid 1px;
+        border-top: rgba(128, 128, 128, 0.671) solid 1px;
+    }
+    .trn1{
+        animation-duration: 15000ms;
+        animation-name: trn1;
+        animation-iteration-count: infinite;
+    }
+    .trn2{
+        animation-duration: 15000ms;
+        animation-name: trn2;
+        animation-iteration-count: infinite;
+    }
+    .trn3{
+        animation-duration: 15000ms;
+        animation-name: trn3;
+        animation-iteration-count: infinite;
+    }
+    .trn4{
+        animation-duration: 15000ms;
+        animation-name: trn4;
+        animation-iteration-count: infinite;
+    }
+    .trn5{
+        animation-duration: 15000ms;
+        animation-name: trn5;
+        animation-iteration-count: infinite;
+    }
+    .trn6{
+        animation-duration: 15000ms;
+        animation-name: trn6;
+        animation-iteration-count: infinite;
+    }
+    .trn7{
+        animation-duration: 15000ms;
+        animation-name: trn7;
+        animation-iteration-count: infinite;
+    }
+    .trn8{
+        animation-duration: 15000ms;
+        animation-name: trn8;
+        animation-iteration-count: infinite;
+    }
+    .trn9{
+        animation-duration: 15000ms;
+        animation-name: trn9;
+        animation-iteration-count: infinite;
+    }
+    .trn10{
+        animation-duration: 15000ms;
+        animation-name: trn10;
+        animation-iteration-count: infinite;
+    }
+    .style-of-all-brand-img{
+        width: 100% !important;
+        /* display: inline; */
+        padding-left: 4%;
+    }
+    .style-of-all-brand-img2{
+        width: 100% !important;
+        display: inline;
+    }
+    .style-of-brand-img{
+        width: 28%;
+        border: black 3px solid;
+        border-radius: 50% !important;
+        padding: 5px !important;
+        margin-right: 1.5%;
+        margin-bottom: 15px;
+        box-shadow:#2bc607 5px 5px 5px inset;
+        background-color: white;
+        display: inline;
+    }
+    .scale-brand-img{
+        display: inline !important;
+    }
+    .style-of-edame-brand{
+        color: white;
+        background-color: #2bc607;
+        text-align: center;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        font-family: iransans;
+        font-size: 25px;
+        /* animation-name: taqir-BackgroundColor-az-blue-be-sabz;
+        animation-duration: 2000ms;
+        animation-iteration-count: infinite; */
+        margin-left: 30%;
+        margin-right: 30%;
+        border-radius: 20px;
+    }
+    .style-of-ItemTamirat-div{
+        display: inline !important;
+        width: 20% !important;
+        padding: 1% !important;
+    }
+    .style-of-ItemTamirat-img{
+        display: inline !important;
+        width: 38% !important;
+        animation-name: border-ItemTamirat;
+        animation-duration: 10000ms;
+        animation-iteration-count: infinite;
+        border-radius: 10px !important;
+        margin-left: 4%;
+        margin-right: 4%;
+        margin-top: 50px;
+    }
+    .about-brand-title{
+        color: red;
+        font-size: 40px;
+        font-family: iransans;
+        animation-name: color-of-about-brand-title;
+        animation-duration: 2000ms;
+        animation-iteration-count: infinite;
+        text-align: right;
+        border-right:  15px solid rgb(0, 51, 128);
+        border-left:   3px solid rgb(0, 51, 128);
+        border-bottom: 3px solid rgb(0, 51, 128);
+        border-top:    3px solid rgb(0, 51, 128);
+        border-radius: 15px;
+        width: 87%;
+        margin-left: 5%;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-right: 15px;
+        background-color: rgb(47, 255, 255);
+    }
+    .about-brand-text{
+        color: black;
+        text-align: justify;
+        padding-left: 60px;
+        padding-right: 60px;
+        font-size: 20px;
+        font-family: iransans;
+        direction: rtl;
+    }
+    .style-of-vipsabtsefaresh-box{
+        width: 80% !important;
+        margin-left: 9%;
+    }
+    .style-of-vipsabtsefaresh1{
+        background-color: #030441;
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+        text-align: center;
+        padding: 15px !important;
+        color: white;
+        font-family: iransans;
+        font-size: 50px;
+        animation-name: style-ofvipsabtsefaresh1;
+        animation-duration: 2500ms;
+        animation-iteration-count: infinite;
+    }
+    .style-of-vipsabtsefaresh2{
+        background-color: #d8ba10;
+        border-bottom-left-radius: 20px;
+        border-bottom-right-radius: 20px;
+        text-align: center;
+        padding: 15px !important;
+        color: white;
+        font-family: iransans;
+        font-size: 40px;
+        animation-name: style-ofvipsabtsefaresh2;
+        animation-duration: 2500ms;
+        animation-iteration-count: infinite;
+    }
+    .style-of-left-ra{
+        width: 98%;
+        border: #070ac6 solid 10px;
+    }
+    .style-of-mak-box{
+        display: none;
+    }
+    .display-none-1000{
+        display: none !important;
+    }
+    .style-of-mak-box-in-mo{
+        border: white 10px solid;
+        border-radius: 10px;
+        border-top-left-radius: 20px !important;
+        padding-top: 30px;
+        color: white;
+        text-align: center;
+        background-color: #030441;
+    }
+    .style-of-mak-hr-in-mo{
+        opacity: 1;
+        width: 50%;
+        margin-left: 25%;
+        border: #d8ba10 solid 2px;
+    }
+    .fyfytfyttfyfytftyr{
+        width: 100%;
+        height: 384px !important;
+    }
+    .style-of-mak-title-text-in-mo{
+        font-size: 45px;
+        font-family: iransans;
+    }
+    .style-of-mak-mini-title-text-in-mo{
+        font-size: 40px;
+        font-family: iransans;
+    }
+    .style-of-mak-table-in-mo{
+        width: 100%;
+        text-align: center;
+    }
+    .dssdchidshfiueswd{
+        border: white solid 20px;
+        border-top-left-radius: 50px;
+        border-top-right-radius: 20px;
+        background-color: #030441;
+    }
+    .dssdchidshfiueswd2{
+        border: white solid 10px;
+        border-bottom-left-radius: 20px;
+        border-bottom-right-radius: 20px;
+        background-color: #030441;
+    }
+    .style-of-mak-p-in-mo{
+        color: white;
+        text-align: center;
+        font-size: 35px;
+        margin-left: 5%;
+        margin-right: 5%;
+        font-family: iransans;
+    }
+    .display-none-mo{
+        display: none !important;
+    }
+    .style-of-footer-td{
+        width: 100% !important;
+        margin-top: 30px;
+        margin-bottom: 30px;
+        padding: 0% !important;
+    }
+    .style-of-footer-copyright{
+        color: rgb(146, 146, 146);
+        font-size: 15px;
+        font-family: iransans;
+        background-color: black;
+        display: block !important;
+    }
+    .style-of-orginal-brand-image{
+        width: 90%;
+        margin-left: 4%;
+        border-radius: 15px;
+        box-shadow: black 10px 10px 30px;
+    }
+    .styles-of-lg-slide-show{
+        margin-left: 9%;
+        width: 80%;
+        background-size: 100% !important;
+        background-clip:padding-box;
+        animation-name: avazshdanaxhayslideshowLG;
+        animation-duration: 40000ms;
+        animation-iteration-count: infinite;
+    }
+    /* ---------------------------------------------------------------------------------------------------- */
+/* styles of why-this-co */
+    .why-this-co{
+        color: white;
+        background-color: #d8ba10;
+        padding: 20px !important;
+        text-align: center;
+        width: 80% !important;
+        border-radius: 20px;
+        font-size: 50px !important;
+        font-family: iransans;
+        margin-left: 9%;
+    }
+    .style-of-zir-why-this-co-box{
+        display: none;
+    }
+    .style-of-brand-img-in-brand-page{
+        width: 30% !important;
+        margin-left: 34% !important;
+    }
+    .style-of-brand-img-in-brand-page2{
+        width: 35%;
+        border-radius: 50%;
+        margin-left: 32%;
+        border: black solid 7px;
+        animation-name: effect-of-brand-img-in-brand-page;
+        animation-duration: 4000ms;
+        animation-iteration-count: infinite;
+    }
+    .style-of-zir-why-this-co-td{
+        width: 100% !important;
+        margin: 3%;
+        background-color: black;
+    }
+    .style-of-zir-why-this-co-img{
+        width: 15%;
+        display: inline;
+        float: left;
+        padding: 20px;
+    }
+    .style-of-zir-why-this-co-title-text{
+        color: white;
+        font-size: 45px;
+        font-family: iransans;
+        width: 69%;
+        display: inline;
+        text-align: right;
+        float: right;
+        margin: 0%;
+        margin-right: 3% !important;
+    }
+    .style-of-mazit-estfade-az-ma{
+        color: red;
+        direction: rtl;
+        text-align: justify;
+        font-size: 25px;
+        font-family: iransans;
+        padding-right: 30px;
+        padding-left: 30px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        animation-name: color-of-mazit-estefade-az-ma;
+        animation-duration: 2000ms;
+        animation-iteration-count: infinite;
+    }
+    .style-of-mazit-estfade-az-ma-text{
+        color: black;
+        direction: rtl;
+        text-align: justify;
+        font-size: 20px;
+        font-family: iransans;
+        padding-right: 50px;
+        padding-left: 50px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        line-height: 60px;
+        animation-name: color-of-mazit-estefade-az-ma-text;
+        animation-duration: 4000ms;
+        animation-iteration-count: infinite;
+    }
+    .right {
+        width: 100% !important;
+        border: blue solid 3px;
+        padding-top: 50px;
+    }
+    .left {
+        width: 100% !important;
+        display: inline;
+        border-top: blue solid 3px;
+        padding-top: 50px;
+    }
+    .left p {
+        color: black;
+        font-size: 50px;
+        text-align: center;
+        font-family: iransans;
+        animation-name: in-bakhsh-be-zoodi-dar-dastres-khahab-bood-animation;
+        animation-duration: 2000ms;
+        animation-iteration-count: infinite;
+    }
+    .blog-code-style {
+        color: black;
+        font-size: 50px;
+        text-align: center;
+        font-family: iransans;
+        animation-name: in-bakhsh-be-zoodi-dar-dastres-khahab-bood-animation;
+        animation-duration: 2000ms;
+        animation-iteration-count: infinite;
+    }
+    .style-of-zir-why-this-co-text{
+        color: #d8ba10;
+        font-size: 40px;
+        font-family: iransans;
+        text-align: right;
+        float: right;
+        margin: 0%;
+        margin-right: 3% !important;
+    }
+    .style-of-zir-why-this-co-box-mo{
+        width: 100% !important;
+    }
+    .style-of-brand-img-in-lavazem-khangy-page{
+        width: 25%;
+        border: black 3px solid;
+        border-radius: 50% !important;
+        padding: 5px !important;
+        margin-right: 1.8%;
+        margin-left: 3%;
+        margin-bottom: 15px;
+        box-shadow:#2bc607 5px 5px 5px inset;
+        background-color: white;
+    }
+/* end of why-this-co styles */
+/* ---------------------------------------------------------------------------------------------------- */
+    .style-of-title-mak1{
+        color: white;
+        background-color: #030441;
+        text-align: center;
+        font-size: 22px;
+        font-family: iransans;
+        padding: 20px;
+        margin: 0% !important;
+    }
+    .style-of-title-mak2{
+        color: white;
+        background-color: #030441;
+        text-align: center;
+        font-size: 20px;
+        font-family: iransans;
+        padding: 20px;
+        margin: 0% !important;
+    }
+    .style-of-amadegy-aqd-qarardad{
+        background-color: rgb(221, 108, 16);
+        color: white;
+        width: 90%;
+        margin-left: 4%;
+        border-radius: 20px;
+        padding: 10px;
+        font-size: 40px;
+        text-align: center;
+        font-family: iransans;
+        /* animation-name: change-text-color-of-amadegy-aqd-qarardad;
+        animation-duration: 2000ms;
+        animation-iteration-count: infinite; */
+        z-index: 0 !important;
+    }
+
+
+
+
+/* ---------------------------------------------------------------------------------------------------- */
+/* menu styles  */
+    .style-x-in-menu-mo{
+        display: none;
+        width: 8%;
+        padding: 30px;
+        margin-left: 85%;
+    }
+    .style-hamberger-in-menu-mo{
+        display: block;
+        width: 8%;
+        padding: 30px;
+        margin-left: 85%;
+    }
+    .style-of-all-menu{
+        position: fixed !important;
+        top: 0%;
+        background-color: #1a58af !important;
+        width: 100%;
+        display: block;
+        direction: rtl !important;
+        color: white;
+        font-size: 50px;
+        font-family: iransans;
+        padding: 0px !important;
+        margin: 0px !important;
+    }
+    #style-of-all-menu{
+        height: auto;
+    }
+    .display-of-all-menu-in-mo{
+        display: none;
+        padding: 0px !important;
+        margin: 0px !important;
+        width: 100% !important;
+        height: 100% !important;
+    }
+    .display-of-zir-menu-in-mo1{
+        display: none;
+        padding: 0px !important;
+        margin: 0px !important;
+    }
+    .display-of-zir-menu-in-mo2{
+        display: none;
+        padding: 0px !important;
+        margin: 0px !important;
+    }
+    .display-of-zir-menu-in-mo3{
+        display: none;
+        padding: 0px !important;
+        margin: 0px !important;
+    }
+    .display-of-zir-menu-in-mo4{
+        display: none;
+        padding: 0px !important;
+        margin: 0px !important;
+    }
+    .style-of-menu-text-in-mo{
+        color: white;
+        text-decoration: none;
+        font-family: iransans;
+        list-style: none !important;
+        padding: 3px !important;
+        margin: 0px !important;
+    }
+
+    .white-hr{
+        border: white solid 2px;
+    }
+
+
+
+
+
+
+
+
+
+    
+/* end menu styles  */
+/* ---------------------------------------------------------------------------------------------------- */
+
+
+
+
+/* ---------------------------------------------------------------------------------------------------- */
+/* style of naqshe-iran */
+    .style-of-naqshe-iran-box-mo{
+        background-color: #0c489c !important;
+        width: 100% !important;
+    }
+    .style-of-naqshe-iran-box{
+        display: none;
+    }
+    .style-of-naqshe-iran-img{
+        width: 80%;
+        margin: 9% !important;
+        background-color: #0c489c;
+        border-radius:50px;
+        border: white solid 5px;
+    }
+    .style-of-naqshe-iran-title-text{
+        text-align: center;
+        color: white;
+        font-size: 40px;
+        font-family: iransans;
+        text-align: center;
+        background-color: #0c489c !important;
+        font-weight: bold;
+        padding: 0%;
+        margin: 0%;
+        padding-right: 25px !important;
+    }
+    .style-of-naqshe-iran-mini-title-text{
+        text-align: center;
+        font-size: 50px;
+        font-family: iransans;
+        color: white;
+        text-align: center;
+        background-color: #0c489c !important;
+        font-weight: bold;
+        padding: 0%;
+        margin: 0%;
+        margin-left: 25%;
+        border-bottom: white solid 2px;
+        width: 45%;
+    }
+    .style-of-naqshe-iran-text{
+        text-align: center;
+        font-size: 24px;
+        font-family: iransans;
+        color: white;
+        text-align: center;
+        background-color: #0c489c !important;
+        font-weight: bold;
+        padding-right: 25px;
+        padding-left: 25px;
+    }
+/* end style of naqshe-iran */
+/* ---------------------------------------------------------------------------------------------------- */
+.style-of-new-news{
+        color: black;
+        background-color: #d8ba10;
+        font-size: 25px;
+        font-family: iransans;
+        padding: 20px;
+        text-align: center;    
+        /* animation-name: change-color-text-of-new-news;    
+        animation-duration: 2000ms;
+        animation-iteration-count: infinite; */
+    }
+    .style-of-new-news-table-box-mo{
+        width: 100%;
+    }
+    .style-of-new-news-table-box{
+        display: none;
+    }
+    .style-of-new-news-td{
+        width: 49% !important;                         
+    }
+    .animation-of-title-brand{
+        color: #2bc607;
+        text-align: center;
+        padding-top:    10px;
+        padding-bottom: 10px;
+        padding-left: 30px;
+        padding-right: 30px;
+        font-family: iransans;
+        line-height: 60px;
+        font-size: 60px;
+        direction: rtl;
+        animation-name: animation-of-title-brand;
+        animation-duration: 5000ms;
+        animation-iteration-count: infinite;
+        text-shadow: rgb(219, 6, 184) 2px 2px 5px;
+    }
+    .style-of-factory-img-in-brand-page{
+        width: 40%;
+        margin-left: 4%;
+        margin-right: 4%;
+    }
+    .styles-of-WM-slide-show{
+        width: 100% !important;
+        background-size: 100% !important;
+        background-clip:padding-box;
+        animation-name: avazshdanaxhayslideshowWM;
+        animation-duration: 40000ms !important;
+        animation-iteration-count: infinite;
+    }
+    .style-of-re-hr{
+        color: green;
+        opacity: 1;
+        border: 5px solid green;
+    }
+    .style-of-new-news-img{
+        width: 90% !important;
+        margin: 5%;
+        border: black 5px solid;
+        border-radius: 20px;
+        background-image: linear-gradient(#00fffc, #ffffff);
+        animation-name: change-background-image-of-new-news-img;
+        animation-duration: 40000ms;
+        animation-iteration-count: infinite;
+    }
+    .style-of-new-news-tr{
+        width: 100% !important;
+    }
+
+    @keyframes trn1 {
+        0% {
+            background-color: #2fff00;
+            color: white;
+        }
+        10% {
+            background-color: #2fff00;
+            color: white;
+        }
+        11% {
+            background-color: white;
+        }
+        100% {
+            background-color: white;
+        }
+    }
+    @keyframes trn2 {
+        0% {
+            background-color: white;
+        }
+        10% {
+            background-color: white;
+        }
+        11% {
+            background-color: #29dd00;
+    
+            color: white;
+        }
+        20% {
+            background-color: #29dd00;
+    
+            color: white;
+        }
+        21% {
+            background-color: white;
+        }
+        100% {
+            background-color: white;
+        }
+    }
+    @keyframes trn3 {
+        0% {
+            background-color: white;
+        }
+        20% {
+            background-color: white;
+        }
+        21% {
+            background-color: #23be00;
+    
+            color: white;
+        }
+        30% {
+            background-color: #23be00;
+    
+            color: white;
+        }
+        31% {
+            background-color: white;
+        }
+        100% {
+            background-color: white;
+        }
+    }
+    @keyframes trn4 {
+        0% {
+            background-color: white;
+        }
+        30% {
+            background-color: white;
+        }
+        31% {
+            background-color: #1da000;
+    
+            color: white;
+        }
+        40% {
+            background-color: #1da000;
+    
+            color: white;
+        }
+        41% {
+            background-color: white;
+        }
+        100% {
+            background-color: white;
+        }
+    }
+    @keyframes trn5 {
+        0% {
+            background-color: white;
+        }
+        40% {
+            background-color: white;
+        }
+        41% {
+            background-color: #188300;
+    
+            color: white;
+        }
+        50% {
+            background-color: #188300;
+    
+            color: white;
+        }
+        51% {
+            background-color: white;
+        }
+        100% {
+            background-color: white;
+        }
+    }
+    @keyframes trn6 {
+        0% {
+            background-color: white;
+        }
+        50% {
+            background-color: white;
+            
+        }
+        51% {
+            background-color: #166e03;
+    
+            color: white;        
+        }
+        60% {
+            background-color: #166e03;
+    
+            color: white;
+        }
+        61% {
+            background-color: white;
+        }
+        100% {
+            background-color: white;
+        }
+    }
+    @keyframes trn7 {
+        0% {
+            background-color: white;
+        }
+        60% {
+            background-color: white;
+        }
+        61% {
+            background-color: #135c02;
+    
+            color: white;
+        }
+        70% {
+            background-color: #135c02;
+    
+            color: white;
+        }
+        71% {
+            background-color: white;
+        }
+        100% {
+            background-color: white;
+        }
+    }
+    @keyframes trn8 {
+        0% {
+            background-color: white;
+        }
+        70% {
+            background-color: white;
+        }
+        71% {
+            background-color: #154d08;
+    
+            color: white;
+        }
+        80% {
+            background-color: #154d08;
+    
+            color: white;
+        }
+        81% {
+            background-color: white;
+        }
+        100% {
+            background-color: white;
+        }
+    }
+    @keyframes trn9 {
+        0% {
+            background-color: white;
+        }
+        80% {
+            background-color: white;
+        }
+        81% {
+            background-color: #144409;
+    
+            color: white;
+        }
+        90% {
+            background-color: #144409;
+    
+            color: white;
+        }
+        91% {
+            background-color: white;
+        }
+        100% {
+            background-color: white;
+        }
+    }
+    @keyframes trn10 {
+        0% {
+            background-color: white;
+        }
+        90% {
+            background-color: white;
+        }
+        91% {
+            background-color: #0d3105;
+            color: white;
+        }
+        100% {
+            background-color: #0c2b06;
+            color: white;
+        }
+    }
+    @keyframes change-color-sabt-sefaresh-in-menu {
+        0% , 100% {
+            color: white;
+            border: red solid 10px;
+            border-radius: 20px;
+        }
+        50% {
+            color: red;
+            border: white solid 10px;
+            border-radius: 20px;
+        }
+    }
+}
+@keyframes hide-menu-desktop {
+    0% {
+        left: 0%;
+    }
+    100%{
+        left: 100%;
+    }
+}
+
+#hidemenudesktop{
+    left: 0%;
+}
+
+@keyframes show-menu-desktop {
+    0% {
+        left: 100%;
+    }
+    100%{
+        left: 0%;
+    }
+}
+
+@keyframes show-menu-button {
+    0%{
+        right: 100%;
+    }
+    100%{
+        right: 0%;
+    }
+}
+@keyframes hide-menu-button {
+    0%{
+        right: 0%;
+        background-color: #1a58af;
+    }
+    100%{
+        right: 100%;
+        background-color: #c60707;
+    }
+}
+
+@keyframes up-margin-top-first-logo {
+    0% {
+        margin-top: 10px;
+    }
+    100%{
+        margin-top: 100px;
+    }
+}
+
+#slider {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    z-index: 0;
+}
+
+#slider img{
+    width: 100%;
+}
+
+.slide {
+    animation: effect-slide-show 1s;
+    display: none;
+}
+@keyframes effect-slide-show {
+    0%{
+        opacity: 1;
+    }
+
+    100%{
+        opacity: 1;
+    }
+}
+.slide.activate{
+    display: block;
+}
+.prev , .next {
+    color: #fff;
+    text-decoration: none;
+    font-size: 80px;
+    position: absolute;
+    top: 50%;
+    transform: translate(0,-50%);
+    text-shadow: black 5px 5px 10px;
+}
+
+.prev{
+    left: 2%;
+}
+
+
+.next{
+    right: 2%;
+}
+
+@keyframes rotate-right-left-img {
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+@keyframes effect-of-brand-img-in-lavazem-khangy-page {
+    0% , 100%{
+        box-shadow:#2bc607 5px -5px 5px;
+    }
+    50% {
+        box-shadow:#4872ff -5px 5px 5px;
+    }
+    25% {
+        box-shadow:#ff1818 -5px -5px 5px;
+    }
+    75% {
+        box-shadow:#b2c505 5px 5px 5px; 
+    }
+    
+}
+@keyframes effect-of-brand-img-in-brand-page {
+    0% , 100%{
+        box-shadow:#2bc607 10px -10px 10px;
+    }
+    50% {
+        box-shadow:#4872ff -10px 10px 10px;
+    }
+    25% {
+        box-shadow:#ff1818 -10px -10px 10px;
+    }
+    75% {
+        box-shadow:#b2c505 10px 10px 10px; 
+    }
+    
+}
+@keyframes color-of-mazit-estefade-az-ma {
+    0% , 100%{
+        color: #2bc607;
+    }
+    50%{
+        color: #1a58af;
+    }
+}
+@keyframes color-of-mazit-estefade-az-ma-text {
+    0% , 100%{
+        color: #030d68;
+    }
+    50%{
+        color: #08630c;
+    }
+}
+@keyframes color-of-about-brand-title {
+    0% , 100%{
+        color: #0d22df;
+    }
+    50%{
+        color: #ee0a15;
+    }
+}
+@keyframes in-bakhsh-be-zoodi-dar-dastres-khahab-bood-animation {
+0% , 100% {
+    color: blue;
+}
+50% {
+    color: green;
+}
+}
+@keyframes animation-of-title-brand {
+0% , 100% {
+    color: #2bc607;
+}
+}
+@keyframes change-background-image-of-new-news-img {
+0% ,100%{
+    background-image: repeating-radial-gradient(#ffffff , #00fffbc2 60%);
+}
+25%{
+    background-image: repeating-radial-gradient(#ffffff , #ffd000bd 60%);
+}
+50%{
+    background-image: repeating-radial-gradient(#ffffff , #3cff00bb 60%);
+}
+75%{
+    background-image: repeating-radial-gradient(#ffffff , #c90f0fc4 60%);
+}
+}
+@keyframes change-color-text-of-new-news {
+0% , 100%{
+    color: white;
+}
+50% {
+    color: black;
+}
+}
+@keyframes change-text-color-of-amadegy-aqd-qarardad {
+0%, 100% {
+   background-color: rgb(248, 12, 12); 
+}
+50%{
+   background-color: rgb(221, 108, 16);
+}
+}
+@keyframes style-ofvipsabtsefaresh1 {
+0% , 100%{
+    background-color: #030441;
+}
+50%{
+    background-color: #d8ba10;
+}
+}
+@keyframes style-ofvipsabtsefaresh2 {
+0% , 100%{
+    background-color: #d8ba10;
+}
+50%{
+    background-color: #030441;
+}
+}
+@keyframes border-ItemTamirat {
+0%{
+    border: #2bc607 solid 6px;
+    box-shadow: #585858 5px 5px 5px;
+}
+25%{
+    border: #070ac6 solid 6px;
+    box-shadow: #585858 5px 5px 5px;
+}
+50%{
+    border: #eeea08 solid 6px;
+    box-shadow: #585858 5px 5px 5px;
+}
+75%{
+    border: #c60707 solid 6px;
+    box-shadow: #585858 5px 5px 5px;
+}
+100%{
+    border: #2bc607 solid 6px;
+    box-shadow: #585858 5px 5px 5px;
+}
+}
+/* @keyframes border-right-left-img {
+    0%{
+        border: #2bc607 solid 3px;
+        box-shadow: #585858 5px 5px 5px;
+    }
+    25%{
+        border: #070ac6 solid 3px;
+        box-shadow: #585858 5px 5px 5px;
+    }
+    50%{
+        border: #eeea08 solid 3px;
+        box-shadow: #585858 5px 5px 5px;
+    }
+    75%{
+        border: #c60707 solid 3px;
+        box-shadow: #585858 5px 5px 5px;
+    }
+    100%{
+        border: #2bc607 solid 3px;
+        box-shadow: #585858 5px 5px 5px;
+    }
+    } */
+@keyframes rotate-ItemTamirat-img {
+0%{
+    transform: scale(0.9);
+    border: #0dd4e2 solid 6px;
+    box-shadow: #585858 5px 5px 5px;
+}
+100%{
+    transform: scale(0.9);
+    border: #0dd4e2 solid 6px;
+    box-shadow: #585858 5px 5px 5px;
+}
+}
+@keyframes display-first-img {
+0%{
+    display: block;
+}
+20%{
+    display: none;
+}
+80% {
+    display: none;
+}
+100% {
+    display: block;
+}
+}
+@keyframes changebrandimg {
+0% {
+    transform: scale(1);
+}
+50%{
+    transform: scale(1.8);
+}
+100%{
+    transform: scale(1);
+}
+}
+@keyframes taqir-BackgroundColor-az-blue-be-sabz {
+0%{
+    background-color: #1a58af;
+}
+50%{
+    background-color: #2bc607;
+}
+}
+@keyframes avazshdanaxhayslideshow {
+0%{
+    background-image: url(img/slide\ show/1.jpg);
+}
+5%{
+    background-image: url(img/slide\ show/1.jpg);
+}
+10%{
+    background-image: url(img/slide\ show/2.jpg);
+}
+15%{
+    background-image: url(img/slide\ show/2.jpg);
+}
+20%{
+    background-image: url(img/slide\ show/3.jpg);
+}
+25%{
+    background-image: url(img/slide\ show/3.jpg);
+}
+30%{
+    background-image: url(img/slide\ show/4.jpg);
+}
+35%{
+    background-image: url(img/slide\ show/4.jpg);
+}
+40%{
+    background-image: url(img/slide\ show/5.jpg);
+}
+45%{
+    background-image: url(img/slide\ show/5.jpg);
+}
+50%{
+    background-image: url(img/slide\ show/6.jpg);
+}
+55%{
+    background-image: url(img/slide\ show/6.jpg);
+}
+60%{
+    background-image: url(img/slide\ show/7.jpg);
+}
+65%{
+    background-image: url(img/slide\ show/7.jpg);
+}
+70%{
+    background-image: url(img/slide\ show/8.jpg);
+}
+75%{
+    background-image: url(img/slide\ show/8.jpg);
+}
+80%{
+    background-image: url(img/slide\ show/9.jpg);
+}
+85%{
+    background-image: url(img/slide\ show/9.jpg);
+}
+90%{
+    background-image: url(img/slide\ show/10.jpg);
+}
+95%{
+    background-image: url(img/slide\ show/10.jpg);
+}
+100%{
+    background-image: url(img/slide\ show/1.jpg);
+}
+}
+@keyframes avazshdanaxhayslideshowWM {
+0%{
+    background-image: url(img/slide\ show/WM/1.jpg);
+}
+10%{
+    background-image: url(img/slide\ show/WM/1.jpg);
+}
+20%{
+    background-image: url(img/slide\ show/WM/2.jpg);
+}
+30%{
+    background-image: url(img/slide\ show/WM/2.jpg);
+}
+40%{
+    background-image: url(img/slide\ show/WM/3.jpg);
+}
+50%{
+    background-image: url(img/slide\ show/WM/3.jpg);
+}
+60%{
+    background-image: url(img/slide\ show/WM/4.jpg);
+}
+70%{
+    background-image: url(img/slide\ show/WM/4.jpg);
+}
+80%{
+    background-image: url(img/slide\ show/WM/5.jpg);
+}
+90%{
+    background-image: url(img/slide\ show/WM/5.jpg);
+}
+100%{
+    background-image: url(img/slide\ show/WM/1.jpg);
+}
+}
+@keyframes avazshdanaxhayslideshowLG {
+0%{
+    background-image: url(img/slide\ show/lg/1.jpg);
+}
+6.25%{
+    background-image: url(img/slide\ show/lg/1.jpg);
+}
+12.5%{
+    background-image: url(img/slide\ show/lg/2.jpg);
+}
+18.75%{
+    background-image: url(img/slide\ show/lg/2.jpg);
+}
+25%{
+    background-image: url(img/slide\ show/lg/3.jpg);
+}
+31.25%{
+    background-image: url(img/slide\ show/lg/3.jpg);
+}
+37.5%{
+    background-image: url(img/slide\ show/lg/4.jpg);
+}
+43.75%{
+    background-image: url(img/slide\ show/lg/4.jpg);
+}
+50%{
+    background-image: url(img/slide\ show/lg/5.jpg);
+}
+56.25%{
+    background-image: url(img/slide\ show/lg/5.jpg);
+}
+62.5%{
+    background-image: url(img/slide\ show/lg/6.jpg);
+}
+68.75%{
+    background-image: url(img/slide\ show/lg/6.jpg);
+}
+75%{
+    background-image: url(img/slide\ show/lg/7.jpg);
+}
+81.25%{
+    background-image: url(img/slide\ show/lg/7.jpg);
+}
+87.5%{
+    background-image: url(img/slide\ show/lg/8.jpg);
+}
+93.75%{
+    background-image: url(img/slide\ show/lg/8.jpg);
+}
+100%{
+    background-image: url(img/slide\ show/lg/1.jpg);
+}
+}
+
+
+
+@keyframes solid-animation {
+0% {
+    opacity: 1;
+}
+100% {
+    opacity: 1;
+}
+}
+
+.display-inline{
+display: inline;
+}
+.display-none{
+display: none;
+}
+
+
+body{
+    overflow-x: hidden !important;
+    width: 100% !important;
+}
+
+
+/* 404 styles  */
+@media only screen and (min-width: 1000px){
+    .style-of-404-main-text{
+        color: #0479d8;
+        text-align: center;
+        font-size: 80px;
+        font-family: iransans;
+    }
+    .style-of-404-text{
+        color: black;
+        font-family: iransans;
+        text-align: center;
+        font-size: 25px;
+    }
+    .style-of-404-text2{
+        color: red;
+        font-family: iransans;
+        text-align: center;
+        font-size: 25px;
+    }
+    .style-of-mianbor-on-404-page{
+        text-decoration: none;
+        padding: 25px;
+        font-family: iransans;
+        color: #010cad;
+        text-align: center !important;
+    }
+    }
+    @media only screen and (max-width: 1000px){
+    .style-of-404-main-text{
+        color: #0479d8;
+        text-align: center;
+        font-size: 80px;
+        font-family: iransans;
+    }
+    .style-of-404-text{
+        color: black;
+        font-family: iransans;
+        text-align: center;
+        font-size: 25px;
+    }
+    .style-of-404-text2{
+        color: red;
+        font-family: iransans;
+        text-align: center;
+        font-size: 25px;
+    }
+    .style-of-mianbor-on-404-page{
+        text-decoration: none;
+        padding: 5%;
+        font-size: 30px;
+        color: #010cad;
+        text-align: center !important;
+        font-family: iransans;
+    }
+    .style-of-404-td{
+        width: 50% !important; 
+        padding-top: 25px;
+        padding-bottom: 25px;
+    }
+    .style-of-404-tr{
+        width: 100% !important; 
+    }
+    }
+/* end 404 styles  */
