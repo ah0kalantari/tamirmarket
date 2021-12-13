@@ -2,13 +2,13 @@
 <html lang="en-fa" >
 <head>
     <meta charset="UTF-8">
-    <meta name="description" content="خدمات پس از فروش لوازم خانگی سانیاران در زمینه تعمیرات تخصصی انواع لوازم خانگی و برد های الکترونیکی با متخصصان با تجربه آماده خدمت رسانی به شماست.">
+    <meta name="description" content="تعمیر مارکت در زمینه تعمیرات تخصصی انواع لوازم خانگی و برد های الکترونیکی با متخصصان با تجربه آماده خدمت رسانی به شماست.">
     <link rel="stylesheet" href="css/css.min.css">
     <link rel="stylesheet" href="ItroDesign.min.css">
     <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
     <meta name="keywords" content=" ارج - تعمیر - تعمیرات - رفع - ایراد - ایرادات - مشکل - وسیله ی مورد نظر - ماشین - دوقلو - درب - از - بالا - در - استان - تهران - البرز - کرج - خشک - کن - دار-اتوماتیک - تعمیر مارکت - تعمیرگاه - خدمات - مجاز - مرکزی - سرویس - نصب - جاده - چالوس - زنبق -عظیمیه -بعثت - طالقانی - شمالی - طالقانی - جنوبی - میدان - اسبی - میدان - مهران - بلوار - کاج - پامچال - شمالی - پامچال - جنوبی - برغان - اسلام - اباد - آباد - ازادگان - آزادگان - حسن - اباد- آباد - نواب - مطهری - میدان - نبوت - بلوار - جمهوری - شمالی - بلوار - جمهوری - جنوبی - بلوار - موذن - اشتراکی - شمالی - اشتراکی - جنوبی - کوی - پیروزی - شهرک - بهارستان - ملکشاه - بلوار - امام - رضا - بلوار - ملاصدرا - ملا صدرا - جهانشهر - کسری - شمالی - کسری - جنوبی - بلوار - ماهان - بلوار - بهارستان - فرمانداری - رجایی - شهر - گوهر - دشت - بلوار - رستاخیز - بلوار - شهرداری - بلوار - انقلاب - اوقافی - محمود - اباد - باغستان - باغستان - غربی - خیابان - قلم - بنیاد - شاهین - ویلا - جواد - اباد - کوی - داریوش - شهرک - یاس - حصارک - بالا - حصارک - پایین - کمال - اباد - خرمدشت - پیشاهنگی - نظر - اباد - هشتگرد - شهرک - رازی - مهر - شهر- بلوار - ارم - حسین - اباد - مهرشهر - کیانمهر - فاز - 4 - مهر - شهر - 45 -متری - گلشهر - شهرک - مترو- شهرک - پردیسان - شهرک - سلمان - فارسی - دهقان - ویلای - اول - دهقان - ویلای - دوم - میانجاده - حیدر - اباد - کرج - نو - سه - راه - گوهر - دشت - بلوار - سه - باندی - کوی - داریوش - زمین - های - خانم - انصاری - کوی - کارمندان - شمالی - کوی - کارمندان - جنوبی - مهر - ویلا - بلوار - دانش - اموز - دولت - اباد - چهار - صد - دستگاه - هفت - تیر - محمد - شهر - شهرک - مهندسی - زراعی - فردیس - شهرک - وحدت - شهرک - منظریه - ساسانی - فردوسی - رزکان - نو - قلمستان - مصباح - کلاک - بالا - کلاک - پایین - کلاک -  شهرداری - گرمدره - شهرک - جهان - نما - شهرک - خاتم - حسین - آباد - راهن - راه - آهن - اهن - جاده - چالوس - زنبق - عظیمیه - بعثت - طالقانی - شمالی - طالقانی - جنوبی - میدان - اسبی - میدان - مهران - بلوار - کاج - پامچال - شمالی - پامچال - جنوبی - برغان - اسلام - اباد - ازادگان - حسن - اباد - نواب - مطهری - میدان - نبوت - بلوار - جمهوری - شمالی - بلوار - جمهوری - جنوبی - بلوار - موذن - اشتراکی - شمالی - اشتراکی - جنوبی - کوی - پیروزی - شهرک - بهارستان - ملکشاه - بلوار - امام - رضا - بلوار - ملا - صدرا - ملاصدرا - جهانشهر - کسری - شمالی - کسری - جنوبی - بلوار - ماهان - بلوار - بهارستان - فرمانداری - رجایی - شهر - گوهر - دشت - بلوار - رستاخیز - بلوار - شهرداری - بلوار - انقلاب - اوقافی - محمود - اباد - باغستان - باغستان - غربی - خیابان - قلم - بنیاد - شاهین - ویلا - جواد - اباد - کوی - داریوش - شهرک - یاس - حصارک - بالا - حصارک - پایین - کمال - اباد - خرمدشت - پیشاهنگی - نظر - اباد - هشتگرد - شهرک - رازی - مهر - شهر - بلوار - ارم - حسین - اباد - مهر - شهر - کیانمهر - کیان - مهر - فاز - چهار - 4 - مهر - شهر - 45متری - چهل - و- پنج - متری - گلشهر - شهرک - مترو - شهرک - پردیسان - شهرک - سلمان - فارسی - دهقان - ویلای - اول - دهقان - ویلای - دوم - میانجاده - حیدر - اباد - کرج - نو - سه - راه - گوهر - دشت - بلوار - سه - باندی - کوی - داریوش - زمین - های - خانم - انصاری - کوی - کارمندان - شمالی - کوی - کارمندان - جنوبی - مهر - ویلا - بلوار - دانش - اموز - آموز - دولت - اباد - چهار - صد - دستگاه - هفت - تیر - محمد - شهر - شهرک - مهندسی - زراعی - فردیس - شهرک - وحدت - شهرک - منظریه - ساسانی - فردوسی - رزکان - نو - قلمستان - مصباح - کلاک - بالا - کلاک -پایین - کلاک - شهرداری - گرمدره - شهرک - جهان - نما - شهرک - خاتم - حسین - آباد - راهن - منیریه - گمرک - نازی‌ - آباد - خانی‌ - آباد - خزانه - کیان‌ - شهر - بریانک - پیروزی - نیرو - هوایی - صفا - افسریه - بهارستان - دروازه - شمیران - شکوفه - مشیریه - شهر - ری - نازی - آباد - میدان - خراسان - خاوران - سعادت - آباد - شهرک - غرب - پونک - جی - باغ فیض - شهران - ستارخان - صادقیه - گیشا - اکباتان - سردار - جنگل - کاشانی - المپیک - آزادی - درکه - تهرانسر - شهرآرا - شهرزیبا - مرزداران - فردوس - اوین - ایوانک - نیاوران - دزاشیب - پاسداران - فرمانیه - ازگل - ارتش - تجریش - زعفرانیه - قیطریه - چیذر - اختیاریه - قلهک - ظفر - میرداماد - جردن - نوبنیاد - نو بنیاد - شریعتی - هفت تیر - یوسف آباد - سهروردی - وزرا - الهیه - گاندی - تهرانپارس - حکیمیه - رسالت - هفت - حوض - سراج - دلاوران - شمیران - نو - هنگام - نارمک - مجیدیه - بهار - سبلان - دردشت - نظام - آباد - علم - و - صنعت - پیروزی - پلیس - کرمان - مدنی - امام - حسین - تهران - نو">
     
-    <title> تعمیرات یخچال / فریزر تعمیر مارکت | saniaran service Washing Machine repair</title>
+    <title> تعمیرات یخچال / فریزر تعمیر مارکت | Tamir Market Washing Machine repair</title>
 </head>
 <body class="styles-of-body-tag">
         <header class="position-of-menu style-of-menu">
@@ -158,19 +158,21 @@
     <p id="show-menu-button" onclick="show_menu_desktop()" class="style-show-menu-button"> < </p>
     <div class="first-logo-styles">
          
-        <img class="display-inline styles-of-first-logo-in-all-pages-1" src="img/firstlogo/لوگوی تعمیر مارکت.png"             alt="saniaran service تعمیر مارکت">
-        <img class="display-inline styles-of-first-logo-in-all-pages-2" src="img/firstlogo/تعمیر مارکت.png" alt="saniaran service تعمیر مارکت">
+        <img class="display-inline styles-of-first-logo-in-all-pages-1" src="img/firstlogo/لوگوی تعمیر مارکت.png"             alt="Tamir Market تعمیر مارکت">
+        <img class="display-inline styles-of-first-logo-in-all-pages-2" src="img/firstlogo/تعمیر مارکت.png" alt="Tamir Market تعمیر مارکت">
         <hr class="style-of-hr-in-bottom-of-first-logo-in-all-pages">
     </div>
     <br>
-    <h1 class="style-of-moarefi-shoql">
-        خدمات پس از فروش لوازم خانگی سانیاران
-    </h1>
-    <h2 class="style-of-moarefi-shoql2">
-        مرکز تخصصی تعمیرات لوازم خانگی
-        <br>
-        لباسشویی , ظرفشویی, ساید بای ساید , یخچال, کولر گازی و آبی, مایکروویو , جاروبرقی
-    </h2>
+    <div class="style-of-moarefi-shoql-box">
+        <h2 class="style-of-moarefi-shoql">
+            خدمات پس از فروش تعمیرات لوازم خانگی 
+        </h2>
+        <h2 class="style-of-moarefi-shoql2">
+            مرکز تخصصی تعمیرات
+            <br>
+            لباسشویی , ظرفشویی, ساید بای ساید , یخچال, کولر گازی و آبی, مایکروویو , جاروبرقی
+        </h2>
+    </div>
     <br>
     <br>
     <div id="slider"></div>
@@ -204,7 +206,7 @@
         <br>
         تمام تعمیرکاران و تکنسین های ما دوره های آموزشی تعمیرات لوازم خانگی گورنیه را در مدل ها و محصولات مختلف گورنیه، گذرانده اند.
         <br>
-        این شرکت جهت جلب رضایت شما تمامی خدمات انجام شده را به مدت 
+        تعمیر مارکت جهت جلب رضایت شما تمامی خدمات انجام شده را به مدت 
         صد روز  ضمانت بی قید و شرط می نماید.  
         </p>
         <br><br>
@@ -307,7 +309,7 @@
     <table class="style-of-original-title-why-this-co">
         <tr class="style-of-original-title-why-this-co border-none">
             <td class="style-of-original-title-why-this-co border-none">
-                <p class="why-this-co style-of-original-title-why-this-co border-none">چرا خدمات پس از فروش لوازم خانگی سانیاران</p>
+                <p class="why-this-co style-of-original-title-why-this-co border-none">چرا تعمیر مارکت</p>
             </td>
         </tr>
     </table>
@@ -464,7 +466,7 @@
                 <img class="style-of-naqshe-iran-img" src="img/naqshe iran/naqsh iran.png" alt="تعمیر مارکت">
             </td>
             <td>
-                <p class="style-of-naqshe-iran-title-text">خدمات پس از فروش لوازم خانگی سانیاران</p>
+                <p class="style-of-naqshe-iran-title-text">تعمیر مارکت</p>
                 <p class="style-of-naqshe-iran-mini-title-text">محدوده تحت پوشش</p>
                 <p class="style-of-naqshe-iran-text">
                     تعمیر مارکت خدمات نصب ، سرویس و تعمیرات لوازم خانگی را در سراسر استان های تهران و البرز(کرج) ارائه می نماید .از نواحی تحت پوشش این مجموعه میتوان به شهر های تهران ، کرج ، هشتگرد و... اشاره نمود .
@@ -480,7 +482,7 @@
         </tr>
         <tr>
             <td>
-                <p class="style-of-naqshe-iran-title-text">خدمات پس از فروش لوازم خانگی سانیاران</p>
+                <p class="style-of-naqshe-iran-title-text">تعمیر مارکت</p>
                 <p class="style-of-naqshe-iran-mini-title-text">محدوده تحت پوشش</p>
                 <p class="style-of-naqshe-iran-text">
                     تعمیر مارکت خدمات نصب ، سرویس و تعمیرات لوازم خانگی را در سراسر استان های تهران و البرز(کرج) ارائه می نماید .از نواحی تحت پوشش این مجموعه میتوان به شهر های تهران ، کرج ، هشتگرد و... اشاره نمود .
@@ -498,36 +500,36 @@
 <table class="style-of-new-news-table-box">
     <tr class="style-of-new-news-tr">
         <td class="style-of-new-news-td">
-            <img class="style-of-new-news-img" src="img/new news/1.png" alt="تعمیر مارکت">
+            <img class="style-of-new-news-img" src="img/new news/1.png" alt=" تعمیر مارکت | تعمیرات انواع ظرفشویی | تعمیر انواع ظرفشویی ">
         </td>
         <td class="style-of-new-news-td">
-            <img class="style-of-new-news-img" src="img/new news/2.png" alt="تعمیر مارکت">
+            <img class="style-of-new-news-img" src="img/new news/2.png" alt=" تعمیر مارکت | تعمیرات انواع ساید بای ساید  | تعمیر انواع ساید بای ساید ">
         </td>
         <td class="style-of-new-news-td">
-            <img class="style-of-new-news-img" src="img/new news/3.png" alt="تعمیر مارکت">
+            <img class="style-of-new-news-img" src="img/new news/3.png" alt=" تعمیر مارکت | تعمیرات انواع ماکروویو  | تعمیر انواع ماکروویو ">
         </td>
         <td class="style-of-new-news-td">
-            <img class="style-of-new-news-img" src="img/new news/4.png" alt="تعمیر مارکت">
+            <img class="style-of-new-news-img" src="img/new news/4.png" alt=" تعمیر مارکت | تعمیرات انواع لباسشویی  | تعمیر انواع لباسشویی ">
         </td>
         <td class="style-of-new-news-td">
-            <img class="style-of-new-news-img" src="img/new news/8.png" alt="تعمیر مارکت">
+            <img class="style-of-new-news-img" src="img/new news/8.png" alt=" تعمیر مارکت | تعمیرات انواع جاروبرقی  | تعمیر انواع جاروبرقی ">
         </td>
     </tr>
     <tr>
         <td class="style-of-new-news-td">
-            <img class="style-of-new-news-img" src="img/new news/5.png" alt="تعمیر مارکت">
+            <img class="style-of-new-news-img" src="img/new news/5.png" alt=" تعمیر مارکت | تعمیرات انواع کولر گازی  | تعمیر انواع کولر گازی ">
         </td>
         <td class="style-of-new-news-td">
-            <img class="style-of-new-news-img" src="img/new news/6.png" alt="تعمیر مارکت">
+            <img class="style-of-new-news-img" src="img/new news/6.png" alt=" تعمیر مارکت | تعمیرات انواع یخچال فریزر  | تعمیر انواع یخچال فریرز ">
         </td>
         <td class="style-of-new-news-td">
-            <img class="style-of-new-news-img" src="img/new news/7.png" alt="تعمیر مارکت">
+            <img class="style-of-new-news-img" src="img/new news/7.png" alt=" تعمیر مارکت | تعمیرات انواع لوازم آشپزخانه  | تعمیر انواع لوازم اشپزخانه ">
         </td>
         <td class="style-of-new-news-td">
-            <img class="style-of-new-news-img" src="img/new news/8.png" alt="تعمیر مارکت">
+            <img class="style-of-new-news-img" src="img/new news/8.png" alt=" تعمیر مارکت | تعمیرات انواع جاروبرقی  | تعمیر انواع جاروبرقی ">
         </td>
         <td class="style-of-new-news-td">
-            <img class="style-of-new-news-img" src="img/new news/7.png" alt="تعمیر مارکت">
+            <img class="style-of-new-news-img" src="img/new news/7.png" alt=" تعمیر مارکت | تعمیرات انواع لوازم آشپزخانه  | تعمیر انواع لوازم اشپزخانه ">
         </td>
 
     </tr>
@@ -535,42 +537,42 @@
 <table class="style-of-new-news-table-box-mo">
     <tr class="style-of-new-news-tr">
         <td class="style-of-new-news-td">
-            <img class="style-of-new-news-img" src="img/new news/1.png" alt="تعمیر مارکت">
+            <img class="style-of-new-news-img" src="img/new news/1.png" alt=" تعمیر مارکت | تعمیرات انواع ظرفشویی | تعمیر انواع ظرفشویی ">
         </td>
         <td class="style-of-new-news-td">
-            <img class="style-of-new-news-img" src="img/new news/2.png" alt="تعمیر مارکت">
-        </td>
-    </tr>
-    <tr class="style-of-new-news-tr">
-        <td class="style-of-new-news-td">
-            <img class="style-of-new-news-img" src="img/new news/3.png" alt="تعمیر مارکت">
-        </td>
-        <td class="style-of-new-news-td">
-            <img class="style-of-new-news-img" src="img/new news/4.png" alt="تعمیر مارکت">
+            <img class="style-of-new-news-img" src="img/new news/2.png" alt=" تعمیر مارکت | تعمیرات انواع ساید بای ساید  | تعمیر انواع ساید بای ساید ">
         </td>
     </tr>
     <tr class="style-of-new-news-tr">
         <td class="style-of-new-news-td">
-            <img class="style-of-new-news-img" src="img/new news/5.png" alt="تعمیر مارکت">
+            <img class="style-of-new-news-img" src="img/new news/3.png" alt=" تعمیر مارکت | تعمیرات انواع ماکروویو  | تعمیر انواع ماکروویو ">
         </td>
         <td class="style-of-new-news-td">
-            <img class="style-of-new-news-img" src="img/new news/6.png" alt="تعمیر مارکت">
-        </td>
-    </tr>
-    <tr class="style-of-new-news-tr">
-        <td class="style-of-new-news-td">
-            <img class="style-of-new-news-img" src="img/new news/7.png" alt="تعمیر مارکت">
-        </td>
-        <td class="style-of-new-news-td">
-            <img class="style-of-new-news-img" src="img/new news/8.png" alt="تعمیر مارکت">
+            <img class="style-of-new-news-img" src="img/new news/4.png" alt=" تعمیر مارکت | تعمیرات انواع لباسشویی  | تعمیر انواع لباسشویی ">
         </td>
     </tr>
     <tr class="style-of-new-news-tr">
         <td class="style-of-new-news-td">
-            <img class="style-of-new-news-img" src="img/new news/7.png" alt="تعمیر مارکت">
+            <img class="style-of-new-news-img" src="img/new news/5.png" alt=" تعمیر مارکت | تعمیرات انواع کولر گازی  | تعمیر انواع کولر گازی ">
         </td>
         <td class="style-of-new-news-td">
-            <img class="style-of-new-news-img" src="img/new news/8.png" alt="تعمیر مارکت">
+            <img class="style-of-new-news-img" src="img/new news/6.png" alt=" تعمیر مارکت | تعمیرات انواع یخچال فریزر  | تعمیر انواع یخچال فریرز ">
+        </td>
+    </tr>
+    <tr class="style-of-new-news-tr">
+        <td class="style-of-new-news-td">
+            <img class="style-of-new-news-img" src="img/new news/7.png" alt=" تعمیر مارکت | تعمیرات انواع لوازم آشپزخانه  | تعمیر انواع لوازم اشپزخانه ">
+        </td>
+        <td class="style-of-new-news-td">
+            <img class="style-of-new-news-img" src="img/new news/8.png" alt=" تعمیر مارکت | تعمیرات انواع جاروبرقی  | تعمیر انواع جاروبرقی ">
+        </td>
+    </tr>
+    <tr class="style-of-new-news-tr">
+        <td class="style-of-new-news-td">
+            <img class="style-of-new-news-img" src="img/new news/7.png" alt=" تعمیر مارکت | تعمیرات انواع لوازم آشپزخانه  | تعمیر انواع لوازم اشپزخانه ">
+        </td>
+        <td class="style-of-new-news-td">
+            <img class="style-of-new-news-img" src="img/new news/8.png" alt=" تعمیر مارکت | تعمیرات انواع جاروبرقی  | تعمیر انواع جاروبرقی ">
         </td>
     </tr>
 </table>
@@ -618,7 +620,7 @@
 <tr>
     <td class="style-of-footer-td">
         <p class="style-of-footer-copyright">
-            تمامی حقوق برای خدمات پس از فروش لوازم خانگی سانیاران محفوظ می باشد ©
+            تمامی حقوق برای تعمیر مارکت محفوظ می باشد ©
         </p>
     </td>
     <td class="style-of-footer-td">
@@ -635,7 +637,7 @@
 <tr>
     <td class="style-of-footer-td"> 
         <a class="style-of-footer-made-by-ITROSOFT"  href="#">
-            <p class="style-of-footer-made-by-ITROSOFT">ساخته شده توسط امیرحسین کلانتری</p>
+            <p class="style-of-footer-made-by-ITROSOFT">ساخته شده توسط Itro Programming</p>
         </a>
     </td>
     <td class="style-of-footer-td">
@@ -716,14 +718,14 @@
 <tr>
     <td class="style-of-footer-td">
         <p class="style-of-footer-copyright">
-            تمامی حقوق برای خدمات پس از فروش لوازم خانگی سانیاران محفوظ می باشد ©
+            تمامی حقوق برای تعمیر مارکت محفوظ می باشد ©
         </p>
     </td>
 </tr>
 <tr>
     <td class="style-of-footer-td"> 
         <a class="style-of-footer-made-by-ITROSOFT"  href="#">
-            <p class="style-of-footer-made-by-ITROSOFT">ساخته شده توسط امیرحسین کلانتری</p>
+            <p class="style-of-footer-made-by-ITROSOFT">ساخته شده توسط Itro Programming</p>
         </a>
     </td>
 </tr>

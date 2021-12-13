@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="description" content="خدمات پس از فروش لوازم خانگی سانیاران در زمینه تعمیرات تخصصی انواع لوازم خانگی و برد های الکترونیکی با متخصصان با تجربه آماده خدمت رسانی به شماست.">
+    <meta name="description" content="تعمیر مارکت در زمینه تعمیرات تخصصی انواع لوازم خانگی و برد های الکترونیکی با متخصصان با تجربه آماده خدمت رسانی به شماست.">
     <link rel="stylesheet" href="css/css.min.css">
     <link rel="stylesheet" href="ItroDesign.min.css">
     <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
@@ -13,8 +13,8 @@
         <div class="style-of-all-menu display-none-mo">
             <div>
                 <div>
-                    <img onclick="dispalymenuitems()" src="img/menu/menu icon.png" id="display-of-menu-icon"     alt="سانیاران سرویس" class="style-of-menu-icon-in-mo"></img>
-                    <img onclick="bardispalymenuitems()" src="img/menu/zarbdar.png" id="display-of-menu-zarbdar" alt="سانیاران سرویس" class="style-of-menu-icon-zarbdar-in-mo"></img>
+                    <img onclick="dispalymenuitems()" src="img/menu/menu icon.png" id="display-of-menu-icon"     alt="تعمیر مارکت" class="style-of-menu-icon-in-mo"></img>
+                    <img onclick="bardispalymenuitems()" src="img/menu/zarbdar.png" id="display-of-menu-zarbdar" alt="تعمیر مارکت" class="style-of-menu-icon-zarbdar-in-mo"></img>
                         <nav id="style-of-all-menu-mo">
                             <ul class="display-inline">
                                 <li class="display-inline"><a class="style-of-sdf style-of-original-page-item-in-menu-for-mo z-index-of-orginal-item-of-menu" href="index.html">صفحه ی اصلی </a></li>
@@ -90,8 +90,8 @@
             <div id="style-of-all-menu" class="style-of-all-menu display-none-pc">
                 <div>
                     <div>
-                        <img onclick="ChangeAlamatOfMenu()" id="style-hamberger-in-menu-mo" class="style-hamberger-in-menu-mo" src="img/menu/menu icon.png"  alt="سانیاران سرویس"></img>
-                        <img onclick="ChangeAlamatOfMenu()" id="style-x-in-menu-mo" class="style-x-in-menu-mo" src="img/menu/zarbdar.png"    alt="سانیاران سرویس"></img>
+                        <img onclick="ChangeAlamatOfMenu()" id="style-hamberger-in-menu-mo" class="style-hamberger-in-menu-mo" src="img/menu/menu icon.png"  alt="تعمیر مارکت"></img>
+                        <img onclick="ChangeAlamatOfMenu()" id="style-x-in-menu-mo" class="style-x-in-menu-mo" src="img/menu/zarbdar.png"    alt="تعمیر مارکت"></img>
                             <nav id="display-of-all-menu-in-mo" class="display-of-all-menu-in-mo">
                                 <ul>
                                     <li  class="style-of-menu-text-in-mo"><a  class="style-of-menu-text-in-mo" href="index.html">صفحه ی اصلی </a></li>
@@ -156,8 +156,8 @@
     <p id="show-menu-button" onclick="show_menu_desktop()" class="style-show-menu-button"> < </p>
     <div class="first-logo-styles">
          
-        <img class="display-inline styles-of-first-logo-in-all-pages-1" src="img/firstlogo/لوگوی سانیاران سرویس.png"             alt="saniaran service سانیاران سرویس">
-        <img class="display-inline styles-of-first-logo-in-all-pages-2" src="img/firstlogo/تعمیر مارکت.png" alt="saniaran service سانیاران سرویس">
+        <img class="display-inline styles-of-first-logo-in-all-pages-1" src="img/firstlogo/لوگوی تعمیر مارکت.png"alt="Tamir Market سانیاران سرویس">
+        <img class="display-inline styles-of-first-logo-in-all-pages-2" src="img/firstlogo/تعمیر مارکت.png" alt="Tamir Market سانیاران سرویس">
         <hr class="style-of-hr-in-bottom-of-first-logo-in-all-pages">
     </div>
     <div class="right">
@@ -305,7 +305,7 @@
     <table class="style-of-original-title-why-this-co">
         <tr class="style-of-original-title-why-this-co border-none">
             <td class="style-of-original-title-why-this-co border-none">
-                <p class="why-this-co style-of-original-title-why-this-co border-none">چرا خدمات پس از فروش لوازم خانگی سانیاران</p>
+                <p class="why-this-co style-of-original-title-why-this-co border-none">چرا تعمیر مارکت</p>
             </td>
         </tr>
     </table>
@@ -379,10 +379,10 @@
     <table class="style-of-naqshe-iran-box">
         <tr>
             <td>
-                <img class="style-of-naqshe-iran-img" src="img/naqshe iran/naqsh iran.png" alt="سانیاران سرویس">
+                <img class="style-of-naqshe-iran-img" src="img/naqshe iran/naqsh iran.png" alt="تعمیر مارکت">
             </td>
             <td>
-                <p class="style-of-naqshe-iran-title-text">خدمات پس از فروش لوازم خانگی سانیاران</p>
+                <p class="style-of-naqshe-iran-title-text">تعمیر مارکت</p>
                 <p class="style-of-naqshe-iran-mini-title-text">محدوده تحت پوشش</p>
                 <p class="style-of-naqshe-iran-text">
                     سانیاران سرویس خدمات نصب ، سرویس و تعمیرات لوازم خانگی را در سراسر استان های تهران و البرز(کرج) ارائه می نماید .از نواحی تحت پوشش این مجموعه میتوان به شهر های تهران ، کرج ، هشتگرد و... اشاره نمود .
@@ -393,12 +393,12 @@
     <table class="style-of-naqshe-iran-box-mo">
         <tr>
             <td>
-                <img class="style-of-naqshe-iran-img" src="img/naqshe iran/naqsh iran.png" alt="سانیاران سرویس">
+                <img class="style-of-naqshe-iran-img" src="img/naqshe iran/naqsh iran.png" alt="تعمیر مارکت">
             </td>
         </tr>
         <tr>
             <td>
-                <p class="style-of-naqshe-iran-title-text">خدمات پس از فروش لوازم خانگی سانیاران</p>
+                <p class="style-of-naqshe-iran-title-text">تعمیر مارکت</p>
                 <p class="style-of-naqshe-iran-mini-title-text">محدوده تحت پوشش</p>
                 <p class="style-of-naqshe-iran-text">
                     سانیاران سرویس خدمات نصب ، سرویس و تعمیرات لوازم خانگی را در سراسر استان های تهران و البرز(کرج) ارائه می نماید .از نواحی تحت پوشش این مجموعه میتوان به شهر های تهران ، کرج ، هشتگرد و... اشاره نمود .
@@ -416,36 +416,36 @@
 <table class="style-of-new-news-table-box">
     <tr class="style-of-new-news-tr">
         <td class="style-of-new-news-td">
-            <img class="style-of-new-news-img" src="img/new news/1.png" alt="سانیاران سرویس">
+            <img class="style-of-new-news-img" src="img/new news/1.png" alt="تعمیر مارکت">
         </td>
         <td class="style-of-new-news-td">
-            <img class="style-of-new-news-img" src="img/new news/2.png" alt="سانیاران سرویس">
+            <img class="style-of-new-news-img" src="img/new news/2.png" alt="تعمیر مارکت">
         </td>
         <td class="style-of-new-news-td">
-            <img class="style-of-new-news-img" src="img/new news/3.png" alt="سانیاران سرویس">
+            <img class="style-of-new-news-img" src="img/new news/3.png" alt="تعمیر مارکت">
         </td>
         <td class="style-of-new-news-td">
-            <img class="style-of-new-news-img" src="img/new news/4.png" alt="سانیاران سرویس">
+            <img class="style-of-new-news-img" src="img/new news/4.png" alt="تعمیر مارکت">
         </td>
         <td class="style-of-new-news-td">
-            <img class="style-of-new-news-img" src="img/new news/8.png" alt="سانیاران سرویس">
+            <img class="style-of-new-news-img" src="img/new news/8.png" alt="تعمیر مارکت">
         </td>
     </tr>
     <tr>
         <td class="style-of-new-news-td">
-            <img class="style-of-new-news-img" src="img/new news/5.png" alt="سانیاران سرویس">
+            <img class="style-of-new-news-img" src="img/new news/5.png" alt="تعمیر مارکت">
         </td>
         <td class="style-of-new-news-td">
-            <img class="style-of-new-news-img" src="img/new news/6.png" alt="سانیاران سرویس">
+            <img class="style-of-new-news-img" src="img/new news/6.png" alt="تعمیر مارکت">
         </td>
         <td class="style-of-new-news-td">
-            <img class="style-of-new-news-img" src="img/new news/7.png" alt="سانیاران سرویس">
+            <img class="style-of-new-news-img" src="img/new news/7.png" alt="تعمیر مارکت">
         </td>
         <td class="style-of-new-news-td">
-            <img class="style-of-new-news-img" src="img/new news/8.png" alt="سانیاران سرویس">
+            <img class="style-of-new-news-img" src="img/new news/8.png" alt="تعمیر مارکت">
         </td>
         <td class="style-of-new-news-td">
-            <img class="style-of-new-news-img" src="img/new news/7.png" alt="سانیاران سرویس">
+            <img class="style-of-new-news-img" src="img/new news/7.png" alt="تعمیر مارکت">
         </td>
 
     </tr>
@@ -453,42 +453,42 @@
 <table class="style-of-new-news-table-box-mo">
     <tr class="style-of-new-news-tr">
         <td class="style-of-new-news-td">
-            <img class="style-of-new-news-img" src="img/new news/1.png" alt="سانیاران سرویس">
+            <img class="style-of-new-news-img" src="img/new news/1.png" alt="تعمیر مارکت">
         </td>
         <td class="style-of-new-news-td">
-            <img class="style-of-new-news-img" src="img/new news/2.png" alt="سانیاران سرویس">
-        </td>
-    </tr>
-    <tr class="style-of-new-news-tr">
-        <td class="style-of-new-news-td">
-            <img class="style-of-new-news-img" src="img/new news/3.png" alt="سانیاران سرویس">
-        </td>
-        <td class="style-of-new-news-td">
-            <img class="style-of-new-news-img" src="img/new news/4.png" alt="سانیاران سرویس">
+            <img class="style-of-new-news-img" src="img/new news/2.png" alt="تعمیر مارکت">
         </td>
     </tr>
     <tr class="style-of-new-news-tr">
         <td class="style-of-new-news-td">
-            <img class="style-of-new-news-img" src="img/new news/5.png" alt="سانیاران سرویس">
+            <img class="style-of-new-news-img" src="img/new news/3.png" alt="تعمیر مارکت">
         </td>
         <td class="style-of-new-news-td">
-            <img class="style-of-new-news-img" src="img/new news/6.png" alt="سانیاران سرویس">
-        </td>
-    </tr>
-    <tr class="style-of-new-news-tr">
-        <td class="style-of-new-news-td">
-            <img class="style-of-new-news-img" src="img/new news/7.png" alt="سانیاران سرویس">
-        </td>
-        <td class="style-of-new-news-td">
-            <img class="style-of-new-news-img" src="img/new news/8.png" alt="سانیاران سرویس">
+            <img class="style-of-new-news-img" src="img/new news/4.png" alt="تعمیر مارکت">
         </td>
     </tr>
     <tr class="style-of-new-news-tr">
         <td class="style-of-new-news-td">
-            <img class="style-of-new-news-img" src="img/new news/7.png" alt="سانیاران سرویس">
+            <img class="style-of-new-news-img" src="img/new news/5.png" alt="تعمیر مارکت">
         </td>
         <td class="style-of-new-news-td">
-            <img class="style-of-new-news-img" src="img/new news/8.png" alt="سانیاران سرویس">
+            <img class="style-of-new-news-img" src="img/new news/6.png" alt="تعمیر مارکت">
+        </td>
+    </tr>
+    <tr class="style-of-new-news-tr">
+        <td class="style-of-new-news-td">
+            <img class="style-of-new-news-img" src="img/new news/7.png" alt="تعمیر مارکت">
+        </td>
+        <td class="style-of-new-news-td">
+            <img class="style-of-new-news-img" src="img/new news/8.png" alt="تعمیر مارکت">
+        </td>
+    </tr>
+    <tr class="style-of-new-news-tr">
+        <td class="style-of-new-news-td">
+            <img class="style-of-new-news-img" src="img/new news/7.png" alt="تعمیر مارکت">
+        </td>
+        <td class="style-of-new-news-td">
+            <img class="style-of-new-news-img" src="img/new news/8.png" alt="تعمیر مارکت">
         </td>
     </tr>
 </table>
@@ -508,7 +508,7 @@
 </tr>
 <tr>
     <td rowspan="2" class="style-of-footer-td">
-        <img class="style-of-footer-logo" src="img/footer/footerlogo.png" alt="سانیاران سرویس">
+        <img class="style-of-footer-logo" src="img/footer/footerlogo.png" alt="تعمیر مارکت">
     </td>
     <td class="style-of-footer-td">
         <a class="style-of-footer-a">
@@ -536,7 +536,7 @@
 <tr>
     <td class="style-of-footer-td">
         <p class="style-of-footer-copyright">
-            تمامی حقوق برای خدمات پس از فروش لوازم خانگی سانیاران محفوظ می باشد ©
+            تمامی حقوق برای تعمیر مارکت محفوظ می باشد ©
         </p>
     </td>
     <td class="style-of-footer-td">
@@ -553,7 +553,7 @@
 <tr>
     <td class="style-of-footer-td"> 
         <a class="style-of-footer-made-by-ITROSOFT"  href="#">
-            <p class="style-of-footer-made-by-ITROSOFT">ساخته شده توسط امیرحسین کلانتری</p>
+            <p class="style-of-footer-made-by-ITROSOFT">ساخته شده توسط Itro Programming</p>
         </a>
     </td>
     <td class="style-of-footer-td">
@@ -577,7 +577,7 @@
 </tr>
 <tr>
 <td class="style-of-footer-td">
-    <img class="style-of-footer-logo" src="img/footer/footerlogo.png" alt="سانیاران سرویس">
+    <img class="style-of-footer-logo" src="img/footer/footerlogo.png" alt="تعمیر مارکت">
 </td>
 </tr>
 <tr>
@@ -634,14 +634,14 @@
 <tr>
     <td class="style-of-footer-td">
         <p class="style-of-footer-copyright">
-            تمامی حقوق برای خدمات پس از فروش لوازم خانگی سانیاران محفوظ می باشد ©
+            تمامی حقوق برای تعمیر مارکت محفوظ می باشد ©
         </p>
     </td>
 </tr>
 <tr>
     <td class="style-of-footer-td"> 
         <a class="style-of-footer-made-by-ITROSOFT"  href="#">
-            <p class="style-of-footer-made-by-ITROSOFT">ساخته شده توسط امیرحسین کلانتری</p>
+            <p class="style-of-footer-made-by-ITROSOFT">ساخته شده توسط Itro Programming</p>
         </a>
     </td>
 </tr>

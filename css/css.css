@@ -741,14 +741,14 @@
         color: white;
         width: 50%;
         margin-left: 24%;
-        border-radius: 20px;
+        border-radius: 5px;
         padding: 10px;
-        font-size: 25px;
+        font-size: 30px;
         text-align: center;
         font-family: iransans;
-        /* animation-name: change-text-color-of-amadegy-aqd-qarardad;
+        animation-name: change-text-color-of-amadegy-aqd-qarardad;
         animation-duration: 2000ms;
-        animation-iteration-count: infinite; */
+        animation-iteration-count: infinite;
         z-index: 0 !important;
     }
 /* end styles of amadegy-aqd-qarardad */
@@ -817,9 +817,12 @@
     .style-of-naqshe-iran-img{
         width: 80%;
         left: 0%;
-        margin: 9% !important;
+        margin-left: 9% !important;
+        margin-right: 9% !important;
+        margin-top: 2% !important;
+        margin-bottom: 2% !important;
         background-color: rgb(7, 80, 7);
-        border-radius:100px;
+        border-radius:40px;
         border: white solid 5px;
     }
     .style-of-naqshe-iran-title-text{
@@ -859,9 +862,11 @@
         padding-right: 25px;
     }
     .style-of-new-news{
-        color: black;
-        background-color: #d8ba10;
+        color: white;
+        background-color: #c4a700;
         font-size: 25px;
+        border-top: black solid 5px;
+        border-bottom: black solid 5px;
         font-family: iransans;
         padding: 20px;
         text-align: center;    
@@ -882,9 +887,9 @@
     }
     .style-of-new-news-img{
         width: 90% !important;
-        margin: 5%;
+        margin: 2%;
         border: black 5px solid;
-        border-radius: 20px;
+        border-radius: 10px;
         background-image: linear-gradient(#00fffc, #ffffff);
         animation-name: change-background-image-of-new-news-img;
         animation-duration: 40000ms;
@@ -956,7 +961,7 @@
         padding-right: 20px;
     }
     .style-of-footer-logo{
-        width: 50%;
+        width: 30%;
     }
     .style-of-footer-a{
         text-decoration: none;
@@ -1938,16 +1943,16 @@
     .style-of-amadegy-aqd-qarardad{
         background-color: rgb(221, 108, 16);
         color: white;
-        width: 90%;
-        margin-left: 4%;
-        border-radius: 20px;
-        padding: 10px;
-        font-size: 40px;
+        width: 100%;
+        /* margin-left: 1%; */
+        border-radius: 15px;
+        padding: 15px;
+        font-size: 15px;
         text-align: center;
         font-family: iransans;
-        /* animation-name: change-text-color-of-amadegy-aqd-qarardad;
+        animation-name: change-text-color-of-amadegy-aqd-qarardad;
         animation-duration: 2000ms;
-        animation-iteration-count: infinite; */
+        animation-iteration-count: infinite;
         z-index: 0 !important;
     }
 
@@ -2052,7 +2057,7 @@
         width: 80%;
         margin: 9% !important;
         background-color: #0c489c;
-        border-radius:50px;
+        border-radius:20px;
         border: white solid 5px;
     }
     .style-of-naqshe-iran-title-text{
@@ -2095,8 +2100,10 @@
 /* end style of naqshe-iran */
 /* ---------------------------------------------------------------------------------------------------- */
 .style-of-new-news{
-        color: black;
-        background-color: #d8ba10;
+        color: white;
+        background-color: #c7a900;
+        border-top: black solid 5px;
+        border-bottom: black solid 5px;
         font-size: 25px;
         font-family: iransans;
         padding: 20px;
@@ -2152,7 +2159,7 @@
         width: 90% !important;
         margin: 5%;
         border: black 5px solid;
-        border-radius: 20px;
+        border-radius: 10px;
         background-image: linear-gradient(#00fffc, #ffffff);
         animation-name: change-background-image-of-new-news-img;
         animation-duration: 40000ms;
@@ -2573,16 +2580,16 @@
 }
 @keyframes change-background-image-of-new-news-img {
 0% ,100%{
-    background-image: repeating-radial-gradient(#ffffff , #00fffbc2 60%);
+    background-image:  linear-gradient(#0091ffc2 , #fff);
 }
 25%{
-    background-image: repeating-radial-gradient(#ffffff , #ffd000bd 60%);
+    background-image:  linear-gradient(#ffae00bd , #fff);
 }
 50%{
-    background-image: repeating-radial-gradient(#ffffff , #3cff00bb 60%);
+    background-image:  linear-gradient(#0d9a00bb , #fff);
 }
 75%{
-    background-image: repeating-radial-gradient(#ffffff , #c90f0fc4 60%);
+    background-image:  linear-gradient(#950000c4 , #fff);
 }
 }
 @keyframes change-color-text-of-new-news {

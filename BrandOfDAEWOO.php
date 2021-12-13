@@ -2,21 +2,21 @@
 <html lang="en-fa" >
 <head>
 <meta charset="UTF-8">
-<meta name="description" content="خدمات پس از فروش لوازم خانگی سانیاران در زمینه تعمیرات تخصصی انواع لوازم خانگی و برد های الکترونیکی با متخصصان با تجربه آماده خدمت رسانی به شماست.">
+<meta name="description" content="تعمیر مارکت در زمینه تعمیرات تخصصی انواع لوازم خانگی و برد های الکترونیکی با متخصصان با تجربه آماده خدمت رسانی به شماست.">
 <link rel="stylesheet" href="css/css.min.css">
 <link rel="stylesheet" href="ItroDesign.min.css">
 <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
     <meta name="keywords" content=" ارج - تعمیر - تعمیرات - رفع - ایراد - ایرادات - مشکل - وسیله ی مورد نظر - ماشین - دوقلو - درب - از - بالا - در - استان - تهران - البرز - کرج - خشک - کن - دار-اتوماتیک - سانیاران سرویس - تعمیرگاه - خدمات - مجاز - مرکزی - سرویس - نصب - جاده - چالوس - زنبق -عظیمیه -بعثت - طالقانی - شمالی - طالقانی - جنوبی - میدان - اسبی - میدان - مهران - بلوار - کاج - پامچال - شمالی - پامچال - جنوبی - برغان - اسلام - اباد - آباد - ازادگان - آزادگان - حسن - اباد- آباد - نواب - مطهری - میدان - نبوت - بلوار - جمهوری - شمالی - بلوار - جمهوری - جنوبی - بلوار - موذن - اشتراکی - شمالی - اشتراکی - جنوبی - کوی - پیروزی - شهرک - بهارستان - ملکشاه - بلوار - امام - رضا - بلوار - ملاصدرا - ملا صدرا - جهانشهر - کسری - شمالی - کسری - جنوبی - بلوار - ماهان - بلوار - بهارستان - فرمانداری - رجایی - شهر - گوهر - دشت - بلوار - رستاخیز - بلوار - شهرداری - بلوار - انقلاب - اوقافی - محمود - اباد - باغستان - باغستان - غربی - خیابان - قلم - بنیاد - شاهین - ویلا - جواد - اباد - کوی - داریوش - شهرک - یاس - حصارک - بالا - حصارک - پایین - کمال - اباد - خرمدشت - پیشاهنگی - نظر - اباد - هشتگرد - شهرک - رازی - مهر - شهر- بلوار - ارم - حسین - اباد - مهرشهر - کیانمهر - فاز - 4 - مهر - شهر - 45 -متری - گلشهر - شهرک - مترو- شهرک - پردیسان - شهرک - سلمان - فارسی - دهقان - ویلای - اول - دهقان - ویلای - دوم - میانجاده - حیدر - اباد - کرج - نو - سه - راه - گوهر - دشت - بلوار - سه - باندی - کوی - داریوش - زمین - های - خانم - انصاری - کوی - کارمندان - شمالی - کوی - کارمندان - جنوبی - مهر - ویلا - بلوار - دانش - اموز - دولت - اباد - چهار - صد - دستگاه - هفت - تیر - محمد - شهر - شهرک - مهندسی - زراعی - فردیس - شهرک - وحدت - شهرک - منظریه - ساسانی - فردوسی - رزکان - نو - قلمستان - مصباح - کلاک - بالا - کلاک - پایین - کلاک -  شهرداری - گرمدره - شهرک - جهان - نما - شهرک - خاتم - حسین - آباد - راهن - راه - آهن - اهن - جاده - چالوس - زنبق - عظیمیه - بعثت - طالقانی - شمالی - طالقانی - جنوبی - میدان - اسبی - میدان - مهران - بلوار - کاج - پامچال - شمالی - پامچال - جنوبی - برغان - اسلام - اباد - ازادگان - حسن - اباد - نواب - مطهری - میدان - نبوت - بلوار - جمهوری - شمالی - بلوار - جمهوری - جنوبی - بلوار - موذن - اشتراکی - شمالی - اشتراکی - جنوبی - کوی - پیروزی - شهرک - بهارستان - ملکشاه - بلوار - امام - رضا - بلوار - ملا - صدرا - ملاصدرا - جهانشهر - کسری - شمالی - کسری - جنوبی - بلوار - ماهان - بلوار - بهارستان - فرمانداری - رجایی - شهر - گوهر - دشت - بلوار - رستاخیز - بلوار - شهرداری - بلوار - انقلاب - اوقافی - محمود - اباد - باغستان - باغستان - غربی - خیابان - قلم - بنیاد - شاهین - ویلا - جواد - اباد - کوی - داریوش - شهرک - یاس - حصارک - بالا - حصارک - پایین - کمال - اباد - خرمدشت - پیشاهنگی - نظر - اباد - هشتگرد - شهرک - رازی - مهر - شهر - بلوار - ارم - حسین - اباد - مهر - شهر - کیانمهر - کیان - مهر - فاز - چهار - 4 - مهر - شهر - 45متری - چهل - و- پنج - متری - گلشهر - شهرک - مترو - شهرک - پردیسان - شهرک - سلمان - فارسی - دهقان - ویلای - اول - دهقان - ویلای - دوم - میانجاده - حیدر - اباد - کرج - نو - سه - راه - گوهر - دشت - بلوار - سه - باندی - کوی - داریوش - زمین - های - خانم - انصاری - کوی - کارمندان - شمالی - کوی - کارمندان - جنوبی - مهر - ویلا - بلوار - دانش - اموز - آموز - دولت - اباد - چهار - صد - دستگاه - هفت - تیر - محمد - شهر - شهرک - مهندسی - زراعی - فردیس - شهرک - وحدت - شهرک - منظریه - ساسانی - فردوسی - رزکان - نو - قلمستان - مصباح - کلاک - بالا - کلاک -پایین - کلاک - شهرداری - گرمدره - شهرک - جهان - نما - شهرک - خاتم - حسین - آباد - راهن - منیریه - گمرک - نازی‌ - آباد - خانی‌ - آباد - خزانه - کیان‌ - شهر - بریانک - پیروزی - نیرو - هوایی - صفا - افسریه - بهارستان - دروازه - شمیران - شکوفه - مشیریه - شهر - ری - نازی - آباد - میدان - خراسان - خاوران - سعادت - آباد - شهرک - غرب - پونک - جی - باغ فیض - شهران - ستارخان - صادقیه - گیشا - اکباتان - سردار - جنگل - کاشانی - المپیک - آزادی - درکه - تهرانسر - شهرآرا - شهرزیبا - مرزداران - فردوس - اوین - ایوانک - نیاوران - دزاشیب - پاسداران - فرمانیه - ازگل - ارتش - تجریش - زعفرانیه - قیطریه - چیذر - اختیاریه - قلهک - ظفر - میرداماد - جردن - نوبنیاد - نو بنیاد - شریعتی - هفت تیر - یوسف آباد - سهروردی - وزرا - الهیه - گاندی - تهرانپارس - حکیمیه - رسالت - هفت - حوض - سراج - دلاوران - شمیران - نو - هنگام - نارمک - مجیدیه - بهار - سبلان - دردشت - نظام - آباد - علم - و - صنعت - پیروزی - پلیس - کرمان - مدنی - امام - حسین - تهران - نو">
     
-<title> تعمیرات لوازم خانگی سانیاران سرویس | saniaran service home appliances repair</title>
+<title> تعمیر مارکت | Tamir Market home appliances repair</title>
 </head>
 <body class="styles-of-body-tag">
         <header class="position-of-menu style-of-menu">
         <div class="style-of-all-menu display-none-mo">
             <div>
                 <div>
-                    <img onclick="dispalymenuitems()" src="img/menu/menu icon.png" id="display-of-menu-icon"     alt="سانیاران سرویس" class="style-of-menu-icon-in-mo"></img>
-                    <img onclick="bardispalymenuitems()" src="img/menu/zarbdar.png" id="display-of-menu-zarbdar" alt="سانیاران سرویس" class="style-of-menu-icon-zarbdar-in-mo"></img>
+                    <img onclick="dispalymenuitems()" src="img/menu/menu icon.png" id="display-of-menu-icon"     alt="تعمیر مارکت" class="style-of-menu-icon-in-mo"></img>
+                    <img onclick="bardispalymenuitems()" src="img/menu/zarbdar.png" id="display-of-menu-zarbdar" alt="تعمیر مارکت" class="style-of-menu-icon-zarbdar-in-mo"></img>
                         <nav id="style-of-all-menu-mo">
                             <ul class="display-inline">
                                 <li class="display-inline"><a class="style-of-sdf style-of-original-page-item-in-menu-for-mo z-index-of-orginal-item-of-menu" href="index.php">صفحه ی اصلی </a></li>
@@ -92,8 +92,8 @@
             <div id="style-of-all-menu" class="style-of-all-menu display-none-pc">
                 <div>
                     <div>
-                        <img onclick="ChangeAlamatOfMenu()" id="style-hamberger-in-menu-mo" class="style-hamberger-in-menu-mo" src="img/menu/menu icon.png"  alt="سانیاران سرویس"></img>
-                        <img onclick="ChangeAlamatOfMenu()" id="style-x-in-menu-mo" class="style-x-in-menu-mo" src="img/menu/zarbdar.png"    alt="سانیاران سرویس"></img>
+                        <img onclick="ChangeAlamatOfMenu()" id="style-hamberger-in-menu-mo" class="style-hamberger-in-menu-mo" src="img/menu/menu icon.png"  alt="تعمیر مارکت"></img>
+                        <img onclick="ChangeAlamatOfMenu()" id="style-x-in-menu-mo" class="style-x-in-menu-mo" src="img/menu/zarbdar.png"    alt="تعمیر مارکت"></img>
                             <nav id="display-of-all-menu-in-mo" class="display-of-all-menu-in-mo">
                                 <ul>
                                     <li  class="style-of-menu-text-in-mo"><a  class="style-of-menu-text-in-mo" href="index.php">صفحه ی اصلی </a></li>
@@ -158,8 +158,8 @@
     <p id="show-menu-button" onclick="show_menu_desktop()" class="style-show-menu-button"> < </p>
 <div class="first-logo-styles">
 <br><br><br><br><br>
-<img class="display-inline styles-of-first-logo-in-all-pages-1" src="img/firstlogo/لوگوی سانیاران سرویس.png"             alt="saniaran service سانیاران سرویس">
-<img class="display-inline styles-of-first-logo-in-all-pages-2" src="img/firstlogo/تعمیر مارکت.png" alt="saniaran service سانیاران سرویس">
+<img class="display-inline styles-of-first-logo-in-all-pages-1" src="img/firstlogo/ لوگوی تعمیر مارکت.png"             alt="Tamir Market سانیاران سرویس">
+<img class="display-inline styles-of-first-logo-in-all-pages-2" src="img/firstlogo/تعمیر مارکت.png" alt="Tamir Market سانیاران سرویس">
 <hr class="style-of-hr-in-bottom-of-first-logo-in-all-pages">
 </div>
 <div class="styles-of-lg-slide-show">
@@ -175,12 +175,12 @@
 <h2 class="animation-of-title-brand">
 تعمیرات تخصصی لوازم خانگی دوو 
 </h1>
-<div><a><img class="style-of-brand-img-in-brand-page style-of-brand-img" src="img/brand images/DAEWOO.png" alt="سانیاران سرویس"></a></div>    
+<div><a><img class="style-of-brand-img-in-brand-page style-of-brand-img" src="img/brand images/DAEWOO.png" alt="تعمیر مارکت"></a></div>    
 <div class="right">
-<p class="style-of-mazit-estfade-az-ma">مزیت استفاده از خدمات تعمیرات لوازم خانگی سانیاران سرویس :</p>
+<p class="style-of-mazit-estfade-az-ma">مزیت استفاده از خدمات تعمیر مارکت :</p>
 <p class="style-of-mazit-estfade-az-ma-text">  1) استفاده از برترین تعمیرکاران(سرویس کاران) و متخصصین در تعمیرات لوازم خانگی دوو</p>
 <p class="style-of-mazit-estfade-az-ma-text">  2) استفاده از لوازم و قطعات اصلی (اورجینال ) در تعمیرات لوازم خانگی </p>
-<p class="style-of-mazit-estfade-az-ma-text">  3) تمامی خدمات شرکت سانیاران سرویس دارای 100 روز گارانتی بی قید و شرط می باشد</p>
+<p class="style-of-mazit-estfade-az-ma-text">  3) تمامی خدمات تعمیر مارکت دارای 100 روز گارانتی بی قید و شرط می باشد</p>
 <br><br>
 <div class="style-of-ItemTamirat-box style-of-ItemTamirat-box-in-brand-page">
     <h3 class="style-of-entekhab-brand">
@@ -189,39 +189,39 @@
     <br><br><br>
     <div class="style-of-ItemTamirat-radif style-of-ItemTamirat-radif-in-brand-page">
         <div class="rotate-ItemTamirat-img style-of-ItemTamirat-div">
-           <img class="style-of-ItemTamirat-img" src="img/ItemTamirat/lebasshoee.jpg"       alt="سانیاران سرویس">
+           <img class="style-of-ItemTamirat-img" src="img/ItemTamirat/lebasshoee.jpg"       alt="تعمیر مارکت">
         </div>
         <div class="rotate-ItemTamirat-img style-of-ItemTamirat-div">
-           <img class="style-of-ItemTamirat-img" src="img/ItemTamirat/zarfshoee.jpg"        alt="سانیاران سرویس">
+           <img class="style-of-ItemTamirat-img" src="img/ItemTamirat/zarfshoee.jpg"        alt="تعمیر مارکت">
         </div>
         <div class="rotate-ItemTamirat-img style-of-ItemTamirat-div">
-            <img class="style-of-ItemTamirat-img" src="img/ItemTamirat/side.jpg"             alt="سانیاران سرویس">
+            <img class="style-of-ItemTamirat-img" src="img/ItemTamirat/side.jpg"             alt="تعمیر مارکت">
         </div>
         <div class="rotate-ItemTamirat-img style-of-ItemTamirat-div">
-            <img class="style-of-ItemTamirat-img" src="img/ItemTamirat/board.jpg"            alt="سانیاران سرویس">
+            <img class="style-of-ItemTamirat-img" src="img/ItemTamirat/board.jpg"            alt="تعمیر مارکت">
         </div>
     </div>
     <br><br>
     <div class="style-of-ItemTamirat-radif">
         <div class="rotate-ItemTamirat-img style-of-ItemTamirat-div">
-            <img class="style-of-ItemTamirat-img" src="img/ItemTamirat/macrowawe.jpg"        alt="سانیاران سرویس">
+            <img class="style-of-ItemTamirat-img" src="img/ItemTamirat/macrowawe.jpg"        alt="تعمیر مارکت">
         </div>
         <div class="rotate-ItemTamirat-img style-of-ItemTamirat-div">
-            <img class="style-of-ItemTamirat-img" src="img/ItemTamirat/jarobarqi.jpg"        alt="سانیاران سرویس">
+            <img class="style-of-ItemTamirat-img" src="img/ItemTamirat/jarobarqi.jpg"        alt="تعمیر مارکت">
         </div>
         <div class="rotate-ItemTamirat-img style-of-ItemTamirat-div">
-            <img class="style-of-ItemTamirat-img" src="img/ItemTamirat/kooler gazi.gif"      alt="سانیاران سرویس">
+            <img class="style-of-ItemTamirat-img" src="img/ItemTamirat/kooler gazi.gif"      alt="تعمیر مارکت">
         </div>
         <div class="rotate-ItemTamirat-img style-of-ItemTamirat-div">
-            <img class="style-of-ItemTamirat-img" src="img/ItemTamirat/sim pichi motor.jpg"  alt="سانیاران سرویس">
+            <img class="style-of-ItemTamirat-img" src="img/ItemTamirat/sim pichi motor.jpg"  alt="تعمیر مارکت">
         </div>
     </div>
     <br><br><br>
 </div>
 <br><br><br>
-<p class="style-of-mazit-estfade-az-ma">چرا شما برای نصب، سرویس وتعمیرات لوازم خانگی سانیاران سرویس را انتخاب کنید ؟</p>
+<p class="style-of-mazit-estfade-az-ma">چرا شما برای نصب، سرویس وتعمیرات لوازم خانگی خود تعمیر مارکت را انتخاب کنید ؟</p>
 <p class="style-of-mazit-estfade-az-ma-text">
-مرکز تعمیرات لوازم خانگی سانیاران سرویس در استان تهران و البرز (کرج) در زمینه نصب، سرویس وتعمیرات  انواع لوازم خانگی
+مرکز تعمیر مارکت در استان تهران و البرز (کرج) در زمینه نصب، سرویس وتعمیرات  انواع لوازم خانگی
 (لباسشویی، ظرفشویی، یخچال، ماکروویو، جاروبرقی و کولرگازی) دوو در خدمت شماست.
 <br>
  سانیاران سرویس قابل اعتماد ترین بهترین وسریع ترین خدمات ممکن را به شما ارائه خواهد کرد و بهترین گزینه برای انتخاب شما در استان تهران و البرز (کرج) میباشد 
@@ -245,7 +245,7 @@
 <br><br>
 <img class="style-of-rah-haye-ertebaty-gif" src="img/rahhayeertebaty.png" alt="راه های ارتباط با ما">
 <br><br>
-<div class="scale-brand-img"><a><img class="style-of-brand-img-in-brand-page style-of-brand-img" src="img/brand images/DAEWOO.png" alt="سانیاران سرویس"></a></div>
+<div class="scale-brand-img"><a><img class="style-of-brand-img-in-brand-page style-of-brand-img" src="img/brand images/DAEWOO.png" alt="تعمیر مارکت"></a></div>
 <br><br>
 <div>
     <img class="style-of-factory-img-in-brand-page" src="img/brand images/DAEWOO/factory1.png" alt="کارخانه ی دوو">
@@ -254,7 +254,7 @@
 <p class="about-brand-title">درباره شرکت دوو</p>
 <p class="about-brand-text">
     دوو، (به کره‌ای: 대우، به انگلیسی: Daewoo) شرکت خوشه‌ای کره‌ای بود، که در تاریخ ۲۲ مارس ۱۹۶۷ توسط کیم وو چونگ، در شهر سئول تأسیس شد. نام شرکت دوو از دو بخش (Dae) که در زبان کره‌ای، به معنی عالی و (woo) که از نام بنیانگذار این شرکت گرفته شده‌است. تا پیش از بحران مالی آسیا در سال ۱۹۹۷، شرکت دوو، پس از هیوندای، دومین شرکت بزرگ در کشور کره جنوبی محسوب می‌شد. شرکت‌های دوو و دوو گروپ نیز، در رتبه‌های سوم و چهارم قرار داشتند. شرکت دوو دارای بیش از ۲۰ شرکت تابعه و زیرمجموعه بود، که بعضی از آنها امروزه به عنوان شرکت‌های مستقل، در زمینه‌های مختلف صنعتی، فعالیت می‌نمایند.</p>
-<div class="scale-brand-img"><a><img class="style-of-brand-img-in-brand-page style-of-brand-img" src="img/brand images/DAEWOO.png"                    alt="سانیاران سرویس"></a></div>
+<div class="scale-brand-img"><a><img class="style-of-brand-img-in-brand-page style-of-brand-img" src="img/brand images/DAEWOO.png"                    alt="تعمیر مارکت"></a></div>
 <p class="about-brand-title">تاریخچه شرکت دوو</p>
 <p class="about-brand-text">
     کیم وو-چونگ (Kim Woo-Choong) یکی از بنیانگذاران گروه دوو پس از سال‌ها مبارزه با بیماری مزمن التهاب ریه در سن ۸۲ سالگی درگذشت. آقای وو-چونگ زندگی کاری بسیار پرفراز و نشیبی داشت و موفقیت‌های دوو در عرصه‌های بین‌المللی تا حد زیادی مرهون تصمیمات هوشمندانه وی بود. کیم در سال ۱۹۳۶ در شهر دئگو (Daegu) کره جنوبی و در حالی که کشورش تحت اشغال امپراطوری ژاپن بود، به دنیا آمد. پدر کیم یک معلم بود و علاوه‌بر تدریس به عنوان مربی پارک چونگ-هی (Park Chung-hee) که بعدها به درجات بالای نظامی و در نهایت صندلی ریاست جمهوری کره جنوبی رسید، کار می‌کرد. شاید به همین خاطر بود که پدر کیم بعد از مدتی به سمت استانداری یکی از استان‌ها منصوب شد.
@@ -270,7 +270,7 @@
 <table class="style-of-footer-title display-none-mo">
 <tr>
 <td class="style-of-footer-td">
-<p class="style-of-footer-asli-title">شرکت آداک <span class="color-green">سانیاران سرویس</span> تعمیرگر</p>
+<p class="style-of-footer-asli-title"><span class="color-green">تعمیر مارکت</span></p>
 </td>
 <td class="style-of-footer-td">
 <p class="style-of-footer-title">استان تهران</p>
@@ -281,7 +281,7 @@
 </tr>
 <tr>
 <td rowspan="2" class="style-of-footer-td">
-<img class="style-of-footer-logo" src="img/firstlogo/لوگوی سانیاران سرویس.png" alt="سانیاران سرویس">
+<img class="style-of-footer-logo" src="img/firstlogo/ لوگوی تعمیر مارکت.png" alt="تعمیر مارکت">
 </td>
 <td class="style-of-footer-td">
 <a class="style-of-footer-a">
@@ -309,7 +309,7 @@
 <tr>
 <td class="style-of-footer-td">
 <p class="style-of-footer-copyright">
-    تمامی حقوق برای خدمات پس از فروش لوازم خانگی سانیاران محفوظ می باشد ©
+    تمامی حقوق برای تعمیر مارکت محفوظ می باشد ©
 </p>
 </td>
 <td class="style-of-footer-td">
@@ -345,18 +345,18 @@
 <table class="style-of-footer-title display-none-pc">
 <tr>
 <td class="style-of-footer-td">
-<p class="style-of-footer-asli-title">شرکت آداک <span class="color-green">سانیاران سرویس</span> تعمیرگر</p>
+<p class="style-of-footer-asli-title"><span class="color-green">تعمیر مارکت</span></p>
 </td>
 </tr>
 <tr>
 <td class="style-of-footer-td">
-<img class="style-of-footer-logo" src="img/firstlogo/لوگوی سانیاران سرویس.png" alt="سانیاران سرویس">
+<img class="style-of-footer-logo" src="img/firstlogo/ لوگوی تعمیر مارکت.png" alt="تعمیر مارکت">
 </td>
 </tr>
 <tr>
 <td class="style-of-footer-td">
 <p class="style-of-footer-copyright">
-    تمامی حقوق برای خدمات پس از فروش لوازم خانگی سانیاران محفوظ می باشد ©
+    تمامی حقوق برای تعمیر مارکت محفوظ می باشد ©
 </p>
 </td>
 </tr>
