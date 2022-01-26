@@ -22,7 +22,7 @@
                                 <li class="display-inline"><a class="style-of-sdf style-of-original-page-item-in-menu-for-mo z-index-of-orginal-item-of-menu" href="index.php">صفحه ی اصلی </a></li>
                                 <div onmouseover="showzirmajmoee()" class="style-of-temirat-in-menu-and-open-or-close">
                                     <li  class="display-inline z-index-of-orginal-item-of-menu"> <a class="style-of-sdf z-index-of-orginal-item-of-menu">تعمیرات</a>
-                                       <div class="display-inline" onmouseover="showzirmajmoee()" onmouseout="hidezirmajmoee()">
+                                       <div id="99900999" class="display-inline" onmouseover="showzirmajmoee()" onmouseout="hidezirmajmoee()">
                                          <ul id="style-of-zirmenu-of-tamirat" class="style-of-zirmenu-of-tamirat">
                                             <li onmouseover="showzirmajmoee2()" onmouseout="hidezirmajmoee2()" class="style-of-sdf background-color-0e4797-hover"><a class="style-of-text-of-zirmenus style-of-sdf"  >لوازم خانگی</a>
                                                 <ul id="style-of-zirmenu-of-tamirat2" class="style-of-zirmenu-of-tamirat2" class="style-of-all-of-zirmajmoee">
@@ -642,80 +642,56 @@
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <!-- *** footer *** -->
 <table class="style-of-footer-title display-none-mo">
-<tr>
-    <td class="style-of-footer-td">
-        <p class="style-of-footer-asli-title"><span class="color-green">تعمیر مارکت</span></p>
-    </td>
-    <td class="style-of-footer-td">
-        <p class="style-of-footer-title">استان تهران</p>
-    </td>
-    <td class="style-of-footer-td">
-        <p class="style-of-footer-title">استان البرز (کرج)</p>  
-    </td>
-</tr>
-<tr>
-    <td rowspan="2" class="style-of-footer-td">
-        <img class="style-of-footer-logo" src="img/firstlogo/ لوگوی تعمیر مارکت.png" alt="تعمیر مارکت">
-    </td>
-    <td class="style-of-footer-td">
-        <a class="style-of-footer-a">
-            <p class="style-of-footer-title">۰۹۱۲-۳۲۰۲۰۱۳</p>  
-        </a>
-    </td>
-    <td class="style-of-footer-td">
-        <a class="style-of-footer-a">
-            <p class="style-of-footer-title">۰۲۶-۳۴۲۱۳۹۸۵</p>  
-        </a>
-    </td>
-</tr>
-<tr>
-    <td class="style-of-footer-td">
-        <a class="style-of-footer-a">
-            <p class="style-of-footer-title">۰۹۱۲-۲۲۴۶۰۴۶</p>  
-        </a>
-    </td>
-    <td class="style-of-footer-td">
-        <a class="style-of-footer-a">
-            <p class="style-of-footer-title">۰۲۶-۳۴۲۱۳۸۴۹</p>  
-        </a>
-    </td>
-</tr>
-<tr>
-    <td class="style-of-footer-td">
+    <tr>
+        <td class="style-of-footer-td">
+            <p class="style-of-footer-asli-title"><span class="text-color-darkblue-2">تعمیرات لوازم خانگی  
+            <br> 
+            تعمیر مارکت</span></p>
+        </td>
+        <td class="style-of-footer-td">
+            <p class="style-of-footer-title">استان تهران</p>
+        </td>
+        <td class="style-of-footer-td">
+            <p class="style-of-footer-title">استان البرز (کرج)</p>  
+        </td>
+    </tr>
+    <tr>
+        <td rowspan="2" class="style-of-footer-td">
+            <img class="style-of-footer-logo" src="img/footer/footerlogo.png" alt="تعمیر مارکت">
+        </td>
+        <td class="style-of-footer-td">
+                <p class="style-of-footer-title">۰۹۱۲-۳۲۰۲۰۱۳</p>  
+        </td>
+        <td class="style-of-footer-td">
+                <p class="style-of-footer-title">۰۲۶-۳۴۲۱۳۹۸۵</p>  
+        </td>
+    </tr>
+    <tr>
+        <td class="style-of-footer-td">
+                <p class="style-of-footer-title">۰۹۱۲-۹۲۴۲۷۷۶</p>  
+        </td>
+        <td class="style-of-footer-td">
+                <p class="style-of-footer-title">۰۲۶-۳۴۲۱۳۸۴۹</p>  
+        </td>
+    </tr>
+    <tr>
+        <td class="style-of-footer-td"> 
         <p class="style-of-footer-copyright">
-            تمامی حقوق برای تعمیر مارکت محفوظ می باشد ©
+                تمامی حقوق برای تعمیر مارکت محفوظ می باشد ©
         </p>
-    </td>
-    <td class="style-of-footer-td">
-        <a class="style-of-footer-a">
-            <p class="style-of-footer-title">۰۹۱۲-۰۴۵۷۹۶۹</p>  
-        </a>
-    </td>
-    <td class="style-of-footer-td">
-        <a class="style-of-footer-a">
-            <p class="style-of-footer-title">۰۹۱۲-۹۲۴۲۷۷۶</p>  
-        </a>
-    </td>
-</tr>
-<tr>
-    <td class="style-of-footer-td"> 
-        <a class="style-of-footer-made-by-ITROSOFT"  href="#">
-            <p class="style-of-footer-made-by-ITROSOFT">ساخته شده توسط Itro Programming</p>
-        </a>
-    </td>
-    <td class="style-of-footer-td">
-        <a class="style-of-footer-a">
-            <p class="style-of-footer-title">۰۹۱۲-۹۲۴۲۷۸۱</p>  
-        </a>
-    </td>
-    <td class="style-of-footer-td">
-        <p class="style-of-footer-address">
-            آدرس:
-            کرج، خیابان شهید بهشتی، بلوار امام خمینی، نرسیده به دانشگاه رسام، ساختمان سپاس
-        </p>  
-    </td>
-</tr>
-</table>
+        </td>
+        <td class="style-of-footer-td">
+            <a class="style-of-footer-a">
+                <p class="style-of-footer-title">۰۹۱۲-۹۲۴۲۷۸۱</p>  
+            </a>
+        </td>
+        <td class="style-of-footer-td">
+            <p class="style-of-footer-address">
+                کرج، بلوار امام خمینی، نرسیده به دانشگاه رسام، ساختمان سپاس
+            </p>  
+        </td>
+    </tr>
+    </table>  
 <table class="style-of-footer-title display-none-pc">
 <tr>
 <td class="style-of-footer-td">

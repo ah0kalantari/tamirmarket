@@ -1,5 +1,6 @@
 function showzirmajmoee() {
     document.getElementById("style-of-zirmenu-of-tamirat").style.display = "block";
+    document.getElementById("99900999").style.visibility = 'visible';
 }
  function hidezirmajmoee() {
     document.getElementById("style-of-zirmenu-of-tamirat").style.display = "none";
@@ -15,13 +16,13 @@ function hidezirmajmoee2() {
 function showzirmajmoee3() {
     document.getElementById("style-of-zirmenu-of-tamirat3").style.display = "block";
 }
- function hidezirmajmoee3() {
+function hidezirmajmoee3() {
     document.getElementById("style-of-zirmenu-of-tamirat3").style.display = "none";
 }
 function showzirmajmoee4() {
     document.getElementById("style-of-zirmenu-of-tamirat4").style.display = "block";
 }
- function hidezirmajmoee4() {
+function hidezirmajmoee4() {
     document.getElementById("style-of-zirmenu-of-tamirat4").style.display = "none";
 }
 function displaynonefirstbrandpic() {
@@ -37,16 +38,13 @@ function bardispalymenuitems() {
     document.getElementById("display-of-menu-zarbdar").style.display = "none";
     document.getElementById("style-of-all-menu-mo").style.display = "none";
 }
-
-
-
 var wqwq = 0;
 var wqwq1 = 0;
 var wqwq2 = 0;
 var wqwq3 = 0;
 var wqwq4 = 0;
-
-
+var q1234 = 0 ;
+var q12345 = 0;
 function ChangeAlamatOfMenu() {
     if (wqwq == 0){
         document.getElementById("style-x-in-menu-mo").style.display = "block";    
@@ -56,7 +54,6 @@ function ChangeAlamatOfMenu() {
         document.getElementById('style-of-all-menu').style.height = "100%";
         wqwq ++;
     }
-
     else{
         document.getElementById("style-x-in-menu-mo").style.display = "none";    
         document.getElementById("display-of-all-menu-in-mo").style.display = "none";    
@@ -65,40 +62,31 @@ function ChangeAlamatOfMenu() {
         document.getElementById('style-of-all-menu').style.height = "auto";
         wqwq --; 
     }
-    // console.log(wqwq);
 };
-
-
 function displayOfZirMenuInMo1() {
     if (wqwq1 == 0){
         document.getElementById("display-of-zir-menu-in-mo1").style.display = "block";    
         wqwq1 ++;
     }
-
     else{
         document.getElementById("display-of-zir-menu-in-mo1").style.display = "none";    
         wqwq1 --; 
     }
     console.log(wqwq);
 };
-
 function displayOfZirMenuInMo2() {
     if (wqwq2 == 0){
         document.getElementById("display-of-zir-menu-in-mo3").style.display = "none";    
         document.getElementById("display-of-zir-menu-in-mo4").style.display = "none";    
-
-
         document.getElementById("display-of-zir-menu-in-mo2").style.display = "block";    
         wqwq2 ++;
     }
-
     else{
         document.getElementById("display-of-zir-menu-in-mo2").style.display = "none";    
         wqwq2 --; 
     }
     console.log(wqwq);
 };
-
 function displayOfZirMenuInMo3() {
     if (wqwq3 == 0){
         document.getElementById("display-of-zir-menu-in-mo2").style.display = "none";    
@@ -108,14 +96,12 @@ function displayOfZirMenuInMo3() {
         document.getElementById("display-of-zir-menu-in-mo3").style.display = "block";    
         wqwq3 ++;
     }
-
     else{
         document.getElementById("display-of-zir-menu-in-mo3").style.display = "none";    
         wqwq3 --; 
     }
     console.log(wqwq);
 };
-
 function displayOfZirMenuInMo4() {
     if (wqwq4 == 0){
         document.getElementById("display-of-zir-menu-in-mo2").style.display = "none";    
@@ -125,29 +111,23 @@ function displayOfZirMenuInMo4() {
         document.getElementById("display-of-zir-menu-in-mo4").style.display = "block";    
         wqwq4 ++;
     }
-
     else{
         document.getElementById("display-of-zir-menu-in-mo4").style.display = "none";    
         wqwq4 --; 
     }
     console.log(wqwq);
 };
-
-
 var slide = document.getElementsByClassName('slide')
 // var dot = document.getElementsByClassName('dot')
 var prev = document.querySelector('.prev')
 var next = document.querySelector('.next')
 var n = 0;
 var i;
-
-
 function disno() {
     for(i = 0 ; i<slide.length ; i++){
         slide[i].style.display = 'none';
     }
 }
-
 next.addEventListener('click' , function(e) {
     e.preventDefault();
     n++;
@@ -157,7 +137,6 @@ next.addEventListener('click' , function(e) {
     disno();
     slide[n].style.display = 'block';
 })
-
 prev.addEventListener('click' , function(e) {
     e.preventDefault();
     n--;
@@ -167,9 +146,6 @@ prev.addEventListener('click' , function(e) {
     disno();
     slide[n].style.display = 'block';
 })
-
-
-
 setInterval(function(){
     n++;
     if(n > slide.length - 1){
@@ -178,21 +154,38 @@ setInterval(function(){
     disno();
     slide[n].style.display = 'block';
 },5000)
-
 function hide_menu_desktop() {
     document.getElementById("hidemenudesktop").style.animationName = 'hide-menu-desktop';
     document.getElementById("show-menu-button").style.animationName = 'show-menu-button';
     document.getElementById("show-menu-button").style.right = '0%';
     document.getElementById("hidemenudesktop").style.left = '100%';
+    document.getElementById("99900999").style.visibility = 'hidden';
 }
-
 function show_menu_desktop() {
     document.getElementById("hidemenudesktop").style.animationName = 'show-menu-desktop';
     document.getElementById("show-menu-button").style.animationName = 'hide-menu-button';
     document.getElementById("show-menu-button").style.right = '100%';
     document.getElementById("hidemenudesktop").style.left = '0%';
+    document.getElementById("99900999").style.visibility = '00';
 }
-// function show_menu_desktop() {
-//     document.getElementById("hidemenudesktop").style.animationName = 'show-menu-desktop';
-//     document.getElementById("hidemenudesktop").style.opacity = '1';
-// }
+function bbvbsm1() {
+    if (q1234 == 0){
+        document.getElementById("bbvbsm1").style.display = 'block';
+        q1234 += 1;
+    }
+    else{
+        document.getElementById("bbvbsm1").style.display = 'none';
+        q1234 -= 1;
+    }
+}
+
+function bbvbsm2() {
+    if (q12345 == 0){
+        document.getElementById("bbvbsm2").style.display = 'block';
+        q12345 += 1;
+    }
+    else{
+        document.getElementById("bbvbsm2").style.display = 'none';
+        q12345 -= 1;
+    }
+}

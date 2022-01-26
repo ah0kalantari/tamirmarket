@@ -9,11 +9,6 @@
     <title> تعمیرات لوازم خانگی | تعمیر مارکت</title>
 </head>
 <body class="styles-of-body-tag" onscroll="hide_menu_desktop()">
-<script type="text/javascript">;!(function(e, d) {'use strict';var rating = {id: 'pvw-' + ~~(Math.random() * 999999),theme: '64-1',lang:'en',tops:0,
-url: '',
-title: ''
-};if (typeof e.prwAttrs != 'object') e.prwAttrs = {};e.prwAttrs[rating.id] = rating;d.write('<d'+'iv id="' + rating.id + '" style="display: inline-block"></d'+'iv>');d.write('<scr'+'ipt type="text/javascript" src="http://code.parstools.com/async/rate/rate.js" async></scri' + 'pt>');})(window, document);</script>
-    <p class="text-too-small">htpsfgh10pdm</p>
     <header class="position-of-menu style-of-menu">
         <div id="hidemenudesktop" class="style-of-all-menu display-none-mo">
             <div>
@@ -25,7 +20,7 @@ title: ''
                                 <li class="display-inline"><a class="style-of-sdf style-of-original-page-item-in-menu-for-mo z-index-of-orginal-item-of-menu" href="index.php">صفحه ی اصلی </a></li>
                                 <div onmouseover="showzirmajmoee()" class="style-of-temirat-in-menu-and-open-or-close">
                                     <li  class="display-inline z-index-of-orginal-item-of-menu"> <a class="style-of-sdf z-index-of-orginal-item-of-menu">تعمیرات</a>
-                                       <div class="display-inline" onmouseover="showzirmajmoee()" onmouseout="hidezirmajmoee()">
+                                       <div id="99900999" class="display-inline" onmouseover="showzirmajmoee()" onmouseout="hidezirmajmoee()">
                                          <ul id="style-of-zirmenu-of-tamirat" class="style-of-zirmenu-of-tamirat">
                                             <li onmouseover="showzirmajmoee2()" onmouseout="hidezirmajmoee2()" class="style-of-sdf background-color-0e4797-hover"><a class="style-of-text-of-zirmenus style-of-sdf"  >لوازم خانگی</a>
                                                 <ul id="style-of-zirmenu-of-tamirat2" class="style-of-zirmenu-of-tamirat2" class="style-of-all-of-zirmajmoee">
@@ -655,6 +650,12 @@ title: ''
 </table>
 <!-- end new-news -->
 <!-- ---------------------------------------------------------------------------------------------------- -->
+<h2 class="instagram-and-qire">ما را در شبکه های اجتماعی دنبال کنید</h2>
+<a href="https://instagram.com/tamirmarket.ir">
+    <img class="instagram-logo" src="img/footer/instagram.png" alt="instagram">
+</a>
+<br>
+<br>
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <!-- *** footer *** -->
 <table class="style-of-footer-title display-none-mo">
@@ -812,7 +813,7 @@ title: ''
     <!-- end *** footer *** -->
     <!-- ---------------------------------------------------------------------------------------------------- -->
 <!-- script files  -->
-<script src="JS/js.min.js"></scrip>
+<script src="JS/js.min.js"></script>
 <!-- end script files  -->
 </body>
 </html>
