@@ -330,7 +330,7 @@
                 </a>    
                 <a href="RepairPakij.php">
                     <div class="rotate-ItemTamirat-img style-of-ItemTamirat-div">
-                            <img class="style-of-ItemTamirat-img" src="img/ItemTamirat/pakij.jpg"  alt="تعمیرات پکیج | تعمیر پکیج">
+                            <img class="style-of-ItemTamirat-img" src="img/ItemTamirat/pakij.gif"  alt="تعمیرات پکیج | تعمیر پکیج">
                     </div>
                 </a> 
                 <a href="SimTakFazMotor.php">
@@ -661,7 +661,9 @@
 <table class="style-of-footer-title display-none-mo">
     <tr>
         <td class="style-of-footer-td">
-            <p class="style-of-footer-asli-title"><span class="text-color-darkblue-2">تعمیر مارکت</span></p>
+            <p class="style-of-footer-asli-title"><span class="text-color-darkblue-2">تعمیرات لوازم خانگی  
+            <br> 
+            تعمیر مارکت</span></p>
         </td>
         <td class="style-of-footer-td">
             <p class="style-of-footer-title">استان تهران</p>
@@ -675,50 +677,25 @@
             <img class="style-of-footer-logo" src="img/footer/footerlogo.png" alt="تعمیر مارکت">
         </td>
         <td class="style-of-footer-td">
-            <a class="style-of-footer-a">
                 <p class="style-of-footer-title">۰۹۱۲-۳۲۰۲۰۱۳</p>  
-            </a>
         </td>
         <td class="style-of-footer-td">
-            <a class="style-of-footer-a">
                 <p class="style-of-footer-title">۰۲۶-۳۴۲۱۳۹۸۵</p>  
-            </a>
         </td>
     </tr>
     <tr>
         <td class="style-of-footer-td">
-            <a class="style-of-footer-a">
-                <p class="style-of-footer-title">۰۹۱۲-۲۲۴۶۰۴۶</p>  
-            </a>
-        </td>
-        <td class="style-of-footer-td">
-            <a class="style-of-footer-a">
-                <p class="style-of-footer-title">۰۲۶-۳۴۲۱۳۸۴۹</p>  
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td class="style-of-footer-td">
-            <p class="style-of-footer-copyright">
-                تمامی حقوق برای تعمیر مارکت محفوظ می باشد ©
-            </p>
-        </td>
-        <td class="style-of-footer-td">
-            <a class="style-of-footer-a">
-                <p class="style-of-footer-title">۰۹۱۲-۰۴۵۷۹۶۹</p>  
-            </a>
-        </td>
-        <td class="style-of-footer-td">
-            <a class="style-of-footer-a">
                 <p class="style-of-footer-title">۰۹۱۲-۹۲۴۲۷۷۶</p>  
-            </a>
+        </td>
+        <td class="style-of-footer-td">
+                <p class="style-of-footer-title">۰۲۶-۳۴۲۱۳۸۴۹</p>  
         </td>
     </tr>
     <tr>
         <td class="style-of-footer-td"> 
-            <a class="style-of-footer-made-by-ITROSOFT"  href="#">
-                <p class="style-of-footer-made-by-ITROSOFT">ساخته شده توسط Itro Programming</p>
-            </a>
+        <p class="style-of-footer-copyright">
+                تمامی حقوق برای تعمیر مارکت محفوظ می باشد ©
+        </p>
         </td>
         <td class="style-of-footer-td">
             <a class="style-of-footer-a">
@@ -727,12 +704,24 @@
         </td>
         <td class="style-of-footer-td">
             <p class="style-of-footer-address">
-                آدرس:
-                کرج، خیابان شهید بهشتی، بلوار امام خمینی، نرسیده به دانشگاه رسام، ساختمان سپاس
+                کرج، بلوار امام خمینی، نرسیده به دانشگاه رسام، ساختمان سپاس
             </p>  
         </td>
     </tr>
-    </table>
+    </table>    
+
+
+
+
+
+
+
+
+
+
+
+
+
     <table class="style-of-footer-title display-none-pc">
     <tr>
     <td class="style-of-footer-td">

@@ -682,10 +682,6 @@
         width: 80%;
         margin-left: 17%;
     }
-    .style-of-ItemTamirat-radif{
-        display: inline !important;
-        margin-top: 10px !important;
-    }
     .style-of-ItemTamirat-div{
         display: inline !important;
         width: 19% !important;
@@ -3373,3 +3369,7 @@ body{
     }
     }
 /* end 404 styles  */
+.styles-of-body-tag{
+    margin-left: 0%;
+    margin-bottom: 0%;
+}
