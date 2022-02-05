@@ -302,14 +302,14 @@
                 </a>
                 <a href="RepairHomeBoard.php">
                 <div class="rotate-ItemTamirat-img style-of-ItemTamirat-div">
-                        <img class="style-of-ItemTamirat-img" src="img/ItemTamirat/board.jpg"            alt="تعمیرات برد های الکترونیکی | تعمیر بردهای الکترونیکی">
+                        <img class="style-of-ItemTamirat-img" src="img/ItemTamirat/board.gif"            alt="تعمیرات برد های الکترونیکی | تعمیر بردهای الکترونیکی">
                 </div>
                 </a>
                 </div>
                 <div class="style-of-ItemTamirat-radif">
                 <a href="RepairMicrowave.php">
                 <div class="rotate-ItemTamirat-img style-of-ItemTamirat-div">
-                        <img class="style-of-ItemTamirat-img" src="img/ItemTamirat/macrowawe.jpg"        alt="تعمیرات ماکروویو | تعمیر ماکروویو">
+                        <img class="style-of-ItemTamirat-img" src="img/ItemTamirat/microwave.gif"        alt="تعمیرات ماکروویو | تعمیر ماکروویو">
                 </div>
                 <br class="display-none-mo"><br class="display-none-mo">
                 </a>

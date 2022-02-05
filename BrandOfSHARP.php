@@ -251,14 +251,14 @@
                 </a>
                 <a href="RepairHomeBoardOfSHARP.php">
                 <div class="rotate-ItemTamirat-img style-of-ItemTamirat-div">
-                        <img class="style-of-ItemTamirat-img" src="img/ItemTamirat/board.jpg"            alt="تعمیر مارکت">
+                        <img class="style-of-ItemTamirat-img" src="img/ItemTamirat/board.gif"            alt="تعمیر مارکت">
                 </div>
                 </a>
                 </div>
                 <div class="style-of-ItemTamirat-radif">
                 <a href="RepairMicrowaveOfSHARP.php">
                 <div class="rotate-ItemTamirat-img style-of-ItemTamirat-div">
-                        <img class="style-of-ItemTamirat-img" src="img/ItemTamirat/macrowawe.jpg"        alt="تعمیر مارکت">
+                        <img class="style-of-ItemTamirat-img" src="img/ItemTamirat/microwave.gif"        alt="تعمیر مارکت">
                 </div>
                 <br class="display-none-mo"><br class="display-none-mo">
                 </a>
