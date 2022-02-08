@@ -8,7 +8,7 @@
     <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
     <meta name="keywords" content=" ارج - تعمیر - تعمیرات - رفع - ایراد - ایرادات - مشکل - وسیله ی مورد نظر - ماشین - دوقلو - درب - از - بالا - در - استان - تهران - البرز - کرج - خشک - کن - دار-اتوماتیک - تعمیر مارکت - تعمیرگاه - خدمات - مجاز - مرکزی - سرویس - نصب - جاده - چالوس - زنبق -عظیمیه -بعثت - طالقانی - شمالی - طالقانی - جنوبی - میدان - اسبی - میدان - مهران - بلوار - کاج - پامچال - شمالی - پامچال - جنوبی - برغان - اسلام - اباد - آباد - ازادگان - آزادگان - حسن - اباد- آباد - نواب - مطهری - میدان - نبوت - بلوار - جمهوری - شمالی - بلوار - جمهوری - جنوبی - بلوار - موذن - اشتراکی - شمالی - اشتراکی - جنوبی - کوی - پیروزی - شهرک - بهارستان - ملکشاه - بلوار - امام - رضا - بلوار - ملاصدرا - ملا صدرا - جهانشهر - کسری - شمالی - کسری - جنوبی - بلوار - ماهان - بلوار - بهارستان - فرمانداری - رجایی - شهر - گوهر - دشت - بلوار - رستاخیز - بلوار - شهرداری - بلوار - انقلاب - اوقافی - محمود - اباد - باغستان - باغستان - غربی - خیابان - قلم - بنیاد - شاهین - ویلا - جواد - اباد - کوی - داریوش - شهرک - یاس - حصارک - بالا - حصارک - پایین - کمال - اباد - خرمدشت - پیشاهنگی - نظر - اباد - هشتگرد - شهرک - رازی - مهر - شهر- بلوار - ارم - حسین - اباد - مهرشهر - کیانمهر - فاز - 4 - مهر - شهر - 45 -متری - گلشهر - شهرک - مترو- شهرک - پردیسان - شهرک - سلمان - فارسی - دهقان - ویلای - اول - دهقان - ویلای - دوم - میانجاده - حیدر - اباد - کرج - نو - سه - راه - گوهر - دشت - بلوار - سه - باندی - کوی - داریوش - زمین - های - خانم - انصاری - کوی - کارمندان - شمالی - کوی - کارمندان - جنوبی - مهر - ویلا - بلوار - دانش - اموز - دولت - اباد - چهار - صد - دستگاه - هفت - تیر - محمد - شهر - شهرک - مهندسی - زراعی - فردیس - شهرک - وحدت - شهرک - منظریه - ساسانی - فردوسی - رزکان - نو - قلمستان - مصباح - کلاک - بالا - کلاک - پایین - کلاک -  شهرداری - گرمدره - شهرک - جهان - نما - شهرک - خاتم - حسین - آباد - راهن - راه - آهن - اهن - جاده - چالوس - زنبق - عظیمیه - بعثت - طالقانی - شمالی - طالقانی - جنوبی - میدان - اسبی - میدان - مهران - بلوار - کاج - پامچال - شمالی - پامچال - جنوبی - برغان - اسلام - اباد - ازادگان - حسن - اباد - نواب - مطهری - میدان - نبوت - بلوار - جمهوری - شمالی - بلوار - جمهوری - جنوبی - بلوار - موذن - اشتراکی - شمالی - اشتراکی - جنوبی - کوی - پیروزی - شهرک - بهارستان - ملکشاه - بلوار - امام - رضا - بلوار - ملا - صدرا - ملاصدرا - جهانشهر - کسری - شمالی - کسری - جنوبی - بلوار - ماهان - بلوار - بهارستان - فرمانداری - رجایی - شهر - گوهر - دشت - بلوار - رستاخیز - بلوار - شهرداری - بلوار - انقلاب - اوقافی - محمود - اباد - باغستان - باغستان - غربی - خیابان - قلم - بنیاد - شاهین - ویلا - جواد - اباد - کوی - داریوش - شهرک - یاس - حصارک - بالا - حصارک - پایین - کمال - اباد - خرمدشت - پیشاهنگی - نظر - اباد - هشتگرد - شهرک - رازی - مهر - شهر - بلوار - ارم - حسین - اباد - مهر - شهر - کیانمهر - کیان - مهر - فاز - چهار - 4 - مهر - شهر - 45متری - چهل - و- پنج - متری - گلشهر - شهرک - مترو - شهرک - پردیسان - شهرک - سلمان - فارسی - دهقان - ویلای - اول - دهقان - ویلای - دوم - میانجاده - حیدر - اباد - کرج - نو - سه - راه - گوهر - دشت - بلوار - سه - باندی - کوی - داریوش - زمین - های - خانم - انصاری - کوی - کارمندان - شمالی - کوی - کارمندان - جنوبی - مهر - ویلا - بلوار - دانش - اموز - آموز - دولت - اباد - چهار - صد - دستگاه - هفت - تیر - محمد - شهر - شهرک - مهندسی - زراعی - فردیس - شهرک - وحدت - شهرک - منظریه - ساسانی - فردوسی - رزکان - نو - قلمستان - مصباح - کلاک - بالا - کلاک -پایین - کلاک - شهرداری - گرمدره - شهرک - جهان - نما - شهرک - خاتم - حسین - آباد - راهن - منیریه - گمرک - نازی‌ - آباد - خانی‌ - آباد - خزانه - کیان‌ - شهر - بریانک - پیروزی - نیرو - هوایی - صفا - افسریه - بهارستان - دروازه - شمیران - شکوفه - مشیریه - شهر - ری - نازی - آباد - میدان - خراسان - خاوران - سعادت - آباد - شهرک - غرب - پونک - جی - باغ فیض - شهران - ستارخان - صادقیه - گیشا - اکباتان - سردار - جنگل - کاشانی - المپیک - آزادی - درکه - تهرانسر - شهرآرا - شهرزیبا - مرزداران - فردوس - اوین - ایوانک - نیاوران - دزاشیب - پاسداران - فرمانیه - ازگل - ارتش - تجریش - زعفرانیه - قیطریه - چیذر - اختیاریه - قلهک - ظفر - میرداماد - جردن - نوبنیاد - نو بنیاد - شریعتی - هفت تیر - یوسف آباد - سهروردی - وزرا - الهیه - گاندی - تهرانپارس - حکیمیه - رسالت - هفت - حوض - سراج - دلاوران - شمیران - نو - هنگام - نارمک - مجیدیه - بهار - سبلان - دردشت - نظام - آباد - علم - و - صنعت - پیروزی - پلیس - کرمان - مدنی - امام - حسین - تهران - نو">
     
-    <title> تعمیرات پکیج تعمیر مارکت | Tamir Market Washing Machine repair</title>
+    <title> تعمیرات پکیج | تعمیر مارکت</title>
 </head>
 <body class="styles-of-body-tag">
         <header class="position-of-menu style-of-menu">
@@ -26,11 +26,11 @@
                                          <ul id="style-of-zirmenu-of-tamirat" class="style-of-zirmenu-of-tamirat">
                                             <li onmouseover="showzirmajmoee2()" onmouseout="hidezirmajmoee2()" class="style-of-sdf background-color-0e4797-hover"><a class="style-of-text-of-zirmenus style-of-sdf"  >لوازم خانگی</a>
                                                 <ul id="style-of-zirmenu-of-tamirat2" class="style-of-zirmenu-of-tamirat2" class="style-of-all-of-zirmajmoee">
-                                                    <li class="style-of-sdf"><a class="style-of-text-of-zirmenus style-of-sdf" href="RepairWashingMachine.php"> ماشین لباسشویی</a></li>
-                                                    <li class="style-of-sdf"><a class="style-of-text-of-zirmenus style-of-sdf" href="RepairRefrigerator.php">یخچال/فریزر </a></li>
-                                                    <li class="style-of-sdf"><a class="style-of-text-of-zirmenus style-of-sdf" href="RepairSideBySide.php">ساید بای ساید</a></li>
-                                                    <li class="style-of-sdf"><a class="style-of-text-of-zirmenus style-of-sdf" href="RepairDishwasher.php"> ظرفشویی</a></li>
-                                                    <li class="style-of-sdf"><a class="style-of-text-of-zirmenus style-of-sdf" href="RepairMicrowave.php"> ماکروویو</a></li>
+                                                    <li class="style-of-sdf"><a class="style-of-text-of-zirmenus style-of-sdf" title="تعمیرات ماشین لباسشویی | تعمیر مارکت" href="RepairWashingMachine.php"> ماشین لباسشویی</a></li>
+                                                    <li class="style-of-sdf"><a class="style-of-text-of-zirmenus style-of-sdf" title="تعمیرات یخچال فریزر | تعمیر مارکت" href="RepairRefrigerator.php">یخچال/فریزر </a></li>
+                                                    <li class="style-of-sdf"><a class="style-of-text-of-zirmenus style-of-sdf" title="تعمیرات ساید بای ساید | تعمیر مارکت" href="RepairSideBySide.php">ساید بای ساید</a></li>
+                                                    <li class="style-of-sdf"><a class="style-of-text-of-zirmenus style-of-sdf" title="تعمیرات ظرفشویی | تعمیر مارکت" href="RepairDishwasher.php"> ظرفشویی</a></li>
+                                                    <li class="style-of-sdf"><a class="style-of-text-of-zirmenus style-of-sdf" title="تعمیرات ماکروفر ( سولاردام ، ماکروویو )" href="RepairMicrowave.php"> ماکروویو</a></li>
                                                     <li class="style-of-sdf"><a class="style-of-text-of-zirmenus style-of-sdf" href="RepairAirConditioning.php"> کولر آبی/گازی</a></li>
                                                     <li class="style-of-sdf"><a class="style-of-text-of-zirmenus style-of-sdf" href="RepairVacuumeCleaner.php"> جاروبرقی </a></li>
                                                     <li class="style-of-sdf"><a class="style-of-text-of-zirmenus style-of-sdf" href="RepairKitchenAppliances.php">لوازم آشپزخانه </a></li>
@@ -92,8 +92,8 @@
             <div id="style-of-all-menu" class="style-of-all-menu display-none-pc">
                 <div>
                     <div>
-                        <img onclick="ChangeAlamatOfMenu()" id="style-hamberger-in-menu-mo" class="style-hamberger-in-menu-mo" src="img/menu/menu icon.png"  alt="تعمیر مارکت"></img>
-                        <img onclick="ChangeAlamatOfMenu()" id="style-x-in-menu-mo" class="style-x-in-menu-mo" src="img/menu/zarbdar.png"    alt="تعمیر مارکت"></img>
+                        <img onclick="ChangeAlamatOfMenu()" id="style-hamberger-in-menu-mo" class="style-hamberger-in-menu-mo" src="img/menu/menu icon.png"  alt="تعمیر پکیج در کرج"></img>
+                        <img onclick="ChangeAlamatOfMenu()" id="style-x-in-menu-mo" class="style-x-in-menu-mo" src="img/menu/zarbdar.png"    alt="تعمیر پکیج در تهران"></img>
                             <nav id="display-of-all-menu-in-mo" class="display-of-all-menu-in-mo">
                                 <ul>
                                     <li  class="style-of-menu-text-in-mo"><a  class="style-of-menu-text-in-mo" href="index.php">صفحه ی اصلی </a></li>
@@ -158,8 +158,8 @@
     <p id="show-menu-button" onclick="show_menu_desktop()" class="style-show-menu-button"> < </p>
     <div class="first-logo-styles">
         <br><br><br><br class=pc"><br class=pc">
-        <img class="display-inline styles-of-first-logo-in-all-pages-1" src="img/firstlogo/لوگوی تعمیر مارکت.png"             alt="Tamir Market تعمیر مارکت">
-        <img class="display-inline styles-of-first-logo-in-all-pages-2" src="img/firstlogo/تعمیر مارکت.png" alt="Tamir Market تعمیر مارکت">
+        <img class="display-inline styles-of-first-logo-in-all-pages-1" src="img/firstlogo/لوگوی تعمیر مارکت.png"             alt="تعمیرات پکیج در کرج">
+        <img class="display-inline styles-of-first-logo-in-all-pages-2" src="img/firstlogo/تعمیر مارکت.png" alt="تعمیرات پکیج در تهران">
         <hr class="style-of-hr-in-bottom-of-first-logo-in-all-pages">
     </div>
     <h1 class="style-of-moarefi-shoql2">
@@ -200,7 +200,7 @@
                 برند دستگاه خود را انتخاب کنید
             </h3>
             <br>
-                    <div class="scale-brand-img"><a href="RepairPakijOfLG.php">             <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/LG.png"                    alt="تعمیر مارکت"></a></div>
+                    <div class="scale-brand-img"><a href="RepairPakijOfLG.php">             <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/LG.png"                    alt="تعمیر پکیج در کرج"></a></div>
                     <div class="scale-brand-img"><a href="RepairPakijOfSAMSUNG.php">        <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/SAMSUNG.png"               alt="تعمیر مارکت"></a></div>
                     <div class="scale-brand-img"><a href="RepairPakijOfDAEWOO.php">         <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/DAEWOO.png"                alt="تعمیر مارکت"></a></div>
                     <div class="scale-brand-img"><a href="RepairPakijOfSNOWA.php">          <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/SNOWA.png"                 alt="تعمیر مارکت"></a></div>
@@ -321,7 +321,7 @@
         </p>
         <br><br>
         <p class="about-brand-title">ساختار داخلی پکیج</p>
-        <img class="style-of-orginal-brand-image" src="img/Lavazem Khanegy Images/PAKIJ/00001.png" alt="تعمیرات پکیج ال جی">
+        <img class="style-of-orginal-brand-image" src="img/Lavazem Khanegy Images/PAKIJ/00001.png" alt="تعمیرات پکیج | تعمیر مارکت">
         <br><br>
         <p class="about-brand-text">
         طرز کار پکیج دیواری به این صورت است که آب سرد وارد آن می‌شود و مستقیماً آب را بدون نیاز به مخزن گرم می‌کند. شاید برایتان سوال باشد که پکیج با برق کار میکند یا گاز؟ بسته به نوع مصرف انرژی، پکیج دیواری با برق یا گاز آب را گرم می‌کند
@@ -330,45 +330,45 @@
         <p class="about-brand-title">پمپ پکیج</p>
         <div class="style-of-ItemTamirat-radif style-of-ItemTamirat-radif-in-brand-page">
             <div class=" style-of-ItemTamirat-div">
-               <img class="style-of-ItemTamirat-img" src="img/Lavazem Khanegy Images/PAKIJ/Q/1.png"       alt="تعمیر مارکت">
+               <img class="style-of-ItemTamirat-img" src="img/Lavazem Khanegy Images/PAKIJ/Q/1.png"       alt="تامین قطعات پکیج | تعمیر مارکت">
             </div>
             <div class=" style-of-ItemTamirat-div">
-               <img class="style-of-ItemTamirat-img" src="img/Lavazem Khanegy Images/PAKIJ/Q/2.png"        alt="تعمیر مارکت">
+               <img class="style-of-ItemTamirat-img" src="img/Lavazem Khanegy Images/PAKIJ/Q/2.png"       alt="تامین قطعات پکیج | تعمیر مارکت">
             </div>
             <div class=" style-of-ItemTamirat-div">
-                <img class="style-of-ItemTamirat-img" src="img/Lavazem Khanegy Images/PAKIJ/Q/3.png"             alt="تعمیر مارکت">
+                <img class="style-of-ItemTamirat-img" src="img/Lavazem Khanegy Images/PAKIJ/Q/3.png"      alt="تامین قطعات پکیج | تعمیر مارکت">
             </div>
             <div class=" style-of-ItemTamirat-div">
-                <img class="style-of-ItemTamirat-img" src="img/Lavazem Khanegy Images/PAKIJ/Q/4.png"            alt="تعمیر مارکت">
+                <img class="style-of-ItemTamirat-img" src="img/Lavazem Khanegy Images/PAKIJ/Q/4.png"      alt="تامین قطعات پکیج | تعمیر مارکت">
             </div>
         </div>
         <br><br>
         <p class="about-brand-title">ترموستات پکیج</p>
         <div class=" style-of-ItemTamirat-div">
-            <img class="style-of-ItemTamirat-img" src="img/Lavazem Khanegy Images/PAKIJ/Q/9.png"       alt="تعمیر مارکت">
+            <img class="style-of-ItemTamirat-img" src="img/Lavazem Khanegy Images/PAKIJ/Q/9.png"          alt="تامین قطعات پکیج | تعمیر مارکت">
          </div>
          <div class=" style-of-ItemTamirat-div">
-            <img class="style-of-ItemTamirat-img" src="img/Lavazem Khanegy Images/PAKIJ/Q/10.png"        alt="تعمیر مارکت">
+            <img class="style-of-ItemTamirat-img" src="img/Lavazem Khanegy Images/PAKIJ/Q/10.png"         alt="تامین قطعات پکیج | تعمیر مارکت">
          </div>
          <div class=" style-of-ItemTamirat-div">
-             <img class="style-of-ItemTamirat-img" src="img/Lavazem Khanegy Images/PAKIJ/Q/11.png"             alt="تعمیر مارکت">
+             <img class="style-of-ItemTamirat-img" src="img/Lavazem Khanegy Images/PAKIJ/Q/11.png"        alt="تامین قطعات پکیج | تعمیر مارکت">
          </div>
          <div class=" style-of-ItemTamirat-div">
-             <img class="style-of-ItemTamirat-img" src="img/Lavazem Khanegy Images/PAKIJ/Q/12.png"            alt="تعمیر مارکت">
+             <img class="style-of-ItemTamirat-img" src="img/Lavazem Khanegy Images/PAKIJ/Q/12.png"        alt="تامین قطعات پکیج | تعمیر مارکت">
          </div>
         <br><br>
         <p class="about-brand-title">برد الکترونیکی پکیج</p>
         <div class=" style-of-ItemTamirat-div">
-            <img class="style-of-ItemTamirat-img" src="img/Lavazem Khanegy Images/PAKIJ/Q/21.png"       alt="تعمیر مارکت">
+            <img class="style-of-ItemTamirat-img" src="img/Lavazem Khanegy Images/PAKIJ/Q/21.png"         alt="تامین قطعات پکیج | تعمیر مارکت">
          </div>
          <div class=" style-of-ItemTamirat-div">
-            <img class="style-of-ItemTamirat-img" src="img/Lavazem Khanegy Images/PAKIJ/Q/22.png"        alt="تعمیر مارکت">
+            <img class="style-of-ItemTamirat-img" src="img/Lavazem Khanegy Images/PAKIJ/Q/22.png"         alt="تامین قطعات پکیج | تعمیر مارکت">
          </div>
          <div class=" style-of-ItemTamirat-div">
-             <img class="style-of-ItemTamirat-img" src="img/Lavazem Khanegy Images/PAKIJ/Q/23.png"             alt="تعمیر مارکت">
+             <img class="style-of-ItemTamirat-img" src="img/Lavazem Khanegy Images/PAKIJ/Q/23.png"        alt="تامین قطعات پکیج | تعمیر مارکت">
          </div>
          <div class=" style-of-ItemTamirat-div">
-             <img class="style-of-ItemTamirat-img" src="img/Lavazem Khanegy Images/PAKIJ/Q/24.png"            alt="تعمیر مارکت">
+             <img class="style-of-ItemTamirat-img" src="img/Lavazem Khanegy Images/PAKIJ/Q/24.png"        alt="تامین قطعات پکیج | تعمیر مارکت">
          </div>
         <p class="about-brand-text">
             وظیفه برد الکترونیکی پکیج کنترل و فرماندهی تمامی عملکرد های پکیج شماست.
@@ -397,7 +397,7 @@
     <table class="style-of-naqshe-iran-box">
         <tr>
             <td>
-                <img class="style-of-naqshe-iran-img" src="img/naqshe iran/naqsh iran.png" alt="تعمیر مارکت">
+                <img class="style-of-naqshe-iran-img" src="img/naqshe iran/naqsh iran.png" alt="محدوده ی تحت پوشش خدمات | تعمیر مارکت">
             </td>
             <td>
                 <p class="style-of-naqshe-iran-title-text">تعمیر مارکت</p>
@@ -411,7 +411,7 @@
     <table class="style-of-naqshe-iran-box-mo">
         <tr>
             <td>
-                <img class="style-of-naqshe-iran-img" src="img/naqshe iran/naqsh iran.png" alt="تعمیر مارکت">
+                <img class="style-of-naqshe-iran-img" src="img/naqshe iran/naqsh iran.png" alt="محدوده ی تحت پوشش خدمات | تعمیر مارکت">
             </td>
         </tr>
         <tr>
@@ -528,7 +528,7 @@
     </tr>
     <tr>
         <td rowspan="2" class="style-of-footer-td">
-            <img class="style-of-footer-logo" src="img/footer/footerlogo.png" alt="تعمیر مارکت">
+            <img class="style-of-footer-logo" src="img/footer/footerlogo.png" alt="ارتباط با ما | تعمیر مارکت">
         </td>
         <td class="style-of-footer-td">
                 <p class="style-of-footer-title">۰۹۱۲-۳۲۰۲۰۱۳</p>  
@@ -584,7 +584,7 @@
     </tr>
     <tr>
     <td class="style-of-footer-td">
-        <img class="style-of-footer-logo" src="img/footer/footerlogo.png" alt="تعمیر مارکت">
+        <img class="style-of-footer-logo" src="img/footer/footerlogo.png" alt="ارتباط با ما | تعمیر مارکت">
     </td>
     </tr>
     <tr>

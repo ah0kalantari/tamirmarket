@@ -25,11 +25,11 @@
                                              <ul id="style-of-zirmenu-of-tamirat" class="style-of-zirmenu-of-tamirat">
                                                 <li onmouseover="showzirmajmoee2()" onmouseout="hidezirmajmoee2()" class="style-of-sdf background-color-0e4797-hover"><a class="style-of-text-of-zirmenus style-of-sdf"  >لوازم خانگی</a>
                                                     <ul id="style-of-zirmenu-of-tamirat2" class="style-of-zirmenu-of-tamirat2" class="style-of-all-of-zirmajmoee">
-                                                        <li class="style-of-sdf"><a class="style-of-text-of-zirmenus style-of-sdf" href="RepairWashingMachine.php"> ماشین لباسشویی</a></li>
-                                                        <li class="style-of-sdf"><a class="style-of-text-of-zirmenus style-of-sdf" href="RepairRefrigerator.php">یخچال/فریزر </a></li>
-                                                        <li class="style-of-sdf"><a class="style-of-text-of-zirmenus style-of-sdf" href="RepairSideBySide.php">ساید بای ساید</a></li>
-                                                        <li class="style-of-sdf"><a class="style-of-text-of-zirmenus style-of-sdf" href="RepairDishwasher.php"> ماشین ظرفشویی</a></li>
-                                                        <li class="style-of-sdf"><a class="style-of-text-of-zirmenus style-of-sdf" href="RepairMicrowave.php"> ماکروویو</a></li>
+                                                        <li class="style-of-sdf"><a class="style-of-text-of-zirmenus style-of-sdf" title="تعمیرات ماشین لباسشویی | تعمیر مارکت" href="RepairWashingMachine.php"> ماشین لباسشویی</a></li>
+                                                        <li class="style-of-sdf"><a class="style-of-text-of-zirmenus style-of-sdf" title="تعمیرات یخچال فریزر | تعمیر مارکت" href="RepairRefrigerator.php">یخچال/فریزر </a></li>
+                                                        <li class="style-of-sdf"><a class="style-of-text-of-zirmenus style-of-sdf" title="تعمیرات ساید بای ساید | تعمیر مارکت" href="RepairSideBySide.php">ساید بای ساید</a></li>
+                                                        <li class="style-of-sdf"><a class="style-of-text-of-zirmenus style-of-sdf" title="تعمیرات ظرفشویی | تعمیر مارکت" href="RepairDishwasher.php"> ظرفشویی</a></li>
+                                                        <li class="style-of-sdf"><a class="style-of-text-of-zirmenus style-of-sdf" title="تعمیرات ماکروفر ( سولاردام ، ماکروویو )" href="RepairMicrowave.php"> ماکروویو</a></li>
                                                         <li class="style-of-sdf"><a class="style-of-text-of-zirmenus style-of-sdf" href="RepairAirConditioning.php"> کولر آبی/گازی</a></li>
                                                         <li class="style-of-sdf"><a class="style-of-text-of-zirmenus style-of-sdf" href="RepairVacuumeCleaner.php"> جاروبرقی </a></li>
                                                         <li class="style-of-sdf"><a class="style-of-text-of-zirmenus style-of-sdf" href="RepairKitchenAppliances.php">لوازم آشپزخانه </a></li>
@@ -285,7 +285,7 @@
                 </a> 
                 <a href="SimTakFazMotorOfLG.php">
                     <div class="rotate-ItemTamirat-img style-of-ItemTamirat-div">
-                            <img class="style-of-ItemTamirat-img" src="img/ItemTamirat/sim pichi motor.jpg"  alt="تعمیر مارکت">
+                            <img class="style-of-ItemTamirat-img" src="img/ItemTamirat/sim pichi motor.gif"  alt="تعمیر مارکت">
                     </div>
                 </a> 
                 </div>
@@ -511,7 +511,7 @@
     </tr>
     <tr>
         <td rowspan="2" class="style-of-footer-td">
-            <img class="style-of-footer-logo" src="img/footer/footerlogo.png" alt="تعمیر مارکت">
+            <img class="style-of-footer-logo" src="img/footer/footerlogo.png" alt="ارتباط با ما | تعمیر مارکت">
         </td>
         <td class="style-of-footer-td">
                 <p class="style-of-footer-title">۰۹۱۲-۳۲۰۲۰۱۳</p>  
@@ -567,7 +567,7 @@
     </tr>
     <tr>
     <td class="style-of-footer-td">
-        <img class="style-of-footer-logo" src="img/footer/footerlogo.png" alt="تعمیر مارکت">
+        <img class="style-of-footer-logo" src="img/footer/footerlogo.png" alt="ارتباط با ما | تعمیر مارکت">
     </td>
     </tr>
     <tr>

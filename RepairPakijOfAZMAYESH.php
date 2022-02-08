@@ -12,7 +12,7 @@
 </head>
 <body class="styles-of-body-tag">
         <header class="position-of-menu style-of-menu">
-        <div class="style-of-all-menu display-none-mo">
+<div id="hidemenudesktop" class="style-of-all-menu display-none-mo">
             <div>
                 <div>
                     <img onclick="dispalymenuitems()" src="img/menu/menu icon.png" id="display-of-menu-icon"     alt="تعمیر مارکت" class="style-of-menu-icon-in-mo"></img>
@@ -22,28 +22,28 @@
                                 <li class="display-inline"><a class="style-of-sdf style-of-original-page-item-in-menu-for-mo z-index-of-orginal-item-of-menu" href="index.php">صفحه ی اصلی </a></li>
                                 <div onmouseover="showzirmajmoee()" class="style-of-temirat-in-menu-and-open-or-close">
                                     <li  class="display-inline z-index-of-orginal-item-of-menu"> <a class="style-of-sdf z-index-of-orginal-item-of-menu">تعمیرات</a>
-                                       <div class="display-inline" onmouseover="showzirmajmoee()" onmouseout="hidezirmajmoee()">
+                                       <div id="99900999" class="display-inline" onmouseover="showzirmajmoee()" onmouseout="hidezirmajmoee()">
                                          <ul id="style-of-zirmenu-of-tamirat" class="style-of-zirmenu-of-tamirat">
                                             <li onmouseover="showzirmajmoee2()" onmouseout="hidezirmajmoee2()" class="style-of-sdf background-color-0e4797-hover"><a class="style-of-text-of-zirmenus style-of-sdf"  >لوازم خانگی</a>
                                                 <ul id="style-of-zirmenu-of-tamirat2" class="style-of-zirmenu-of-tamirat2" class="style-of-all-of-zirmajmoee">
-                                                    <li class="style-of-sdf"><a class="style-of-text-of-zirmenus style-of-sdf" href="RepPAKIJWashingMachine.php"> پکیج</a></li>
-                                                    <li class="style-of-sdf"><a class="style-of-text-of-zirmenus style-of-sdf" href="RepPAKIJRefrigerator.php">یخچال/فریزر </a></li>
-                                                    <li class="style-of-sdf"><a class="style-of-text-of-zirmenus style-of-sdf" href="RepPAKIJSideBySide.php">ساید بای ساید</a></li>
-                                                    <li class="style-of-sdf"><a class="style-of-text-of-zirmenus style-of-sdf" href="RepairDishwasher.php"> ظرفشویی</a></li>
-                                                    <li class="style-of-sdf"><a class="style-of-text-of-zirmenus style-of-sdf" href="RepPAKIJMicrowave.php"> ماکروویو</a></li>
-                                                    <li class="style-of-sdf"><a class="style-of-text-of-zirmenus style-of-sdf" href="RepPAKIJPAKIJConditioning.php"> کولر آبی/گازی</a></li>
-                                                    <li class="style-of-sdf"><a class="style-of-text-of-zirmenus style-of-sdf" href="RepPAKIJVacuumeCleaner.php"> جاروبرقی </a></li>
-                                                    <li class="style-of-sdf"><a class="style-of-text-of-zirmenus style-of-sdf" href="RepPAKIJKitchenAppliances.php">لوازم آشپزخانه </a></li>
+                                                    <li class="style-of-sdf"><a class="style-of-text-of-zirmenus style-of-sdf" title="تعمیرات ماشین لباسشویی | تعمیر مارکت" href="RepairWashingMachine.php"> ماشین لباسشویی</a></li>
+                                                    <li class="style-of-sdf"><a class="style-of-text-of-zirmenus style-of-sdf" title="تعمیرات یخچال فریزر | تعمیر مارکت" href="RepairRefrigerator.php">یخچال/فریزر </a></li>
+                                                    <li class="style-of-sdf"><a class="style-of-text-of-zirmenus style-of-sdf" title="تعمیرات ساید بای ساید | تعمیر مارکت" href="RepairSideBySide.php">ساید بای ساید</a></li>
+                                                    <li class="style-of-sdf"><a class="style-of-text-of-zirmenus style-of-sdf" title="تعمیرات ظرفشویی | تعمیر مارکت" href="RepairDishwasher.php"> ظرفشویی</a></li>
+                                                    <li class="style-of-sdf"><a class="style-of-text-of-zirmenus style-of-sdf" title="تعمیرات ماکروفر ( سولاردام ، ماکروویو )" href="RepairMicrowave.php"> ماکروویو</a></li>
+                                                    <li class="style-of-sdf"><a class="style-of-text-of-zirmenus style-of-sdf" href="RepairAirConditioning.php"> کولر آبی/گازی</a></li>
+                                                    <li class="style-of-sdf"><a class="style-of-text-of-zirmenus style-of-sdf" href="RepairVacuumeCleaner.php"> جاروبرقی </a></li>
+                                                    <li class="style-of-sdf"><a class="style-of-text-of-zirmenus style-of-sdf" href="RepairKitchenAppliances.php">لوازم آشپزخانه </a></li>
                                                 </ul>
                                             </li>
                                             <br class="display-none-pc">
                                             <li onmouseover="showzirmajmoee3()" onmouseout="hidezirmajmoee3()" class="style-of-sdf border-top-of-menu"><a class="style-of-text-of-zirmenus"  >برد های الکترونیکی</a>
                                                 <ul id="style-of-zirmenu-of-tamirat3" class="style-of-zirmenu-of-tamirat3">
                                                     <li class="style-of-sdf"><a class="style-of-text-of-zirmenus">
-                                                         <a class="style-of-text-of-zirmenus style-of-sdf" href="RepPAKIJHomeBoard.php">برد لوازم خانگی</a> 
+                                                         <a class="style-of-text-of-zirmenus style-of-sdf" href="RepairHomeBoard.php">برد لوازم خانگی</a> 
                                                     </li>
                                                     <li class="style-of-sdf"><a class="style-of-text-of-zirmenus">
-                                                         <a class="style-of-text-of-zirmenus style-of-sdf" href="RepPAKIJFactoryBoard.php">برد دستگاه های صنعتی</a> 
+                                                         <a class="style-of-text-of-zirmenus style-of-sdf" href="RepairFactoryBoard.php">برد دستگاه های صنعتی</a> 
                                                     </li>
                                                 </ul>
                                             </li>
@@ -103,23 +103,23 @@
                                              <ul>
                                                 <li class="style-of-menu-text-in-mo" onclick="displayOfZirMenuInMo2()"><a>لوازم خانگی</a><hr class="white-hr">
                                                     <ul id="display-of-zir-menu-in-mo2" class="display-of-zir-menu-in-mo2">
-                                                        <li class="style-of-menu-text-in-mo"><a class="style-of-menu-text-in-mo" href="RepPAKIJWashingMachine.php"> پکیج</a></li><hr class="white-hr">
-                                                        <li class="style-of-menu-text-in-mo"><a class="style-of-menu-text-in-mo" href="RepPAKIJRefrigerator.php">یخچال/فریزر </a></li><hr class="white-hr">
-                                                        <li class="style-of-menu-text-in-mo"><a class="style-of-menu-text-in-mo" href="RepPAKIJSideBySide.php">ساید بای ساید</a></li><hr class="white-hr">
-                                                        <li class="style-of-menu-text-in-mo"><a class="style-of-menu-text-in-mo" href="RepairDishwasher.php"> پکیج</a></li><hr class="white-hr">
-                                                        <li class="style-of-menu-text-in-mo"><a class="style-of-menu-text-in-mo" href="RepPAKIJMicrowave.php"> ماکروویو</a></li><hr class="white-hr">
-                                                        <li class="style-of-menu-text-in-mo"><a class="style-of-menu-text-in-mo" href="RepPAKIJPAKIJConditioning.php"> کولر آبی/گازی</a></li><hr class="white-hr">
-                                                        <li class="style-of-menu-text-in-mo"><a class="style-of-menu-text-in-mo" href="RepPAKIJVacuumeCleaner.php"> جاروبرقی </a></li><hr class="white-hr">
-                                                        <li class="style-of-menu-text-in-mo"><a class="style-of-menu-text-in-mo" href="RepPAKIJKitchenAppliances.php">لوازم آشپزخانه </a></li><hr class="white-hr">
+                                                        <li class="style-of-menu-text-in-mo"><a class="style-of-menu-text-in-mo" href="RepairWashingMachine.php"> ماشین لباسشویی</a></li><hr class="white-hr">
+                                                        <li class="style-of-menu-text-in-mo"><a class="style-of-menu-text-in-mo" href="RepairRefrigerator.php">یخچال/فریزر </a></li><hr class="white-hr">
+                                                        <li class="style-of-menu-text-in-mo"><a class="style-of-menu-text-in-mo" href="RepairSideBySide.php">ساید بای ساید</a></li><hr class="white-hr">
+                                                        <li class="style-of-menu-text-in-mo"><a class="style-of-menu-text-in-mo" href="RepairDishwasher.php"> ماشین ظرفشویی</a></li><hr class="white-hr">
+                                                        <li class="style-of-menu-text-in-mo"><a class="style-of-menu-text-in-mo" href="RepairMicrowave.php"> ماکروویو</a></li><hr class="white-hr">
+                                                        <li class="style-of-menu-text-in-mo"><a class="style-of-menu-text-in-mo" href="RepairAirConditioning.php"> کولر آبی/گازی</a></li><hr class="white-hr">
+                                                        <li class="style-of-menu-text-in-mo"><a class="style-of-menu-text-in-mo" href="RepairVacuumeCleaner.php"> جاروبرقی </a></li><hr class="white-hr">
+                                                        <li class="style-of-menu-text-in-mo"><a class="style-of-menu-text-in-mo" href="RepairKitchenAppliances.php">لوازم آشپزخانه </a></li><hr class="white-hr">
                                                     </ul>
                                                 </li>
                                                 <li class="style-of-menu-text-in-mo" onclick="displayOfZirMenuInMo3()"><a>برد های الکترونیکی</a><hr class="white-hr">
                                                     <ul id="display-of-zir-menu-in-mo3" class="display-of-zir-menu-in-mo3">
                                                         <li class="style-of-menu-text-in-mo">
-                                                             <a class="style-of-menu-text-in-mo" href="RepPAKIJHomeBoard.php">برد لوازم خانگی</a> <hr class="white-hr">
+                                                             <a class="style-of-menu-text-in-mo" href="RepairHomeBoard.php">برد لوازم خانگی</a> <hr class="white-hr">
                                                         </li>
                                                         <li class="style-of-menu-text-in-mo">
-                                                             <a class="style-of-menu-text-in-mo" href="RepPAKIJFactoryBoard.php">برد دستگاه های صنعتی</a> <hr class="white-hr">
+                                                             <a class="style-of-menu-text-in-mo" href="RepairFactoryBoard.php">برد دستگاه های صنعتی</a> <hr class="white-hr">
                                                         </li>
                                                     </ul>
                                                 </li>
@@ -595,7 +595,7 @@
     </tr>
     <tr>
         <td rowspan="2" class="style-of-footer-td">
-            <img class="style-of-footer-logo" src="img/footer/footerlogo.png" alt="تعمیر مارکت">
+            <img class="style-of-footer-logo" src="img/footer/footerlogo.png" alt="ارتباط با ما | تعمیر مارکت">
         </td>
         <td class="style-of-footer-td">
                 <p class="style-of-footer-title">۰۹۱۲-۳۲۰۲۰۱۳</p>  
@@ -651,7 +651,7 @@
     </tr>
     <tr>
     <td class="style-of-footer-td">
-        <img class="style-of-footer-logo" src="img/footer/footerlogo.png" alt="تعمیر مارکت">
+        <img class="style-of-footer-logo" src="img/footer/footerlogo.png" alt="ارتباط با ما | تعمیر مارکت">
     </td>
     </tr>
     <tr>
