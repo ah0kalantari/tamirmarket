@@ -30,8 +30,8 @@
                                                     <li class="style-of-sdf"><a class="style-of-text-of-zirmenus style-of-sdf" title="تعمیرات یخچال فریزر | تعمیر مارکت" href="RepairRefrigerator.php">یخچال/فریزر </a></li>
                                                     <li class="style-of-sdf"><a class="style-of-text-of-zirmenus style-of-sdf" title="تعمیرات ساید بای ساید | تعمیر مارکت" href="RepairSideBySide.php">ساید بای ساید</a></li>
                                                     <li class="style-of-sdf"><a class="style-of-text-of-zirmenus style-of-sdf" title="تعمیرات ظرفشویی | تعمیر مارکت" href="RepairDishwasher.php"> ظرفشویی</a></li>
-                                                    <li class="style-of-sdf"><a class="style-of-text-of-zirmenus style-of-sdf" title="تعمیرات ماکروفر ( سولاردام ، ماکروویو )" href="RepairMicrowave.php"> ماکروویو</a></li>
-                                                    <li class="style-of-sdf"><a class="style-of-text-of-zirmenus style-of-sdf" href="RepairAirConditioning.php"> کولر آبی/گازی</a></li>
+                                                    <li class="style-of-sdf"><a class="style-of-text-of-zirmenus style-of-sdf" title="تعمیرات ماکروفر ( سولاردام ، ماکروویو ) | تعمیر مارکت" href="RepairMicrowave.php"> ماکروویو</a></li>
+                                                    <li class="style-of-sdf"><a class="style-of-text-of-zirmenus style-of-sdf" title="تعمیرات کولر آبی و گازی | تعمیر مارکت" href="RepairAirConditioning.php"> کولر آبی/گازی</a></li>
                                                     <li class="style-of-sdf"><a class="style-of-text-of-zirmenus style-of-sdf" href="RepairVacuumeCleaner.php"> جاروبرقی </a></li>
                                                     <li class="style-of-sdf"><a class="style-of-text-of-zirmenus style-of-sdf" href="RepairKitchenAppliances.php">لوازم آشپزخانه </a></li>
                                                 </ul>
