@@ -31,18 +31,18 @@
                                                         <li class="style-of-sdf"><a class="style-of-text-of-zirmenus style-of-sdf" title="تعمیرات ظرفشویی | تعمیر مارکت" href="RepairDishwasher.php"> ظرفشویی</a></li>
                                                         <li class="style-of-sdf"><a class="style-of-text-of-zirmenus style-of-sdf" title="تعمیرات ماکروفر ( سولاردام ، ماکروویو ) | تعمیر مارکت" href="RepairMicrowave.php"> ماکروویو</a></li>
                                                         <li class="style-of-sdf"><a class="style-of-text-of-zirmenus style-of-sdf" title="تعمیرات کولر آبی و گازی | تعمیر مارکت" href="RepairAirConditioning.php"> کولر آبی/گازی</a></li>
-                                                        <li class="style-of-sdf"><a class="style-of-text-of-zirmenus style-of-sdf" href="RepairVacuumeCleaner.php"> جاروبرقی </a></li>
-                                                        <li class="style-of-sdf"><a class="style-of-text-of-zirmenus style-of-sdf" href="RepairKitchenAppliances.php">لوازم آشپزخانه </a></li>
+                                                        <li class="style-of-sdf"><a class="style-of-text-of-zirmenus style-of-sdf" title="تعمیرات جاروبرقی | تعمیر مارکت" href="RepairVacuumeCleaner.php"> جاروبرقی </a></li>
+                                                        <li class="style-of-sdf"><a class="style-of-text-of-zirmenus style-of-sdf" title="تعمیرات لوازم برقی آشپزخانه | تعمیر مارکت" href="RepairKitchenAppliances.php">لوازم آشپزخانه </a></li>
                                                     </ul>
                                                 </li>
                                                 <br class="display-none-pc">
                                                 <li onmouseover="showzirmajmoee3()" onmouseout="hidezirmajmoee3()" class="style-of-sdf border-top-of-menu"><a class="style-of-text-of-zirmenus"  >برد های الکترونیکی</a>
                                                     <ul id="style-of-zirmenu-of-tamirat3" class="style-of-zirmenu-of-tamirat3">
                                                         <li class="style-of-sdf"><a class="style-of-text-of-zirmenus">
-                                                             <a class="style-of-text-of-zirmenus style-of-sdf" href="RepairHomeBoard.php">برد لوازم خانگی</a> 
+                                                             <a class="style-of-text-of-zirmenus style-of-sdf" title="تعمیرات برد الکترونیکی لوازم خانگی | تعمیر مارکت" href="RepairHomeBoard.php">برد لوازم خانگی</a> 
                                                         </li>
                                                         <li class="style-of-sdf"><a class="style-of-text-of-zirmenus">
-                                                             <a class="style-of-text-of-zirmenus style-of-sdf" href="RepairFactoryBoard.php">برد دستگاه های صنعتی</a> 
+                                                             <a class="style-of-text-of-zirmenus style-of-sdf" title="تعمیرات برد های الکترونیکی دستگاه های صنعتی | تعمیر مارکت" href="RepairFactoryBoard.php">برد دستگاه های صنعتی</a> 
                                                         </li>
                                                     </ul>
                                                 </li>

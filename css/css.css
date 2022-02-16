@@ -2811,8 +2811,9 @@
 }
 ::-webkit-scrollbar-thumb{
     background-color: #2bc607;
-    border-top: solid white 5px;
-    border-bottom: solid white 4px;
+    border-top: solid white 2px;
+    border-bottom: solid white 2px;
+    border-radius: 5px;
 }
 @keyframes hide-menu-desktop {
     0% {
