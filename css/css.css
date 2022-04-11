@@ -1,11 +1,11 @@
 @media only screen and (min-width: 1000px){
+    .loading-gif-back{
         height: 100%;
         left: 0%;
         position: fixed;
         top: 0%;
         width: 100%;
         z-index: 2;
-    .loading-gif-back{
     }
     .loading-gif{
         height: auto;
