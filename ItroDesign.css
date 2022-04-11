@@ -2,7 +2,15 @@
 /* this project make by Amirhossein Kalantari (mrkalantari) from ITROSOFT company*/
 
 /* please visit my site (mrkalantari.ir) and ITROSOFT site (itrosoft.ir) */
-
+.list-style-none{
+    list-style: none !important;
+}
+.cursor-pointer{
+    cursor: pointer;
+}
+.cursor-default{
+    cursor: default;
+}
 /* text decoration  */
 .text-decoration-none{
     text-decoration: none;

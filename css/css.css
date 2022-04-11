@@ -1,15 +1,47 @@
 @media only screen and (min-width: 1000px){
+    .loading-gif-back{
+        position: fixed;
+        width: 100%;
+        height: 100%;
+        top: 0%;
+        left: 0%;
+        z-index: 2;
+    }
+    .loading-gif{
+        position: fixed;
+        width: 10%;
+        height: auto;
+        left: 44%;
+        top: 44%;
+        z-index: 3;
+    }
+
+    .keywords-tag-style{
+        color: black !important;
+        font-size: 30px !important;
+        border-top-left-radius: 0px !important;
+        border-top-right-radius: 0px !important;
+        border-bottom-left-radius: 0px !important;
+        border-bottom-right-radius: 0px !important;
+        list-style: none !important;
+    }
+    .keywords-tag-style-p{
+        color: black !important;
+        font-size: 25px !important;
+        text-align: justify;
+    }
     .instagram-and-qire{
         color: #0c2b06;
         font-family: iransans;
-        font-size: 25px;
+        font-size: 30px;
         text-align: center;
         font-weight: bold;
-        margin-top: 20px !important;
+        padding-top: 50px !important;
     }
     .instagram-logo{
         width: 5%;
         text-align: center;
+        margin: 0 auto;
         box-shadow: rgba(0, 0, 0, 0.452) 5px 5px 5px;
         border: solid rgba(0, 0, 0, 0.678) 3px;
         border-radius: 25px;
@@ -23,7 +55,7 @@
         direction: rtl;
     }
     .blog-titr{
-        color: #0d22dfb7;
+        color: #0d22df;
         font-family: iransans;
         text-align: center;
         font-size: 30px;
@@ -35,11 +67,11 @@
         padding-top: 10px;
         padding-bottom: 10px;
         width: 100% !important;
-        border-top: solid 2px #0d22dfb7;
-        border-bottom: solid 2px #0d22dfb7;
+        border-top: solid 2px #0d22df;
+        border-bottom: solid 2px #0d22df;
     }
     .blog-etelaat-left{
-        color: #0d22dfb7;
+        color: #0d22df;
         font-family: yekanplusbold;
         direction: rtl;
         font-size: 17px;
@@ -47,12 +79,39 @@
         text-align: right;
     }
     .blog-etelaat-right{
-        color: #0d22dfb7;
+        color: #0d22df;
         font-family: yekanplusbold;
         direction: ltr;
         font-size: 17px;
         padding-right: 20px;
         text-align: right;
+    }
+    .test-shode{
+        color: white;
+        background-color: rgb(3, 0, 156);
+        border-radius: 50px;
+        font-size: 22px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        font-family: iransans;
+        text-align: center;
+        margin-left: 200px;
+        margin-right: 200px;
+    }
+    .pish-sardabir{
+        color: white;
+        background-color: green;
+        border-bottom: solid 3px green;
+        border-left: solid 3px green;
+        border-right: solid 3px green;
+        border-radius: 50px;
+        font-size: 22px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        font-family: iransans;
+        text-align: center;
+        margin-left: 250px;
+        margin-right: 250px;
     }
     .blog-text-p{
         color: black;
@@ -66,14 +125,16 @@
         line-height: 40px;
     }
     .blog-first-text-p{
-        color: black;
+        color: rgb(0, 132, 255);
         font-family: iransans;
-        font-size: 20px;
+        font-size: 30px;
         text-align: right;
         padding-right: 30px;
         direction: rtl;
         margin-left: 50px;
-        margin:0% !important;
+        margin-top: 25px;
+        margin-bottom: 0px;
+        /* margin:0% !important; */
     }
     .blog-text-titr{
         color: rgb(187, 168, 0);
@@ -88,7 +149,7 @@
         box-shadow: black 5px 5px 10px;
         font-family: iransans;
         font-size: 20px;
-        text-align: right;
+        text-align: center;
         padding-right: 25px;
         direction: rtl;
         margin-left: 10%;
@@ -537,12 +598,12 @@
         font-family: yekanplusbold;
         font-size: 30px;
         color: white;
-        width: 4%;
-        height: 7%;
+        width: 60px;
+        height: 40px;
         text-align: center;
         vertical-align: middle;
         right: 100%;
-        top: -3%;
+        top: 1px;
         border-top: white solid 5px;
         border-left: white solid 5px;
         border-bottom: 0px;
@@ -555,12 +616,13 @@
 /* ---------------------------------------------------------------------------------------------------- */
     
     .styles-of-first-logo-in-all-pages-1{
-        width: 17% !important;
-        margin-right: 43% !important;
-        margin-left: 4% !important;
-        margin-top: 80px;
+        width: 12% !important;
+        margin-right: 45% !important;
+        margin-left: 7% !important;
+        margin-bottom: 20px;
     }
     .styles-of-first-logo-in-all-pages-2{
+        margin-top: 80px;
         margin-right: 5% !important;
         width: 30% !important;
     }
@@ -575,7 +637,7 @@
     .styles-of-slide-show{
         margin-left: 9% !important;
         width: 80% !important;
-        background-image: url(img/slide\ show/1.png);
+        background-image: url(img/slide\ show/1.webp);
         background-size: 100% !important;
         background-clip:padding-box;
         animation-name: avazshdanaxhayslideshow;
@@ -907,15 +969,15 @@
         border-top: #070ac6 solid 3px;
     }
     .style-of-naqshe-iran-img{
-        width: 80%;
+        width: 60%;
         left: 0%;
         margin-left: 9% !important;
         margin-right: 9% !important;
         margin-top: 2% !important;
         margin-bottom: 2% !important;
         background-color: rgb(7, 80, 7);
-        border-radius:40px;
-        border: white solid 5px;
+        border-radius:20px;
+        border: white solid 7px;
     }
     .style-of-naqshe-iran-title-text{
         text-align: center;
@@ -1040,6 +1102,7 @@
         margin-block-start: 0em !important;
         margin: 0px !important;
         padding: 0% !important;
+        width: 100%;
     }
     .style-of-footer-title-end{
         color: white;
@@ -1117,48 +1180,44 @@
     }
     .left-left{
         float: left;
-        /* width: 69%;     */
         text-align: center;
         vertical-align: middle !important;
         margin: 0% !important;
+        border-bottom: #2bc607 solid 2px;
+        width: 100%;
     }
     .left-left-p {
         color: black !important;
-        font-size: 17px !important;
+        font-size: 22px !important;
         font-family: iransans !important;
         text-align: center;
-        padding-right: 3px !important;
-        padding-left: 1px !important;
-        padding-top: 5px !important;
-        padding-bottom: 5px !important;
+        padding-top: 0px !important;
+        padding-left: 7px !important;
+        padding-left: 7px !important;
+        padding-bottom: 0px !important;
         margin-top: 4% !important;
-        /* width: 100% !important; */
         direction: rtl;
-        /* border-top-left-radius: 15px; */
-        /* border-bottom-left-radius: 15px; */
-        /* background-color: #d3d2d2; */
-        margin-left: 50px; 
-        /* border: solid black 3px; */
+        /* margin-left: 20px; */
     }
     .right-left{
         float: right;
         width: 80px;   
         left: 10px; 
         margin-left: 25px ;
+        margin: 0% !important;
     }
     .right-left img{
         width: 80%;
-        /* border: solid black 3px;
-        border-radius: 10px; */
-        margin-left: 2%;
-        border: solid rgb(0, 0, 0) 1.5px;
+        margin-left: 0%;
+        border: solid #0c489c 3px;
         border-radius: 5px;
-        margin-top: 3px;
+        margin-top: 4px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 5px;
+        padding-right: 5px;
     }
     .left-poshesh {
-        /* border: solid rgb(131, 131, 131) 3px; */
-
-        /* border-radius: 10px; */
         width: 100%;
         margin-right: 0px !important;
         border-spacing: 0px !important;
@@ -1171,6 +1230,7 @@
     .left-tr-poshesh{
         width: 100%;
         margin-right: 0px !important;
+
     }
     .left-a{
         text-decoration: none;
@@ -1314,7 +1374,9 @@
 .style-pf-secret-key-words{
     font-size: 1px;
     line-height: 1px;
-    color: white;
+    color: black;
+    background-color: black;
+    visibility: hidden;
 }
 
 
@@ -1387,7 +1449,83 @@
     }
 }
 @media only screen and (max-width: 1000px){
-        /* blog styles  */
+    .right-right{
+        float: left !important;
+    }
+    .left-left-p {
+        color: black !important;
+        font-size: 50px !important;
+        font-family: iransans !important;
+        text-align: center;
+        padding-top: 5px !important;
+        padding-bottom: 5px !important;
+        margin-top: 4% !important;
+        /* width: 100% !important; */
+        direction: rtl;
+        /* border-top-left-radius: 15px; */
+        /* border-bottom-left-radius: 15px; */
+        /* background-color: #d3d2d2; */
+        margin-left: 20px; 
+        float: left !important;
+        /* border: solid black 3px; */
+    }
+    .right-left img{
+        float: right;
+        width: 50%;
+        border: solid rgb(0, 0, 0) 1.5px;
+        border-radius: 5px;
+        margin-top: 3px;
+        }
+    .left-poshesh {
+        /* border: solid rgb(131, 131, 131) 3px; */
+
+        /* border-radius: 10px; */
+        width: 70%;
+        margin-right: 0px !important;
+        border-spacing: 0px !important;
+    }
+    .left-hr{
+        border: solid rgb(0, 0, 0) 1px;
+        /* border-bottom: solid rgb(0, 0, 0) 3px; */
+        margin: 0% !important;
+    }
+
+
+    .left-tr-poshesh{
+        width: 100%;
+    }
+    .left-a{
+        text-decoration: none;
+    }
+
+
+
+    .left {
+        width: 100% !important;
+        border-top: blue solid 3px;
+        padding-top: 50px;
+        border: #585858 3px solid;
+        border-radius: 15px;
+        background-color: white !important;
+        z-index: 10000 !important;
+    }
+
+
+
+
+
+
+    .left p {
+        color: black;
+        font-size: 25px;
+        text-align: center;
+        vertical-align: middle !important;
+        font-family: iransans;
+        animation-name: in-bakhsh-be-zoodi-dar-dastres-khahab-bood-animation;
+        animation-duration: 2000ms;
+        animation-iteration-count: infinite;
+    }
+     /* blog styles  */
         .fehrest-blog{
             color: rgb(7, 0, 104);
             box-shadow: black 5px 5px 10px;
@@ -1423,7 +1561,7 @@
             text-align: right !important;
         }
         .blog-first-text-p{
-            color: black;
+            color: rgb(0, 132, 255);
             font-family: iransans;
             font-size: 20px;
             text-align: right;
@@ -1436,20 +1574,25 @@
             padding-top: 10px;
             padding-bottom: 10px;
             width: 100% !important;
-            border-top: solid 5px #0d22dfb7;
-            border-bottom: solid 5px #0d22dfb7;
+            border-top: solid 5px #0d22df;
+            border-bottom: solid 5px #0d22df;
         }
         .blog-etelaat-left{
-            color: #0d22dfb7;
+            color: #0d22df;
             font-family: yekanplusbold;
             font-size: 37px;
             text-align: center;
         }
         .blog-etelaat-right{
-            color: #0d22dfb7;
+            color: #0d22df;
             font-family: yekanplusbold;
             font-size: 37px;
             text-align: center;
+        }
+        .test-shode{
+            color: red;
+            border-top: solid 5px red;
+            border-bottom: solid 5px red;
         }
         .blog-title{
             color: brown;
@@ -1461,7 +1604,7 @@
             font-family: iransans;
             text-align: center;
             font-size: 25px;
-            background-color: #0d22dfb7;
+            background-color: #0d22df;
             padding-top: 10px;
             padding-bottom: 10px;
             direction: rtl;
@@ -1470,8 +1613,8 @@
             color: black;
             font-family: iransans;
             font-size: 13px;
-            text-align: right;
-            padding-right: 15px;
+            text-align: justify;
+            padding-right: 30px;
             direction: rtl;
             padding-left: 50px;
             margin:0% !important;
@@ -1617,6 +1760,7 @@
     .styles-of-first-logo-in-all-pages-1{
         width: 50%;
         margin-left: 24%;
+        margin-top: 30px;
     }
     .styles-of-first-logo-in-all-pages-2{
         width: 100%;
@@ -1628,7 +1772,7 @@
     }
     .styles-of-slide-show{
         width: 100% !important;
-        background-image: url(img/slide\ show/1.jpg);
+        background-image: url(img/slide\ show/1.webp);
         background-size: 100% !important;
         background-clip:padding-box;
         animation-name: avazshdanaxhayslideshow;
@@ -2805,15 +2949,18 @@
 }
 ::-webkit-scrollbar{
     width: 12px;
+    z-index: 1;
 }
 ::-webkit-scrollbar-track{
     background-color: #1a58af;
+    z-index: 1;
 }
 ::-webkit-scrollbar-thumb{
     background-color: #2bc607;
     border-top: solid white 2px;
     border-bottom: solid white 2px;
     border-radius: 5px;
+    z-index: 1;
 }
 @keyframes hide-menu-desktop {
     0% {
@@ -3128,155 +3275,155 @@
 }
 @keyframes avazshdanaxhayslideshow {
 0%{
-    background-image: url(img/slide\ show/1.jpg);
+    background-image: url(img/slide\ show/1.webp);
 }
 5%{
-    background-image: url(img/slide\ show/1.jpg);
+    background-image: url(img/slide\ show/1.webp);
 }
 10%{
-    background-image: url(img/slide\ show/2.jpg);
+    background-image: url(img/slide\ show/2.webp);
 }
 15%{
-    background-image: url(img/slide\ show/2.jpg);
+    background-image: url(img/slide\ show/2.webp);
 }
 20%{
-    background-image: url(img/slide\ show/3.jpg);
+    background-image: url(img/slide\ show/3.webp);
 }
 25%{
-    background-image: url(img/slide\ show/3.jpg);
+    background-image: url(img/slide\ show/3.webp);
 }
 30%{
-    background-image: url(img/slide\ show/4.jpg);
+    background-image: url(img/slide\ show/4.webp);
 }
 35%{
-    background-image: url(img/slide\ show/4.jpg);
+    background-image: url(img/slide\ show/4.webp);
 }
 40%{
-    background-image: url(img/slide\ show/5.jpg);
+    background-image: url(img/slide\ show/5.webp);
 }
 45%{
-    background-image: url(img/slide\ show/5.jpg);
+    background-image: url(img/slide\ show/5.webp);
 }
 50%{
-    background-image: url(img/slide\ show/6.jpg);
+    background-image: url(img/slide\ show/6.webp);
 }
 55%{
-    background-image: url(img/slide\ show/6.jpg);
+    background-image: url(img/slide\ show/6.webp);
 }
 60%{
-    background-image: url(img/slide\ show/7.jpg);
+    background-image: url(img/slide\ show/7.webp);
 }
 65%{
-    background-image: url(img/slide\ show/7.jpg);
+    background-image: url(img/slide\ show/7.webp);
 }
 70%{
-    background-image: url(img/slide\ show/8.jpg);
+    background-image: url(img/slide\ show/8.webp);
 }
 75%{
-    background-image: url(img/slide\ show/8.jpg);
+    background-image: url(img/slide\ show/8.webp);
 }
 80%{
-    background-image: url(img/slide\ show/9.jpg);
+    background-image: url(img/slide\ show/9.webp);
 }
 85%{
-    background-image: url(img/slide\ show/9.jpg);
+    background-image: url(img/slide\ show/9.webp);
 }
 90%{
-    background-image: url(img/slide\ show/10.jpg);
+    background-image: url(img/slide\ show/10.webp);
 }
 95%{
-    background-image: url(img/slide\ show/10.jpg);
+    background-image: url(img/slide\ show/10.webp);
 }
 100%{
-    background-image: url(img/slide\ show/1.jpg);
+    background-image: url(img/slide\ show/1.webp);
 }
 }
 @keyframes avazshdanaxhayslideshowWM {
 0%{
-    background-image: url(img/slide\ show/WM/1.jpg);
+    background-image: url(img/slide\ show/WM/1.webp);
 }
 10%{
-    background-image: url(img/slide\ show/WM/1.jpg);
+    background-image: url(img/slide\ show/WM/1.webp);
 }
 20%{
-    background-image: url(img/slide\ show/WM/2.jpg);
+    background-image: url(img/slide\ show/WM/2.webp);
 }
 30%{
-    background-image: url(img/slide\ show/WM/2.jpg);
+    background-image: url(img/slide\ show/WM/2.webp);
 }
 40%{
-    background-image: url(img/slide\ show/WM/3.jpg);
+    background-image: url(img/slide\ show/WM/3.webp);
 }
 50%{
-    background-image: url(img/slide\ show/WM/3.jpg);
+    background-image: url(img/slide\ show/WM/3.webp);
 }
 60%{
-    background-image: url(img/slide\ show/WM/4.jpg);
+    background-image: url(img/slide\ show/WM/4.webp);
 }
 70%{
-    background-image: url(img/slide\ show/WM/4.jpg);
+    background-image: url(img/slide\ show/WM/4.webp);
 }
 80%{
-    background-image: url(img/slide\ show/WM/5.jpg);
+    background-image: url(img/slide\ show/WM/5.webp);
 }
 90%{
-    background-image: url(img/slide\ show/WM/5.jpg);
+    background-image: url(img/slide\ show/WM/5.webp);
 }
 100%{
-    background-image: url(img/slide\ show/WM/1.jpg);
+    background-image: url(img/slide\ show/WM/1.webp);
 }
 }
 @keyframes avazshdanaxhayslideshowLG {
 0%{
-    background-image: url(img/slide\ show/lg/1.jpg);
+    background-image: url(img/slide\ show/lg/1.webp);
 }
 6.25%{
-    background-image: url(img/slide\ show/lg/1.jpg);
+    background-image: url(img/slide\ show/lg/1.webp);
 }
 12.5%{
-    background-image: url(img/slide\ show/lg/2.jpg);
+    background-image: url(img/slide\ show/lg/2.webp);
 }
 18.75%{
-    background-image: url(img/slide\ show/lg/2.jpg);
+    background-image: url(img/slide\ show/lg/2.webp);
 }
 25%{
-    background-image: url(img/slide\ show/lg/3.jpg);
+    background-image: url(img/slide\ show/lg/3.webp);
 }
 31.25%{
-    background-image: url(img/slide\ show/lg/3.jpg);
+    background-image: url(img/slide\ show/lg/3.webp);
 }
 37.5%{
-    background-image: url(img/slide\ show/lg/4.jpg);
+    background-image: url(img/slide\ show/lg/4.webp);
 }
 43.75%{
-    background-image: url(img/slide\ show/lg/4.jpg);
+    background-image: url(img/slide\ show/lg/4.webp);
 }
 50%{
-    background-image: url(img/slide\ show/lg/5.jpg);
+    background-image: url(img/slide\ show/lg/5.webp);
 }
 56.25%{
-    background-image: url(img/slide\ show/lg/5.jpg);
+    background-image: url(img/slide\ show/lg/5.webp);
 }
 62.5%{
-    background-image: url(img/slide\ show/lg/6.jpg);
+    background-image: url(img/slide\ show/lg/6.webp);
 }
 68.75%{
-    background-image: url(img/slide\ show/lg/6.jpg);
+    background-image: url(img/slide\ show/lg/6.webp);
 }
 75%{
-    background-image: url(img/slide\ show/lg/7.jpg);
+    background-image: url(img/slide\ show/lg/7.webp);
 }
 81.25%{
-    background-image: url(img/slide\ show/lg/7.jpg);
+    background-image: url(img/slide\ show/lg/7.webp);
 }
 87.5%{
-    background-image: url(img/slide\ show/lg/8.jpg);
+    background-image: url(img/slide\ show/lg/8.webp);
 }
 93.75%{
-    background-image: url(img/slide\ show/lg/8.jpg);
+    background-image: url(img/slide\ show/lg/8.webp);
 }
 100%{
-    background-image: url(img/slide\ show/lg/1.jpg);
+    background-image: url(img/slide\ show/lg/1.webp);
 }
 }
 

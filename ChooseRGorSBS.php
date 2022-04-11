@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-fa" >
 <head>
+ 
     <meta charset="UTF-8">
     <meta name="description" content="تعمیر مارکت در زمینه تعمیرات تخصصی انواع لوازم خانگی و برد های الکترونیکی با متخصصان با تجربه آماده خدمت رسانی به شماست.">
     <link rel="stylesheet" href="css/css.min.css">
@@ -11,12 +12,13 @@
     <title> تعمیر مارکت | Tamir Market home appliances repair</title>
 </head>
 <body class="styles-of-body-tag">
-        <header class="position-of-menu style-of-menu">
+  
+    <header class="position-of-menu style-of-menu">
         <div class="style-of-all-menu display-none-mo">
             <div>
                 <div>
-                    <img onclick="dispalymenuitems()" src="img/menu/menu icon.png" id="display-of-menu-icon"     alt="تعمیر مارکت" class="style-of-menu-icon-in-mo"></img>
-                    <img onclick="bardispalymenuitems()" src="img/menu/zarbdar.png" id="display-of-menu-zarbdar" alt="تعمیر مارکت" class="style-of-menu-icon-zarbdar-in-mo"></img>
+                    <img onclick="dispalymenuitems()" src="img/menu/menu icon.webp" id="display-of-menu-icon"     alt="تعمیر مارکت" class="style-of-menu-icon-in-mo"></img>
+                    <img onclick="bardispalymenuitems()" src="img/menu/zarbdar.webp" id="display-of-menu-zarbdar" alt="تعمیر مارکت" class="style-of-menu-icon-zarbdar-in-mo"></img>
                         <nav id="style-of-all-menu-mo">
                             <ul class="display-inline">
                                 <li class="display-inline"><a class="style-of-sdf style-of-original-page-item-in-menu-for-mo z-index-of-orginal-item-of-menu" href="index.php">صفحه ی اصلی </a></li>
@@ -92,8 +94,8 @@
             <div id="style-of-all-menu" class="style-of-all-menu display-none-pc">
                 <div>
                     <div>
-                        <img onclick="ChangeAlamatOfMenu()" id="style-hamberger-in-menu-mo" class="style-hamberger-in-menu-mo" src="img/menu/menu icon.png"  alt="تعمیر مارکت"></img>
-                        <img onclick="ChangeAlamatOfMenu()" id="style-x-in-menu-mo" class="style-x-in-menu-mo" src="img/menu/zarbdar.png"    alt="تعمیر مارکت"></img>
+                        <img onclick="ChangeAlamatOfMenu()" id="style-hamberger-in-menu-mo" class="style-hamberger-in-menu-mo" src="img/menu/menu icon.webp"  alt="تعمیر مارکت"></img>
+                        <img onclick="ChangeAlamatOfMenu()" id="style-x-in-menu-mo" class="style-x-in-menu-mo" src="img/menu/zarbdar.webp"    alt="تعمیر مارکت"></img>
                             <nav id="display-of-all-menu-in-mo" class="display-of-all-menu-in-mo">
                                 <ul>
                                     <li  class="style-of-menu-text-in-mo"><a  class="style-of-menu-text-in-mo" href="index.php">صفحه ی اصلی </a></li>
@@ -158,8 +160,8 @@
     <p id="show-menu-button" onclick="show_menu_desktop()" class="style-show-menu-button"> < </p>
     <div class="first-logo-styles">
         <br><br><br><br class=pc"><br class=pc">
-        <img class="display-inline styles-of-first-logo-in-all-pages-1" src="img/firstlogo/لوگوی تعمیر مارکت.png"alt="Tamir Market تعمیر مارکت">
-        <img class="display-inline styles-of-first-logo-in-all-pages-2" src="img/firstlogo/تعمیر مارکت.png" alt="Tamir Market تعمیر مارکت">
+        <img class="display-inline styles-of-first-logo-in-all-pages-1" src="img/firstlogo/لوگوی تعمیر مارکت.webp"alt="Tamir Market تعمیر مارکت">
+        <img class="display-inline styles-of-first-logo-in-all-pages-2" src="img/firstlogo/تعمیر مارکت.webp" alt="Tamir Market تعمیر مارکت">
         <hr class="style-of-hr-in-bottom-of-first-logo-in-all-pages">
     </div>
 
@@ -168,13 +170,13 @@
         <tr class="chooseRGorSBS-tr">
             <td class="chooseRGorSBS-td">
             <a class="text-decoration-none style-of-chooseRGorSBS-a" href="RepairRefrigerator.php">
-                <img class="style-of-chooseRGorSBS-img" src="img/ItemTamirat/RG.jpg"             alt="تعمیر مارکت">
+                <img class="style-of-chooseRGorSBS-img" src="img/ItemTamirat/RG.webp"             alt="تعمیر مارکت">
                 <p class="chooseRGorSBS-text">یخچال فریزر</p>
             </a>
             </td>
             <td class="chooseRGorSBS-td">
             <a class="text-decoration-none style-of-chooseRGorSBS-a" href="RepairSideBySide.php">
-                <img class="style-of-chooseRGorSBS-img" src="img/ItemTamirat/sbs.jpg"             alt="تعمیر مارکت">
+                <img class="style-of-chooseRGorSBS-img" src="img/ItemTamirat/sbs.webp"             alt="تعمیر مارکت">
                 <p class="chooseRGorSBS-text">ساید بای ساید</p>
             </a>
             </td>
@@ -200,7 +202,7 @@
     </tr>
     <tr>
         <td rowspan="2" class="style-of-footer-td">
-            <img class="style-of-footer-logo" src="img/firstlogo/ لوگوی تعمیر مارکت.png" alt="تعمیر مارکت">
+            <img class="style-of-footer-logo" src="img/firstlogo/ لوگوی تعمیر مارکت.webp" alt="تعمیر مارکت">
         </td>
         <td class="style-of-footer-td">
             <a class="style-of-footer-a">
@@ -269,7 +271,7 @@
     </tr>
     <tr>
     <td class="style-of-footer-td">
-        <img class="style-of-footer-logo" src="img/firstlogo/ لوگوی تعمیر مارکت.png" alt="تعمیر مارکت">
+        <img class="style-of-footer-logo" src="img/firstlogo/ لوگوی تعمیر مارکت.webp" alt="تعمیر مارکت">
     </td>
     </tr>
     <tr>

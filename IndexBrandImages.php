@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
+ 
         <meta charset="UTF-8">
         <link rel="stylesheet" href="css/css.min.css">
         <link rel="stylesheet" href="ItroDesign.min.css">
@@ -14,60 +15,60 @@
         انتخاب برند
     </h3>
     <div class="style-of-all-brand-img">
-        <div class="scale-brand-img"><a href="BrandOfLG.php">             <img class="style-of-brand-img" src="img/brand images/LG.png"                    alt="تعمیر مارکت"></a></div>
-        <div class="scale-brand-img"><a href="BrandOfSAMSUNG.php">        <img class="style-of-brand-img" src="img/brand images/SAMSUNG.png"               alt="تعمیر مارکت"></a></div>
-        <div class="scale-brand-img"><a href="BrandOfDAEWOO.php">         <img class="style-of-brand-img" src="img/brand images/DAEWOO.png"                alt="تعمیر مارکت"></a></div>
-        <div class="scale-brand-img"><a href="BrandOfSNOWA.php">          <img class="style-of-brand-img" src="img/brand images/SNOWA.png"                 alt="تعمیر مارکت"></a></div>
-        <div class="scale-brand-img"><a href="BrandOfPARS.php">           <img class="style-of-brand-img" src="img/brand images/PARS.png"                  alt="تعمیر مارکت"></a></div>
-        <div class="scale-brand-img"><a href="BrandOfBEHI.php">           <img class="style-of-brand-img" src="img/brand images/BEHI.png"                  alt="تعمیر مارکت"></a></div>
-        <div class="scale-brand-img"><a href="BrandOfAEG.php">            <img class="style-of-brand-img" src="img/brand images/AEG.png"                   alt="تعمیر مارکت"></a></div>
-        <div class="scale-brand-img"><a href="BrandOfBOSCH.php">          <img class="style-of-brand-img" src="img/brand images/BOSCH.png"                 alt="تعمیر مارکت"></a></div>
-        <div class="scale-brand-img"><a href="BrandOfSIEMENC.php">        <img class="style-of-brand-img" src="img/brand images/SIEMENC.png"               alt="تعمیر مارکت"></a></div>
-        <div class="scale-brand-img"><a href="BrandOfKENWOOD.php">        <img class="style-of-brand-img" src="img/brand images/KENWOOD.png"               alt="تعمیر مارکت"></a></div>
-        <div class="scale-brand-img"><a href="BrandOfINDESIT.php">        <img class="style-of-brand-img" src="img/brand images/INDESIT.png"               alt="تعمیر مارکت"></a></div>
-        <div class="scale-brand-img"><a href="BrandOfCANDY.php">          <img class="style-of-brand-img" src="img/brand images/CANDY.png"                 alt="تعمیر مارکت"></a></div>
-        <div class="scale-brand-img"><a href="BrandOfARJ.php">            <img class="style-of-brand-img" src="img/brand images/ARJ.png"                   alt="تعمیر مارکت"></a></div>
-        <div class="scale-brand-img"><a href="BrandOfHIMALIA.php">        <img class="style-of-brand-img" src="img/brand images/HIMALIA.png"               alt="تعمیر مارکت"></a></div>
-        <div class="scale-brand-img"><a href="BrandOfSEPEHRELECTRICE.php"><img class="style-of-brand-img" src="img/brand images/SEPEHR ELECTRICE.png"      alt="تعمیر مارکت"></a></div>
-        <div class="scale-brand-img"><a href="BrandOfPAKSHOOMA.php">      <img class="style-of-brand-img" src="img/brand images/PAKSHOOMA.png"             alt="تعمیر مارکت"></a></div>
-        <div class="scale-brand-img"><a href="BrandOfEMERSAN.php">        <img class="style-of-brand-img" src="img/brand images/EMERSAN.png"               alt="تعمیر مارکت"></a></div>
-        <div class="scale-brand-img"><a href="BrandOfHAIER.php">          <img class="style-of-brand-img" src="img/brand images/HAIER.png"                 alt="تعمیر مارکت"></a></div>
-        <div class="scale-brand-img"><a href="BrandOfYAKHSARAN.php">      <img class="style-of-brand-img" src="img/brand images/YAKHSARAN.png"             alt="تعمیر مارکت"></a></div>
-        <div class="scale-brand-img"><a href="BrandOfBARFAB.php">         <img class="style-of-brand-img" src="img/brand images/BARFAB.png"                alt="تعمیر مارکت"></a></div>
-        <div class="scale-brand-img"><a href="BrandOfBEKO.php">           <img class="style-of-brand-img" src="img/brand images/BEKO.png"                  alt="تعمیر مارکت"></a></div>
-        <div class="scale-brand-img"><a href="BrandOfELECTROLUX.php">     <img class="style-of-brand-img" src="img/brand images/ELECTROLUX.png"            alt="تعمیر مارکت"></a></div>
-        <div class="scale-brand-img"><a href="BrandOfPHIVER.php">         <img class="style-of-brand-img" src="img/brand images/PHILVER.png"               alt="تعمیر مارکت"></a></div>
-        <div class="scale-brand-img"><a href="BrandOfSHARP.php">          <img class="style-of-brand-img" src="img/brand images/SHARP.png"                 alt="تعمیر مارکت"></a></div>
-        <div class="scale-brand-img"><a href="BrandOfMOULINEX.php">       <img class="style-of-brand-img" src="img/brand images/MOULINEX.png"              alt="تعمیر مارکت"></a></div>
-        <div class="scale-brand-img"><a href="BrandOfPANASONIC.php">      <img class="style-of-brand-img" src="img/brand images/PANASONIC.png"             alt="تعمیر مارکت"></a></div>
-        <div class="scale-brand-img"><a href="BrandOfHARDSTONE.php">      <img class="style-of-brand-img" src="img/brand images/HARDSTONE.png"             alt="تعمیر مارکت"></a></div>
-        <div class="scale-brand-img"><a href="BrandOfPHILIPS.php">        <img class="style-of-brand-img" src="img/brand images/PHILIPS.png"               alt="تعمیر مارکت"></a></div>
-        <div class="scale-brand-img"><a href="BrandOfCORAL.php">          <img class="style-of-brand-img" src="img/brand images/CORAL.png"                 alt="تعمیر مارکت"></a></div>
-        <div class="scale-brand-img"><a href="BrandOfTOSHIBA.php">        <img class="style-of-brand-img" src="img/brand images/TOSHIBA.png"               alt="تعمیر مارکت"></a></div>
-        <div class="scale-brand-img"><a href="BrandOfKENMORE.php">        <img class="style-of-brand-img" src="img/brand images/KENMORE.png"               alt="تعمیر مارکت"></a></div>
-        <div class="scale-brand-img"><a href="BrandOfHOOVER.php">         <img class="style-of-brand-img" src="img/brand images/HOOVER.png"                alt="تعمیر مارکت"></a></div>
-        <div class="scale-brand-img"><a href="BrandOfZANUSSI.php">        <img class="style-of-brand-img" src="img/brand images/ZANUSSI.png"               alt="تعمیر مارکت"></a></div>
-        <div class="scale-brand-img"><a href="BrandOfZEROWATT.php">       <img class="style-of-brand-img" src="img/brand images/ZEROWATT.png"              alt="تعمیر مارکت"></a></div>
-        <div class="scale-brand-img"><a href="BrandOfGENERALELECTRIC.php"><img class="style-of-brand-img" src="img/brand images/GENERAL ELECTRIC.png"      alt="تعمیر مارکت"></a></div>
-        <div class="scale-brand-img"><a href="BrandOfBAUKNECHT.php">      <img class="style-of-brand-img" src="img/brand images/BAUKNECHT.png"             alt="تعمیر مارکت"></a></div>
-        <div class="scale-brand-img"><a href="BrandOfMIDEA.php">          <img class="style-of-brand-img" src="img/brand images/MIDEA.png"                 alt="تعمیر مارکت"></a></div>
-        <div class="scale-brand-img"><a href="BrandOfWHIRLPOOL.php">      <img class="style-of-brand-img" src="img/brand images/WHIRLPOOL.png"             alt="تعمیر مارکت"></a></div>
-        <div class="scale-brand-img"><a href="BrandOfFAGOR.php">          <img class="style-of-brand-img" src="img/brand images/FAGOR.png"                 alt="تعمیر مارکت"></a></div>
-        <div class="scale-brand-img"><a href="BrandOfHOTPOINT.php">       <img class="style-of-brand-img" src="img/brand images/HOTPOINT.png"              alt="تعمیر مارکت"></a></div>
-        <div class="scale-brand-img"><a href="BrandOfVESTEL.php">         <img class="style-of-brand-img" src="img/brand images/VESTEL.png"                alt="تعمیر مارکت"></a></div>
-        <div class="scale-brand-img"><a href="BrandOfARISTON.php">        <img class="style-of-brand-img" src="img/brand images/ARISTON.png"               alt="تعمیر مارکت"></a></div>
-        <div class="scale-brand-img"><a href="BrandOfMABE.php">           <img class="style-of-brand-img" src="img/brand images/MABE.png"                  alt="تعمیر مارکت"></a></div>
-        <div class="scale-brand-img"><a href="BrandOfGORENJE.php">        <img class="style-of-brand-img" src="img/brand images/GORENJE.png"               alt="تعمیر مارکت"></a></div>
-        <div class="scale-brand-img"><a href="BrandOfPHILCO.php">         <img class="style-of-brand-img" src="img/brand images/PHILCO.png"                alt="تعمیر مارکت"></a></div>
-        <div class="scale-brand-img"><a href="BrandOfWESTINGHOUSE.php">   <img class="style-of-brand-img" src="img/brand images/WESTINGHOUSE.png"          alt="تعمیر مارکت"></a></div>
-        <div class="scale-brand-img"><a href="BrandOfAZMAYESH.php">       <img class="style-of-brand-img" src="img/brand images/AZMAYESH.png"              alt="تعمیر مارکت"></a></div>
-        <div class="scale-brand-img"><a href="BrandOfELECTROSTILL.php">   <img class="style-of-brand-img" src="img/brand images/ELECTROSTILL.png"          alt="تعمیر مارکت"></a></div>
-        <div class="scale-brand-img"><a href="BrandOfOGENERAL.php">       <img class="style-of-brand-img" src="img/brand images/OGENERAL.png"              alt="تعمیر مارکت"></a></div>
-        <div class="scale-brand-img"><a href="BrandOfHYUNDAI.php">        <img class="style-of-brand-img" src="img/brand images/HYUNDAI.png"               alt="تعمیر مارکت"></a></div>
-        <div class="scale-brand-img"><a href="BrandOfMAGIC.php">          <img class="style-of-brand-img" src="img/brand images/MAGIC.png"                 alt="تعمیر مارکت"></a></div>
-        <div class="scale-brand-img"><a href="BrandOfADMIRAL.php">        <img class="style-of-brand-img" src="img/brand images/ADMIRAL.png"               alt="تعمیر مارکت"></a></div>
-        <div class="scale-brand-img"><a href="BrandOfAMANA.php">          <img class="style-of-brand-img" src="img/brand images/AMANA.png"                 alt="تعمیر مارکت"></a></div>
-        <div class="scale-brand-img"><a href="BrandOfTEFAL.php">          <img class="style-of-brand-img" src="img/brand images/TEFAL.png"                 alt="تعمیر مارکت"></a></div>
+        <div class="scale-brand-img"><a href="BrandOfLG.php">             <img class="style-of-brand-img" src="img/brand images/LG.webp"                    alt="تعمیر مارکت"></a></div>
+        <div class="scale-brand-img"><a href="BrandOfSAMSUNG.php">        <img class="style-of-brand-img" src="img/brand images/SAMSUNG.webp"               alt="تعمیر مارکت"></a></div>
+        <div class="scale-brand-img"><a href="BrandOfDAEWOO.php">         <img class="style-of-brand-img" src="img/brand images/DAEWOO.webp"                alt="تعمیر مارکت"></a></div>
+        <div class="scale-brand-img"><a href="BrandOfSNOWA.php">          <img class="style-of-brand-img" src="img/brand images/SNOWA.webp"                 alt="تعمیر مارکت"></a></div>
+        <div class="scale-brand-img"><a href="BrandOfPARS.php">           <img class="style-of-brand-img" src="img/brand images/PARS.webp"                  alt="تعمیر مارکت"></a></div>
+        <div class="scale-brand-img"><a href="BrandOfBEHI.php">           <img class="style-of-brand-img" src="img/brand images/BEHI.webp"                  alt="تعمیر مارکت"></a></div>
+        <div class="scale-brand-img"><a href="BrandOfAEG.php">            <img class="style-of-brand-img" src="img/brand images/AEG.webp"                   alt="تعمیر مارکت"></a></div>
+        <div class="scale-brand-img"><a href="BrandOfBOSCH.php">          <img class="style-of-brand-img" src="img/brand images/BOSCH.webp"                 alt="تعمیر مارکت"></a></div>
+        <div class="scale-brand-img"><a href="BrandOfSIEMENC.php">        <img class="style-of-brand-img" src="img/brand images/SIEMENC.webp"               alt="تعمیر مارکت"></a></div>
+        <div class="scale-brand-img"><a href="BrandOfKENWOOD.php">        <img class="style-of-brand-img" src="img/brand images/KENWOOD.webp"               alt="تعمیر مارکت"></a></div>
+        <div class="scale-brand-img"><a href="BrandOfINDESIT.php">        <img class="style-of-brand-img" src="img/brand images/INDESIT.webp"               alt="تعمیر مارکت"></a></div>
+        <div class="scale-brand-img"><a href="BrandOfCANDY.php">          <img class="style-of-brand-img" src="img/brand images/CANDY.webp"                 alt="تعمیر مارکت"></a></div>
+        <div class="scale-brand-img"><a href="BrandOfARJ.php">            <img class="style-of-brand-img" src="img/brand images/ARJ.webp"                   alt="تعمیر مارکت"></a></div>
+        <div class="scale-brand-img"><a href="BrandOfHIMALIA.php">        <img class="style-of-brand-img" src="img/brand images/HIMALIA.webp"               alt="تعمیر مارکت"></a></div>
+        <div class="scale-brand-img"><a href="BrandOfSEPEHRELECTRICE.php"><img class="style-of-brand-img" src="img/brand images/SEPEHR ELECTRICE.webp"      alt="تعمیر مارکت"></a></div>
+        <div class="scale-brand-img"><a href="BrandOfPAKSHOOMA.php">      <img class="style-of-brand-img" src="img/brand images/PAKSHOOMA.webp"             alt="تعمیر مارکت"></a></div>
+        <div class="scale-brand-img"><a href="BrandOfEMERSAN.php">        <img class="style-of-brand-img" src="img/brand images/EMERSAN.webp"               alt="تعمیر مارکت"></a></div>
+        <div class="scale-brand-img"><a href="BrandOfHAIER.php">          <img class="style-of-brand-img" src="img/brand images/HAIER.webp"                 alt="تعمیر مارکت"></a></div>
+        <div class="scale-brand-img"><a href="BrandOfYAKHSARAN.php">      <img class="style-of-brand-img" src="img/brand images/YAKHSARAN.webp"             alt="تعمیر مارکت"></a></div>
+        <div class="scale-brand-img"><a href="BrandOfBARFAB.php">         <img class="style-of-brand-img" src="img/brand images/BARFAB.webp"                alt="تعمیر مارکت"></a></div>
+        <div class="scale-brand-img"><a href="BrandOfBEKO.php">           <img class="style-of-brand-img" src="img/brand images/BEKO.webp"                  alt="تعمیر مارکت"></a></div>
+        <div class="scale-brand-img"><a href="BrandOfELECTROLUX.php">     <img class="style-of-brand-img" src="img/brand images/ELECTROLUX.webp"            alt="تعمیر مارکت"></a></div>
+        <div class="scale-brand-img"><a href="BrandOfPHIVER.php">         <img class="style-of-brand-img" src="img/brand images/PHILVER.webp"               alt="تعمیر مارکت"></a></div>
+        <div class="scale-brand-img"><a href="BrandOfSHARP.php">          <img class="style-of-brand-img" src="img/brand images/SHARP.webp"                 alt="تعمیر مارکت"></a></div>
+        <div class="scale-brand-img"><a href="BrandOfMOULINEX.php">       <img class="style-of-brand-img" src="img/brand images/MOULINEX.webp"              alt="تعمیر مارکت"></a></div>
+        <div class="scale-brand-img"><a href="BrandOfPANASONIC.php">      <img class="style-of-brand-img" src="img/brand images/PANASONIC.webp"             alt="تعمیر مارکت"></a></div>
+        <div class="scale-brand-img"><a href="BrandOfHARDSTONE.php">      <img class="style-of-brand-img" src="img/brand images/HARDSTONE.webp"             alt="تعمیر مارکت"></a></div>
+        <div class="scale-brand-img"><a href="BrandOfPHILIPS.php">        <img class="style-of-brand-img" src="img/brand images/PHILIPS.webp"               alt="تعمیر مارکت"></a></div>
+        <div class="scale-brand-img"><a href="BrandOfCORAL.php">          <img class="style-of-brand-img" src="img/brand images/CORAL.webp"                 alt="تعمیر مارکت"></a></div>
+        <div class="scale-brand-img"><a href="BrandOfTOSHIBA.php">        <img class="style-of-brand-img" src="img/brand images/TOSHIBA.webp"               alt="تعمیر مارکت"></a></div>
+        <div class="scale-brand-img"><a href="BrandOfKENMORE.php">        <img class="style-of-brand-img" src="img/brand images/KENMORE.webp"               alt="تعمیر مارکت"></a></div>
+        <div class="scale-brand-img"><a href="BrandOfHOOVER.php">         <img class="style-of-brand-img" src="img/brand images/HOOVER.webp"                alt="تعمیر مارکت"></a></div>
+        <div class="scale-brand-img"><a href="BrandOfZANUSSI.php">        <img class="style-of-brand-img" src="img/brand images/ZANUSSI.webp"               alt="تعمیر مارکت"></a></div>
+        <div class="scale-brand-img"><a href="BrandOfZEROWATT.php">       <img class="style-of-brand-img" src="img/brand images/ZEROWATT.webp"              alt="تعمیر مارکت"></a></div>
+        <div class="scale-brand-img"><a href="BrandOfGENERALELECTRIC.php"><img class="style-of-brand-img" src="img/brand images/GENERAL ELECTRIC.webp"      alt="تعمیر مارکت"></a></div>
+        <div class="scale-brand-img"><a href="BrandOfBAUKNECHT.php">      <img class="style-of-brand-img" src="img/brand images/BAUKNECHT.webp"             alt="تعمیر مارکت"></a></div>
+        <div class="scale-brand-img"><a href="BrandOfMIDEA.php">          <img class="style-of-brand-img" src="img/brand images/MIDEA.webp"                 alt="تعمیر مارکت"></a></div>
+        <div class="scale-brand-img"><a href="BrandOfWHIRLPOOL.php">      <img class="style-of-brand-img" src="img/brand images/WHIRLPOOL.webp"             alt="تعمیر مارکت"></a></div>
+        <div class="scale-brand-img"><a href="BrandOfFAGOR.php">          <img class="style-of-brand-img" src="img/brand images/FAGOR.webp"                 alt="تعمیر مارکت"></a></div>
+        <div class="scale-brand-img"><a href="BrandOfHOTPOINT.php">       <img class="style-of-brand-img" src="img/brand images/HOTPOINT.webp"              alt="تعمیر مارکت"></a></div>
+        <div class="scale-brand-img"><a href="BrandOfVESTEL.php">         <img class="style-of-brand-img" src="img/brand images/VESTEL.webp"                alt="تعمیر مارکت"></a></div>
+        <div class="scale-brand-img"><a href="BrandOfARISTON.php">        <img class="style-of-brand-img" src="img/brand images/ARISTON.webp"               alt="تعمیر مارکت"></a></div>
+        <div class="scale-brand-img"><a href="BrandOfMABE.php">           <img class="style-of-brand-img" src="img/brand images/MABE.webp"                  alt="تعمیر مارکت"></a></div>
+        <div class="scale-brand-img"><a href="BrandOfGORENJE.php">        <img class="style-of-brand-img" src="img/brand images/GORENJE.webp"               alt="تعمیر مارکت"></a></div>
+        <div class="scale-brand-img"><a href="BrandOfPHILCO.php">         <img class="style-of-brand-img" src="img/brand images/PHILCO.webp"                alt="تعمیر مارکت"></a></div>
+        <div class="scale-brand-img"><a href="BrandOfWESTINGHOUSE.php">   <img class="style-of-brand-img" src="img/brand images/WESTINGHOUSE.webp"          alt="تعمیر مارکت"></a></div>
+        <div class="scale-brand-img"><a href="BrandOfAZMAYESH.php">       <img class="style-of-brand-img" src="img/brand images/AZMAYESH.webp"              alt="تعمیر مارکت"></a></div>
+        <div class="scale-brand-img"><a href="BrandOfELECTROSTILL.php">   <img class="style-of-brand-img" src="img/brand images/ELECTROSTILL.webp"          alt="تعمیر مارکت"></a></div>
+        <div class="scale-brand-img"><a href="BrandOfOGENERAL.php">       <img class="style-of-brand-img" src="img/brand images/OGENERAL.webp"              alt="تعمیر مارکت"></a></div>
+        <div class="scale-brand-img"><a href="BrandOfHYUNDAI.php">        <img class="style-of-brand-img" src="img/brand images/HYUNDAI.webp"               alt="تعمیر مارکت"></a></div>
+        <div class="scale-brand-img"><a href="BrandOfMAGIC.php">          <img class="style-of-brand-img" src="img/brand images/MAGIC.webp"                 alt="تعمیر مارکت"></a></div>
+        <div class="scale-brand-img"><a href="BrandOfADMIRAL.php">        <img class="style-of-brand-img" src="img/brand images/ADMIRAL.webp"               alt="تعمیر مارکت"></a></div>
+        <div class="scale-brand-img"><a href="BrandOfAMANA.php">          <img class="style-of-brand-img" src="img/brand images/AMANA.webp"                 alt="تعمیر مارکت"></a></div>
+        <div class="scale-brand-img"><a href="BrandOfTEFAL.php">          <img class="style-of-brand-img" src="img/brand images/TEFAL.webp"                 alt="تعمیر مارکت"></a></div>
     </div>
     <!-- <a class="text-decoration-none" href="IndexBrandImages.php">
         <h3 class="style-of-entekhab-brand">

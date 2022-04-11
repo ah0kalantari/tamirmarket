@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-fa" >
 <head>
+ 
     <meta charset="UTF-8">
     <meta name="description" content="تعمیر مارکت در زمینه تعمیرات تخصصی انواع لوازم خانگی و برد های الکترونیکی با متخصصان با تجربه آماده خدمت رسانی به شماست.">
     <link rel="stylesheet" href="css/css.min.css">
@@ -11,12 +12,13 @@
     <title>تعمیرات لباسشویی | تعمیر مارکت</title>
 </head>
 <body class="styles-of-body-tag">
-        <header class="position-of-menu style-of-menu">
+  
+    <header class="position-of-menu style-of-menu">
         <div class="style-of-all-menu display-none-mo">
             <div>
                 <div>
-                    <img onclick="dispalymenuitems()" src="img/menu/menu icon.png" id="display-of-menu-icon"     alt="تعمیر مارکت" class="style-of-menu-icon-in-mo"></img>
-                    <img onclick="bardispalymenuitems()" src="img/menu/zarbdar.png" id="display-of-menu-zarbdar" alt="تعمیر مارکت" class="style-of-menu-icon-zarbdar-in-mo"></img>
+                    <img onclick="dispalymenuitems()" src="img/menu/menu icon.webp" id="display-of-menu-icon"     alt="تعمیر مارکت" class="style-of-menu-icon-in-mo"></img>
+                    <img onclick="bardispalymenuitems()" src="img/menu/zarbdar.webp" id="display-of-menu-zarbdar" alt="تعمیر مارکت" class="style-of-menu-icon-zarbdar-in-mo"></img>
                         <nav id="style-of-all-menu-mo">
                             <ul class="display-inline">
                                 <li class="display-inline"><a class="style-of-sdf style-of-original-page-item-in-menu-for-mo z-index-of-orginal-item-of-menu" href="index.php">صفحه ی اصلی </a></li>
@@ -92,8 +94,8 @@
             <div id="style-of-all-menu" class="style-of-all-menu display-none-pc">
                 <div>
                     <div>
-                        <img onclick="ChangeAlamatOfMenu()" id="style-hamberger-in-menu-mo" class="style-hamberger-in-menu-mo" src="img/menu/menu icon.png"  alt="تعمیر مارکت"></img>
-                        <img onclick="ChangeAlamatOfMenu()" id="style-x-in-menu-mo" class="style-x-in-menu-mo" src="img/menu/zarbdar.png"    alt="تعمیر مارکت"></img>
+                        <img onclick="ChangeAlamatOfMenu()" id="style-hamberger-in-menu-mo" class="style-hamberger-in-menu-mo" src="img/menu/menu icon.webp"  alt="تعمیر مارکت"></img>
+                        <img onclick="ChangeAlamatOfMenu()" id="style-x-in-menu-mo" class="style-x-in-menu-mo" src="img/menu/zarbdar.webp"    alt="تعمیر مارکت"></img>
                             <nav id="display-of-all-menu-in-mo" class="display-of-all-menu-in-mo">
                                 <ul>
                                     <li  class="style-of-menu-text-in-mo"><a  class="style-of-menu-text-in-mo" href="index.php">صفحه ی اصلی </a></li>
@@ -158,8 +160,8 @@
     <p id="show-menu-button" onclick="show_menu_desktop()" class="style-show-menu-button"> < </p>
     <div class="first-logo-styles">
         <br><br><br><br class=pc"><br class=pc">
-        <img class="display-inline styles-of-first-logo-in-all-pages-1" src="img/firstlogo/لوگوی تعمیر مارکت.png"             alt="Tamir Market تعمیر مارکت">
-        <img class="display-inline styles-of-first-logo-in-all-pages-2" src="img/firstlogo/تعمیر مارکت.png" alt="Tamir Market تعمیر مارکت">
+        <img class="display-inline styles-of-first-logo-in-all-pages-1" src="img/firstlogo/لوگوی تعمیر مارکت.webp"             alt="Tamir Market تعمیر مارکت">
+        <img class="display-inline styles-of-first-logo-in-all-pages-2" src="img/firstlogo/تعمیر مارکت.webp" alt="Tamir Market تعمیر مارکت">
         <hr class="style-of-hr-in-bottom-of-first-logo-in-all-pages">
     </div>
     <div class="style-of-moarefi-shoql-box">
@@ -176,23 +178,23 @@
     <br>
     <div id="slider">
         <div class="slide activate">
-            <img src="img/slide show/WM/1.jpg" alt="">
+            <img src="img/slide show/WM/1.webp" alt="">
         </div>
 
         <div class="slide">
-            <img src="img/slide show/WM/2.jpg" alt="">
+            <img src="img/slide show/WM/2.webp" alt="">
         </div>
     
         <div class="slide">
-            <img src="img/slide show/WM/3.jpg" alt="">
+            <img src="img/slide show/WM/3.webp" alt="">
         </div>
 
         <div class="slide">
-            <img src="img/slide show/WM/4.jpg" alt="">
+            <img src="img/slide show/WM/4.webp" alt="">
         </div>
 
         <div class="slide">
-            <img src="img/slide show/WM/5.jpg" alt="">
+            <img src="img/slide show/WM/5.webp" alt="">
         </div>
 
         <a class="prev" href="#">&#10094</a>
@@ -214,60 +216,60 @@
                 برند دستگاه خود را انتخاب کنید
             </h3>
             <br>
-                    <div class="scale-brand-img"><a href="RepairWashingMachineOfLG.php">             <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/LG.png"                    alt="تعمیر مارکت"></a></div>
-                    <div class="scale-brand-img"><a href="RepairWashingMachineOfSAMSUNG.php">        <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/SAMSUNG.png"               alt="تعمیر مارکت"></a></div>
-                    <div class="scale-brand-img"><a href="RepairWashingMachineOfDAEWOO.php">         <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/DAEWOO.png"                alt="تعمیر مارکت"></a></div>
-                    <div class="scale-brand-img"><a href="RepairWashingMachineOfSNOWA.php">          <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/SNOWA.png"                 alt="تعمیر مارکت"></a></div>
-                    <div class="scale-brand-img"><a href="RepairWashingMachineOfPARS.php">           <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/PARS.png"                  alt="تعمیر مارکت"></a></div>
-                    <div class="scale-brand-img"><a href="RepairWashingMachineOfBEHI.php">           <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/BEHI.png"                  alt="تعمیر مارکت"></a></div>
-                    <div class="scale-brand-img"><a href="RepairWashingMachineOfAEG.php">            <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/AEG.png"                   alt="تعمیر مارکت"></a></div>
-                    <div class="scale-brand-img"><a href="RepairWashingMachineOfBOSCH.php">          <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/BOSCH.png"                 alt="تعمیر مارکت"></a></div>
-                    <div class="scale-brand-img"><a href="RepairWashingMachineOfSIEMENC.php">        <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/SIEMENC.png"               alt="تعمیر مارکت"></a></div>
-                    <div class="scale-brand-img"><a href="RepairWashingMachineOfKENWOOD.php">        <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/KENWOOD.png"               alt="تعمیر مارکت"></a></div>
-                    <div class="scale-brand-img"><a href="RepairWashingMachineOfINDESIT.php">        <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/INDESIT.png"               alt="تعمیر مارکت"></a></div>
-                    <div class="scale-brand-img"><a href="RepairWashingMachineOfCANDY.php">          <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/CANDY.png"                 alt="تعمیر مارکت"></a></div>
-                    <div class="scale-brand-img"><a href="RepairWashingMachineOfARJ.php">            <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/ARJ.png"                   alt="تعمیر مارکت"></a></div>
-                    <div class="scale-brand-img"><a href="RepairWashingMachineOfHIMALIA.php">        <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/HIMALIA.png"               alt="تعمیر مارکت"></a></div>
-                    <div class="scale-brand-img"><a href="RepairWashingMachineOfSEPEHRELECTRICE.php"><img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/SEPEHR ELECTRICE.png"      alt="تعمیر مارکت"></a></div>
-                    <div class="scale-brand-img"><a href="RepairWashingMachineOfPAKSHOOMA.php">      <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/PAKSHOOMA.png"             alt="تعمیر مارکت"></a></div>
-                    <div class="scale-brand-img"><a href="RepairWashingMachineOfEMERSAN.php">        <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/EMERSAN.png"               alt="تعمیر مارکت"></a></div>
-                    <div class="scale-brand-img"><a href="RepairWashingMachineOfHAIER.php">          <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/HAIER.png"                 alt="تعمیر مارکت"></a></div>
-                    <div class="scale-brand-img"><a href="RepairWashingMachineOfYAKHSARAN.php">      <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/YAKHSARAN.png"             alt="تعمیر مارکت"></a></div>
-                    <div class="scale-brand-img"><a href="RepairWashingMachineOfBARFAB.php">         <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/BARFAB.png"                alt="تعمیر مارکت"></a></div>
-                    <div class="scale-brand-img"><a href="RepairWashingMachineOfBEKO.php">           <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/BEKO.png"                  alt="تعمیر مارکت"></a></div>
-                    <div class="scale-brand-img"><a href="RepairWashingMachineOfELECTROLUX.php">     <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/ELECTROLUX.png"            alt="تعمیر مارکت"></a></div>
-                    <div class="scale-brand-img"><a href="RepairWashingMachineOfPHIVER.php">         <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/PHILVER.png"               alt="تعمیر مارکت"></a></div>
-                    <div class="scale-brand-img"><a href="RepairWashingMachineOfSHARP.php">          <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/SHARP.png"                 alt="تعمیر مارکت"></a></div>
-                    <div class="scale-brand-img"><a href="RepairWashingMachineOfMOULINEX.php">       <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/MOULINEX.png"              alt="تعمیر مارکت"></a></div>
-                    <div class="scale-brand-img"><a href="RepairWashingMachineOfPANASONIC.php">      <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/PANASONIC.png"             alt="تعمیر مارکت"></a></div>
-                    <div class="scale-brand-img"><a href="RepairWashingMachineOfHARDSTONE.php">      <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/HARDSTONE.png"             alt="تعمیر مارکت"></a></div>
-                    <div class="scale-brand-img"><a href="RepairWashingMachineOfPHILIPS.php">        <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/PHILIPS.png"               alt="تعمیر مارکت"></a></div>
-                    <div class="scale-brand-img"><a href="RepairWashingMachineOfCORAL.php">          <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/CORAL.png"                 alt="تعمیر مارکت"></a></div>
-                    <div class="scale-brand-img"><a href="RepairWashingMachineOfTOSHIBA.php">        <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/TOSHIBA.png"               alt="تعمیر مارکت"></a></div>
-                    <div class="scale-brand-img"><a href="RepairWashingMachineOfKENMORE.php">        <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/KENMORE.png"               alt="تعمیر مارکت"></a></div>
-                    <div class="scale-brand-img"><a href="RepairWashingMachineOfHOOVER.php">         <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/HOOVER.png"                alt="تعمیر مارکت"></a></div>
-                    <div class="scale-brand-img"><a href="RepairWashingMachineOfZANUSSI.php">        <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/ZANUSSI.png"               alt="تعمیر مارکت"></a></div>
-                    <div class="scale-brand-img"><a href="RepairWashingMachineOfZEROWATT.php">       <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/ZEROWATT.png"              alt="تعمیر مارکت"></a></div>
-                    <div class="scale-brand-img"><a href="RepairWashingMachineOfGENERALELECTRIC.php"><img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/GENERAL ELECTRIC.png"      alt="تعمیر مارکت"></a></div>
-                    <div class="scale-brand-img"><a href="RepairWashingMachineOfBAUKNECHT.php">      <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/BAUKNECHT.png"             alt="تعمیر مارکت"></a></div>
-                    <div class="scale-brand-img"><a href="RepairWashingMachineOfMIDEA.php">          <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/MIDEA.png"                 alt="تعمیر مارکت"></a></div>
-                    <div class="scale-brand-img"><a href="RepairWashingMachineOfWHIRLPOOL.php">      <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/WHIRLPOOL.png"             alt="تعمیر مارکت"></a></div>
-                    <div class="scale-brand-img"><a href="RepairWashingMachineOfFAGOR.php">          <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/FAGOR.png"                 alt="تعمیر مارکت"></a></div>
-                    <div class="scale-brand-img"><a href="RepairWashingMachineOfHOTPOINT.php">       <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/HOTPOINT.png"              alt="تعمیر مارکت"></a></div>
-                    <div class="scale-brand-img"><a href="RepairWashingMachineOfVESTEL.php">         <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/VESTEL.png"                alt="تعمیر مارکت"></a></div>
-                    <div class="scale-brand-img"><a href="RepairWashingMachineOfARISTON.php">        <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/ARISTON.png"               alt="تعمیر مارکت"></a></div>
-                    <div class="scale-brand-img"><a href="RepairWashingMachineOfMABE.php">           <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/MABE.png"                  alt="تعمیر مارکت"></a></div>
-                    <div class="scale-brand-img"><a href="RepairWashingMachineOfGORENJE.php">        <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/GORENJE.png"               alt="تعمیر مارکت"></a></div>
-                    <div class="scale-brand-img"><a href="RepairWashingMachineOfPHILCO.php">         <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/PHILCO.png"                alt="تعمیر مارکت"></a></div>
-                    <div class="scale-brand-img"><a href="RepairWashingMachineOfWESTINGHOUSE.php">   <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/WESTINGHOUSE.png"          alt="تعمیر مارکت"></a></div>
-                    <div class="scale-brand-img"><a href="RepairWashingMachineOfAZMAYESH.php">       <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/AZMAYESH.png"              alt="تعمیر مارکت"></a></div>
-                    <div class="scale-brand-img"><a href="RepairWashingMachineOfELECTROSTILL.php">   <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/ELECTROSTILL.png"          alt="تعمیر مارکت"></a></div>
-                    <div class="scale-brand-img"><a href="RepairWashingMachineOfOGENERAL.php">       <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/OGENERAL.png"              alt="تعمیر مارکت"></a></div>
-                    <div class="scale-brand-img"><a href="RepairWashingMachineOfHYUNDAI.php">        <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/HYUNDAI.png"               alt="تعمیر مارکت"></a></div>
-                    <div class="scale-brand-img"><a href="RepairWashingMachineOfMAGIC.php">          <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/MAGIC.png"                 alt="تعمیر مارکت"></a></div>
-                    <div class="scale-brand-img"><a href="RepairWashingMachineOfADMIRAL.php">        <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/ADMIRAL.png"               alt="تعمیر مارکت"></a></div>
-                    <div class="scale-brand-img"><a href="RepairWashingMachineOfAMANA.php">          <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/AMANA.png"                 alt="تعمیر مارکت"></a></div>
-                    <div class="scale-brand-img"><a href="RepairWashingMachineOfTEFAL.php">          <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/TEFAL.png"                 alt="تعمیر مارکت"></a></div>
+                    <div class="scale-brand-img"><a href="RepairWashingMachineOfLG.php">             <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/LG.webp"                    alt="تعمیر مارکت"></a></div>
+                    <div class="scale-brand-img"><a href="RepairWashingMachineOfSAMSUNG.php">        <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/SAMSUNG.webp"               alt="تعمیر مارکت"></a></div>
+                    <div class="scale-brand-img"><a href="RepairWashingMachineOfDAEWOO.php">         <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/DAEWOO.webp"                alt="تعمیر مارکت"></a></div>
+                    <div class="scale-brand-img"><a href="RepairWashingMachineOfSNOWA.php">          <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/SNOWA.webp"                 alt="تعمیر مارکت"></a></div>
+                    <div class="scale-brand-img"><a href="RepairWashingMachineOfPARS.php">           <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/PARS.webp"                  alt="تعمیر مارکت"></a></div>
+                    <div class="scale-brand-img"><a href="RepairWashingMachineOfBEHI.php">           <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/BEHI.webp"                  alt="تعمیر مارکت"></a></div>
+                    <div class="scale-brand-img"><a href="RepairWashingMachineOfAEG.php">            <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/AEG.webp"                   alt="تعمیر مارکت"></a></div>
+                    <div class="scale-brand-img"><a href="RepairWashingMachineOfBOSCH.php">          <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/BOSCH.webp"                 alt="تعمیر مارکت"></a></div>
+                    <div class="scale-brand-img"><a href="RepairWashingMachineOfSIEMENC.php">        <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/SIEMENC.webp"               alt="تعمیر مارکت"></a></div>
+                    <div class="scale-brand-img"><a href="RepairWashingMachineOfKENWOOD.php">        <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/KENWOOD.webp"               alt="تعمیر مارکت"></a></div>
+                    <div class="scale-brand-img"><a href="RepairWashingMachineOfINDESIT.php">        <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/INDESIT.webp"               alt="تعمیر مارکت"></a></div>
+                    <div class="scale-brand-img"><a href="RepairWashingMachineOfCANDY.php">          <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/CANDY.webp"                 alt="تعمیر مارکت"></a></div>
+                    <div class="scale-brand-img"><a href="RepairWashingMachineOfARJ.php">            <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/ARJ.webp"                   alt="تعمیر مارکت"></a></div>
+                    <div class="scale-brand-img"><a href="RepairWashingMachineOfHIMALIA.php">        <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/HIMALIA.webp"               alt="تعمیر مارکت"></a></div>
+                    <div class="scale-brand-img"><a href="RepairWashingMachineOfSEPEHRELECTRICE.php"><img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/SEPEHR ELECTRICE.webp"      alt="تعمیر مارکت"></a></div>
+                    <div class="scale-brand-img"><a href="RepairWashingMachineOfPAKSHOOMA.php">      <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/PAKSHOOMA.webp"             alt="تعمیر مارکت"></a></div>
+                    <div class="scale-brand-img"><a href="RepairWashingMachineOfEMERSAN.php">        <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/EMERSAN.webp"               alt="تعمیر مارکت"></a></div>
+                    <div class="scale-brand-img"><a href="RepairWashingMachineOfHAIER.php">          <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/HAIER.webp"                 alt="تعمیر مارکت"></a></div>
+                    <div class="scale-brand-img"><a href="RepairWashingMachineOfYAKHSARAN.php">      <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/YAKHSARAN.webp"             alt="تعمیر مارکت"></a></div>
+                    <div class="scale-brand-img"><a href="RepairWashingMachineOfBARFAB.php">         <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/BARFAB.webp"                alt="تعمیر مارکت"></a></div>
+                    <div class="scale-brand-img"><a href="RepairWashingMachineOfBEKO.php">           <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/BEKO.webp"                  alt="تعمیر مارکت"></a></div>
+                    <div class="scale-brand-img"><a href="RepairWashingMachineOfELECTROLUX.php">     <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/ELECTROLUX.webp"            alt="تعمیر مارکت"></a></div>
+                    <div class="scale-brand-img"><a href="RepairWashingMachineOfPHIVER.php">         <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/PHILVER.webp"               alt="تعمیر مارکت"></a></div>
+                    <div class="scale-brand-img"><a href="RepairWashingMachineOfSHARP.php">          <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/SHARP.webp"                 alt="تعمیر مارکت"></a></div>
+                    <div class="scale-brand-img"><a href="RepairWashingMachineOfMOULINEX.php">       <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/MOULINEX.webp"              alt="تعمیر مارکت"></a></div>
+                    <div class="scale-brand-img"><a href="RepairWashingMachineOfPANASONIC.php">      <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/PANASONIC.webp"             alt="تعمیر مارکت"></a></div>
+                    <div class="scale-brand-img"><a href="RepairWashingMachineOfHARDSTONE.php">      <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/HARDSTONE.webp"             alt="تعمیر مارکت"></a></div>
+                    <div class="scale-brand-img"><a href="RepairWashingMachineOfPHILIPS.php">        <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/PHILIPS.webp"               alt="تعمیر مارکت"></a></div>
+                    <div class="scale-brand-img"><a href="RepairWashingMachineOfCORAL.php">          <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/CORAL.webp"                 alt="تعمیر مارکت"></a></div>
+                    <div class="scale-brand-img"><a href="RepairWashingMachineOfTOSHIBA.php">        <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/TOSHIBA.webp"               alt="تعمیر مارکت"></a></div>
+                    <div class="scale-brand-img"><a href="RepairWashingMachineOfKENMORE.php">        <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/KENMORE.webp"               alt="تعمیر مارکت"></a></div>
+                    <div class="scale-brand-img"><a href="RepairWashingMachineOfHOOVER.php">         <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/HOOVER.webp"                alt="تعمیر مارکت"></a></div>
+                    <div class="scale-brand-img"><a href="RepairWashingMachineOfZANUSSI.php">        <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/ZANUSSI.webp"               alt="تعمیر مارکت"></a></div>
+                    <div class="scale-brand-img"><a href="RepairWashingMachineOfZEROWATT.php">       <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/ZEROWATT.webp"              alt="تعمیر مارکت"></a></div>
+                    <div class="scale-brand-img"><a href="RepairWashingMachineOfGENERALELECTRIC.php"><img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/GENERAL ELECTRIC.webp"      alt="تعمیر مارکت"></a></div>
+                    <div class="scale-brand-img"><a href="RepairWashingMachineOfBAUKNECHT.php">      <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/BAUKNECHT.webp"             alt="تعمیر مارکت"></a></div>
+                    <div class="scale-brand-img"><a href="RepairWashingMachineOfMIDEA.php">          <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/MIDEA.webp"                 alt="تعمیر مارکت"></a></div>
+                    <div class="scale-brand-img"><a href="RepairWashingMachineOfWHIRLPOOL.php">      <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/WHIRLPOOL.webp"             alt="تعمیر مارکت"></a></div>
+                    <div class="scale-brand-img"><a href="RepairWashingMachineOfFAGOR.php">          <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/FAGOR.webp"                 alt="تعمیر مارکت"></a></div>
+                    <div class="scale-brand-img"><a href="RepairWashingMachineOfHOTPOINT.php">       <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/HOTPOINT.webp"              alt="تعمیر مارکت"></a></div>
+                    <div class="scale-brand-img"><a href="RepairWashingMachineOfVESTEL.php">         <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/VESTEL.webp"                alt="تعمیر مارکت"></a></div>
+                    <div class="scale-brand-img"><a href="RepairWashingMachineOfARISTON.php">        <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/ARISTON.webp"               alt="تعمیر مارکت"></a></div>
+                    <div class="scale-brand-img"><a href="RepairWashingMachineOfMABE.php">           <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/MABE.webp"                  alt="تعمیر مارکت"></a></div>
+                    <div class="scale-brand-img"><a href="RepairWashingMachineOfGORENJE.php">        <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/GORENJE.webp"               alt="تعمیر مارکت"></a></div>
+                    <div class="scale-brand-img"><a href="RepairWashingMachineOfPHILCO.php">         <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/PHILCO.webp"                alt="تعمیر مارکت"></a></div>
+                    <div class="scale-brand-img"><a href="RepairWashingMachineOfWESTINGHOUSE.php">   <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/WESTINGHOUSE.webp"          alt="تعمیر مارکت"></a></div>
+                    <div class="scale-brand-img"><a href="RepairWashingMachineOfAZMAYESH.php">       <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/AZMAYESH.webp"              alt="تعمیر مارکت"></a></div>
+                    <div class="scale-brand-img"><a href="RepairWashingMachineOfELECTROSTILL.php">   <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/ELECTROSTILL.webp"          alt="تعمیر مارکت"></a></div>
+                    <div class="scale-brand-img"><a href="RepairWashingMachineOfOGENERAL.php">       <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/OGENERAL.webp"              alt="تعمیر مارکت"></a></div>
+                    <div class="scale-brand-img"><a href="RepairWashingMachineOfHYUNDAI.php">        <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/HYUNDAI.webp"               alt="تعمیر مارکت"></a></div>
+                    <div class="scale-brand-img"><a href="RepairWashingMachineOfMAGIC.php">          <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/MAGIC.webp"                 alt="تعمیر مارکت"></a></div>
+                    <div class="scale-brand-img"><a href="RepairWashingMachineOfADMIRAL.php">        <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/ADMIRAL.webp"               alt="تعمیر مارکت"></a></div>
+                    <div class="scale-brand-img"><a href="RepairWashingMachineOfAMANA.php">          <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/AMANA.webp"                 alt="تعمیر مارکت"></a></div>
+                    <div class="scale-brand-img"><a href="RepairWashingMachineOfTEFAL.php">          <img class="style-of-brand-img-in-lavazem-khangy-page" src="img/brand images/TEFAL.webp"                 alt="تعمیر مارکت"></a></div>
             <br><br><br>
         <p class="style-of-mazit-estfade-az-ma">چرا شما برای نصب، سرویس وتعمیرات لوازم خانگی تعمیر مارکت را انتخاب کنید ؟</p>
         <p class="style-of-mazit-estfade-az-ma-text">
@@ -293,7 +295,7 @@
             </div>
         </div>
         <br><br>
-        <img class="style-of-rah-haye-ertebaty-gif" src="img/rahhayeertebaty.png" alt="راه های ارتباط با ما">
+        <img class="style-of-rah-haye-ertebaty-gif" src="img/rahhayeertebaty.webp" alt="راه های ارتباط با ما">
         <br><br>
         <p class="about-brand-title">کار هایی برای پیشگیری از خراب شدن ماشین لباسشویی </p>
         <p class="about-brand-text">
@@ -320,16 +322,16 @@
         <br><br>
         <p class="about-brand-title">انواع ماشین لباسشویی</p>
         <div class="style-of-ItemTamirat-div">
-            <img class="style-of-ItemTamirat-img" src="img/Lavazem Khanegy Images/WM/0001.png"       alt="تعمیر مارکت">
+            <img class="style-of-ItemTamirat-img" src="img/Lavazem Khanegy Images/WM/0001.webp"       alt="تعمیر مارکت">
          </div>
          <div class=" style-of-ItemTamirat-div">
-            <img class="style-of-ItemTamirat-img" src="img/Lavazem Khanegy Images/WM/0002.png"        alt="تعمیر مارکت">
+            <img class="style-of-ItemTamirat-img" src="img/Lavazem Khanegy Images/WM/0002.webp"        alt="تعمیر مارکت">
          </div>
          <div class=" style-of-ItemTamirat-div">
-             <img class="style-of-ItemTamirat-img" src="img/Lavazem Khanegy Images/WM/0003.png"             alt="تعمیر مارکت">
+             <img class="style-of-ItemTamirat-img" src="img/Lavazem Khanegy Images/WM/0003.webp"             alt="تعمیر مارکت">
          </div>
          <div class=" style-of-ItemTamirat-div">
-             <img class="style-of-ItemTamirat-img" src="img/Lavazem Khanegy Images/WM/0004.png"            alt="تعمیر مارکت">
+             <img class="style-of-ItemTamirat-img" src="img/Lavazem Khanegy Images/WM/0004.webp"            alt="تعمیر مارکت">
          </div>
         <p class="about-brand-text">
             رایج‌ترین گونه‌های ماشین لباس‌شویی خانگی عبارتند از
@@ -342,7 +344,7 @@
         </p>
         <br><br>
         <p class="about-brand-title">ساختار داخلی ماشین لباسشویی</p>
-        <img class="style-of-orginal-brand-image" src="img/Lavazem Khanegy Images/WM/00001.png" alt="تعمیرات لباسشویی ال جی">
+        <img class="style-of-orginal-brand-image" src="img/Lavazem Khanegy Images/WM/00001.webp" alt="تعمیرات لباسشویی ال جی">
         <br><br>
         <p class="about-brand-text">
             موتور ماشین‌های سطلی ممکن است از نوع قطب‌ چاکدار یا خازنی باشد که از موتور قطب‌چاکدار تنها در حالتی استفاده می‌شود که موتور به صورت مستقیم (بدون تسمه) به دیگ وصل است و جهت چرخش آن قابل تغییر نیست (چپ‌گرد و راست‌گرد ندارد). برخی از ماشین‌های لباس‌شویی سطلی دارای المنتی برای گرم‌کردن آب نیز هستند، اما ماشین‌های لباس‌شویی دوقلو به علت اینکه معمولاً دارای دیگ پلاستیکی‌اند در آن‌ها از المنت گرم‌کن استفاده نمی‌شود. عمل خشک‌کردن در ماشین‌های دوقلو معمولاً به وسیلهٔ نیروی گریز از مرکز انجام می‌شود و دارای یک موتور جدا برای مخزن خشک‌کن هستند. موتورهای ماشین دوقلو هر دو از نوع موتورهای القایی آسنکرون تکفاز هستند و در برخی از آن‌ها یک موتور القایی قطب‌چاکدار برای پمپ الکتریکی استفاده می‌شود. موتور شستشوی ماشین‌های دوقلو با تسمه به دیگ وصل می‌شود و می‌تواند لباس‌ها را در دو جهت بچرخاند که به تمیزتر شدن آن‌ها کمک می‌کند، اما موتور خشک‌کن به صورت مستقیم به مخزن خشک‌کن اتصال می‌یابد و به همین علت سرعت این قسمت بسیار بالاست و برای جلوگیری از خطرهای احتمالی یک ترمز مکانیکی که با میکروسوییچ فعال می‌شود در آن‌ها تعبیه شده‌است که با بازشدن در مخزن، موتور را خاموش و ترمز مکانیکی را فعال می‌کند. در ماشین‌های دوقولو با استفاده از دو تایمر برنامهٔ تغییرجهت ماشین را تعیین می‌کنند، به این صورت که اگر تایمر ۱ فعال باشد، ماشین مدت‌زمان چرخش ماشین در هر جهت بیشتر خواهد بود (مثلاً ۳۰ ثانیه چپ، ۴ ثانیه توقف، ۳۰ ثانیه راست، ۴ ثانیه توقف) اما اگر تایمر ۲ فعال باشد مدت زمان چرخش ماشین در هر جهت کمتر می‌شود (مثلاً ۵ ثانیه چپ، ۷ ثانیه توقف، ۵ ثانیه راست، ۷ ثانیه توقف). دور آرام ماشین برای لباس‌های ظریف در نظر گرفته شده‌است.
@@ -351,16 +353,16 @@
         <p class="about-brand-title">موتور ماشین لباسشویی چیست ؟</p>
         <div class="style-of-ItemTamirat-radif style-of-ItemTamirat-radif-in-brand-page">
             <div class=" style-of-ItemTamirat-div">
-               <img class="style-of-ItemTamirat-img" src="img/Lavazem Khanegy Images/WM/Q/1.png"       alt="تعمیر مارکت">
+               <img class="style-of-ItemTamirat-img" src="img/Lavazem Khanegy Images/WM/Q/1.webp"       alt="تعمیر مارکت">
             </div>
             <div class=" style-of-ItemTamirat-div">
-               <img class="style-of-ItemTamirat-img" src="img/Lavazem Khanegy Images/WM/Q/2.png"        alt="تعمیر مارکت">
+               <img class="style-of-ItemTamirat-img" src="img/Lavazem Khanegy Images/WM/Q/2.webp"        alt="تعمیر مارکت">
             </div>
             <div class=" style-of-ItemTamirat-div">
-                <img class="style-of-ItemTamirat-img" src="img/Lavazem Khanegy Images/WM/Q/3.png"             alt="تعمیر مارکت">
+                <img class="style-of-ItemTamirat-img" src="img/Lavazem Khanegy Images/WM/Q/3.webp"             alt="تعمیر مارکت">
             </div>
             <div class=" style-of-ItemTamirat-div">
-                <img class="style-of-ItemTamirat-img" src="img/Lavazem Khanegy Images/WM/Q/4.png"            alt="تعمیر مارکت">
+                <img class="style-of-ItemTamirat-img" src="img/Lavazem Khanegy Images/WM/Q/4.webp"            alt="تعمیر مارکت">
             </div>
         </div>
         <p class="about-brand-text">
@@ -374,16 +376,16 @@
         <p class="about-brand-title">الکتروموتور پمپ ماشین لباسشویی چیست ؟</p>
         <div class="style-of-ItemTamirat-radif style-of-ItemTamirat-radif-in-brand-page">
             <div class=" style-of-ItemTamirat-div">
-               <img class="style-of-ItemTamirat-img" src="img/Lavazem Khanegy Images/WM/Q/5.png"       alt="تعمیر مارکت">
+               <img class="style-of-ItemTamirat-img" src="img/Lavazem Khanegy Images/WM/Q/5.webp"       alt="تعمیر مارکت">
             </div>
             <div class=" style-of-ItemTamirat-div">
-               <img class="style-of-ItemTamirat-img" src="img/Lavazem Khanegy Images/WM/Q/6.png"        alt="تعمیر مارکت">
+               <img class="style-of-ItemTamirat-img" src="img/Lavazem Khanegy Images/WM/Q/6.webp"        alt="تعمیر مارکت">
             </div>
             <div class=" style-of-ItemTamirat-div">
-                <img class="style-of-ItemTamirat-img" src="img/Lavazem Khanegy Images/WM/Q/7.png"             alt="تعمیر مارکت">
+                <img class="style-of-ItemTamirat-img" src="img/Lavazem Khanegy Images/WM/Q/7.webp"             alt="تعمیر مارکت">
             </div>
             <div class=" style-of-ItemTamirat-div">
-                <img class="style-of-ItemTamirat-img" src="img/Lavazem Khanegy Images/WM/Q/8.png"            alt="تعمیر مارکت">
+                <img class="style-of-ItemTamirat-img" src="img/Lavazem Khanegy Images/WM/Q/8.webp"            alt="تعمیر مارکت">
             </div>
         </div>
         <br><br>
@@ -397,16 +399,16 @@
         <br><br>
         <p class="about-brand-title">هیدروستات ماشین لباسشویی چیست ؟</p>
         <div class=" style-of-ItemTamirat-div">
-            <img class="style-of-ItemTamirat-img" src="img/Lavazem Khanegy Images/WM/Q/9.png"       alt="تعمیر مارکت">
+            <img class="style-of-ItemTamirat-img" src="img/Lavazem Khanegy Images/WM/Q/9.webp"       alt="تعمیر مارکت">
          </div>
          <div class=" style-of-ItemTamirat-div">
-            <img class="style-of-ItemTamirat-img" src="img/Lavazem Khanegy Images/WM/Q/10.png"        alt="تعمیر مارکت">
+            <img class="style-of-ItemTamirat-img" src="img/Lavazem Khanegy Images/WM/Q/10.webp"        alt="تعمیر مارکت">
          </div>
          <div class=" style-of-ItemTamirat-div">
-             <img class="style-of-ItemTamirat-img" src="img/Lavazem Khanegy Images/WM/Q/11.png"             alt="تعمیر مارکت">
+             <img class="style-of-ItemTamirat-img" src="img/Lavazem Khanegy Images/WM/Q/11.webp"             alt="تعمیر مارکت">
          </div>
          <div class=" style-of-ItemTamirat-div">
-             <img class="style-of-ItemTamirat-img" src="img/Lavazem Khanegy Images/WM/Q/12.png"            alt="تعمیر مارکت">
+             <img class="style-of-ItemTamirat-img" src="img/Lavazem Khanegy Images/WM/Q/12.webp"            alt="تعمیر مارکت">
          </div>
         <p class="about-brand-text">
         هیدرواستات ‌ها سطح آب داخل ماشین را واپایی می‌کند و قابل تنظیم هستند. برخی از هیدورستات‌ها برپایهٔ فشار هوای داخل دیگ سطح آب را کنترل می‌کنند. هیدروستات‌ها از ۲ نوع الکترونیکی و مکانیکی ساخته می‌شوند که در هر ۲ مدل تنظیم سطح آب از طریق شلنگ هوایی که از دیگ اصلی به هیدروستات متصل می‌شود که البته ابتدا یک کپسول هوا در مسیر وجود دارد که شلنگ به کپسول هوا متصل است و با پر شدن مخزن فشار هوا وارد کپسول شده و با تحریک هیدروستات و فرمان هیدروستات به برد برق شیر برقی قطع می‌شود و بدینوسیله سطح آب دستگاه کنترل می‌شود. در هیدروستات‌های جدیدتر که همان الکرونیکی محسوب می‌شوند اکان تنظیم سطح آب نیز وجود دارد که با چرخش پیچ به سمت عقربه‌های ساعت سطح آب‌ گیری بیشتر می‌شود.
@@ -462,14 +464,244 @@
 
     </div>
     <div class="left">
-        <img class="style-of-left-ra" src="img/left/orginal.png" alt="chatre sabz">
-        <p>این بخش به زودی در دسترس خواهدبود</p>
+        <img class="style-of-left-ra" src="img/left/orginal.webp" alt="chatre sabz">
+                <table>
+ 
+
+
+            <tr>
+                <td>
+                    <p> بیشتر بدانیم </p>
+                </td>
+            </tr>
+
+            <tr class="left-tr-poshesh">
+                <td class="left-poshesh">
+                    <div class="left-left">
+                        <a class="left-a" href="">
+                            <p class="left-left-p"> چگونه آلودگی هوای آشپزخانه را 
+                            <br>
+                            کاهش دهیم ؟ 
+                            </p>
+                        </a>
+                    </div>
+
+                </td>
+                <td class="left-poshesh">
+                    <div class="right-left">
+                        <img class="right-left-img" src="img/در حال ساخت.webp" alt="comming soon">
+                    </div>
+                </td>
+            </tr>
+
+                <!-- 1 ▲ -->
+
+            <tr class="left-tr-poshesh">
+                <td class="left-poshesh">
+                    <div class="left-left">
+                        <a class="left-a" href="">
+                            <p class="left-left-p"> بهینه سازی مصرف و کارایی پکیج
+                                <br>
+                                 دیواری گازی 
+                            </p>
+                        </a>
+                    </div>
+
+                </td>
+                <td class="left-poshesh">
+                    <div class="right-left">
+                        <img class="right-left-img" src="img/در حال ساخت.webp" alt="comming soon">
+                    </div>
+                </td>
+            </tr>
+
+                    <!-- 2 ▲ -->
+
+            <tr class="left-tr-poshesh">
+                <td class="left-poshesh">
+                    <div class="left-left">
+                        <a class="left-a" href="">
+                            <p class="left-left-p"> هنگام آتش گرفتن لوازم الکتریکی  
+                                <br>
+                                چه کار باید کرد ؟
+                            </p>
+                        </a>
+                    </div>
+
+                </td>
+                <td class="left-poshesh">
+                    <div class="right-left">
+                        <img class="right-left-img" src="img/در حال ساخت.webp" alt="comming soon">
+                    </div>
+                </td>
+            </tr>
+
+
+                    <!-- 3 ▲ -->
+
+
+                    <tr class="left-tr-poshesh">
+                <td class="left-poshesh">
+                    <div class="left-left">
+                        <a class="left-a" href="">
+                            <p class="left-left-p"> پنچ لوازم خانگی که باعث پریدن کلید 
+                                <br>
+                                اتوماتیک (فیوز)  می شوند
+                            </p>
+                        </a>
+                    </div>
+
+                </td>
+                <td class="left-poshesh">
+                    <div class="right-left">
+                        <img class="right-left-img" src="img/در حال ساخت.webp" alt="comming soon">
+                    </div>
+                </td>
+            </tr>
+
+
+                    <!-- 4 ▲ -->
+
+
+                    <tr class="left-tr-poshesh">
+                <td class="left-poshesh">
+                    <div class="left-left">
+                        <a class="left-a" href="">
+                            <p class="left-left-p"> چه زمانی از لامپ آفتابی یا مهتابی استفاده کنیم ؟ </p>
+                        </a>
+                    </div>
+
+                </td>
+                <td class="left-poshesh">
+                    <div class="right-left">
+                        <img class="right-left-img" src="img/در حال ساخت.webp" alt="comming soon">
+                    </div>
+                </td>
+            </tr>
+
+
+                    <!-- 5 ▲ -->
+
+
+
+            <tr>
+                <td>
+                    <p> آموزش های تخصصی </p>
+                </td>
+            </tr>
+
+                    <tr class="left-tr-poshesh">
+                <td class="left-poshesh">
+                    <div class="left-left">
+                        <a class="left-a" href="">
+                            <p class="left-left-p"> نحوه ی از بین بردن خش روی بدنه استیل لوازم خانگی </p>
+                        </a>
+                    </div>
+
+                </td>
+                <td class="left-poshesh">
+                    <div class="right-left">
+                        <img class="right-left-img" src="img/در حال ساخت.webp" alt="comming soon">
+                    </div>
+                </td>
+            </tr>
+
+
+                    <!-- 6 ▲ -->
+
+
+
+
+
+
+
+
+                    <tr class="left-tr-poshesh">
+                <td class="left-poshesh">
+                    <div class="left-left">
+                        <a class="left-a" href="">
+                            <p class="left-left-p"> تصفیه کننده ی هوا چیست ؟
+                            <br>
+                            هر آنچه که باید در مورد تصفیه کننده ی هوا بدانید
+                            </p>
+                        </a>
+                    </div>
+
+                </td>
+                <td class="left-poshesh">
+                    <div class="right-left">
+                        <img class="right-left-img" src="img/در حال ساخت.webp" alt="comming soon">
+                    </div>
+                </td>
+            </tr>
+
+
+                    <!-- 7 ▲ -->
+
+
+                    <tr class="left-tr-poshesh">
+                <td class="left-poshesh">
+                    <div class="left-left">
+                        <a class="left-a" href="">
+                            <p class="left-left-p"> کدام لوازم خانگی بیشترین برق را مصرف می کند ؟ </p>
+                        </a>
+                    </div>
+
+                </td>
+                <td class="left-poshesh">
+                    <div class="right-left">
+                        <img class="right-left-img" src="img/در حال ساخت.webp" alt="comming soon">
+                    </div>
+                </td>
+            </tr>
+ 
+
+                    <!-- 8 ▲ -->
+
+                    <tr class="left-tr-poshesh">
+                <td class="left-poshesh">
+                    <div class="left-left">
+                        <a class="left-a" href="">
+                            <p class="left-left-p"> راهنمای انتخاب لوازم اصلی آشپزخانه </p>
+                        </a>
+                    </div>
+
+                </td>
+                <td class="left-poshesh">
+                    <div class="right-left">
+                        <img class="right-left-img" src="img/در حال ساخت.webp" alt="comming soon">
+                    </div>
+                </td>
+            </tr>
+ 
+
+                    <!-- 9 ▲ -->
+
+                    <tr class="left-tr-poshesh">
+                <td class="left-poshesh">
+                    <div class="left-left">
+                        <a class="left-a" href="">
+                            <p class="left-left-p"> استراتژی صرفه جویی آب ، برق و گاز در لوازم خانه </p>
+                        </a>
+                    </div>
+
+                </td>
+                <td class="left-poshesh">
+                    <div class="right-left">
+                        <img class="right-left-img" src="img/در حال ساخت.webp" alt="comming soon">
+                    </div>
+                </td>
+            </tr>
+ 
+
+                    <!-- 10 ▲ -->
+        </table>
     </div>
 
     <table class="style-of-naqshe-iran-box">
         <tr>
             <td>
-                <img class="style-of-naqshe-iran-img" src="img/naqshe iran/naqsh iran.png" alt="تعمیر مارکت">
+                <img class="style-of-naqshe-iran-img" src="img/naqshe iran/naqsh iran.webp" alt="تعمیر مارکت">
             </td>
             <td>
                 <p class="style-of-naqshe-iran-title-text">تعمیر مارکت</p>
@@ -483,7 +715,7 @@
     <table class="style-of-naqshe-iran-box-mo">
         <tr>
             <td>
-                <img class="style-of-naqshe-iran-img" src="img/naqshe iran/naqsh iran.png" alt="تعمیر مارکت">
+                <img class="style-of-naqshe-iran-img" src="img/naqshe iran/naqsh iran.webp" alt="تعمیر مارکت">
             </td>
         </tr>
         <tr>
@@ -506,36 +738,36 @@
 <table class="style-of-new-news-table-box">
     <tr class="style-of-new-news-tr">
         <td class="style-of-new-news-td">
-            <img class="style-of-new-news-img" src="img/new news/1.png" alt=" تعمیر مارکت | تعمیرات انواع ظرفشویی | تعمیر انواع ظرفشویی ">
+            <img class="style-of-new-news-img" src="img/new news/1.webp" alt=" تعمیر مارکت | تعمیرات انواع ظرفشویی | تعمیر انواع ظرفشویی ">
         </td>
         <td class="style-of-new-news-td">
-            <img class="style-of-new-news-img" src="img/new news/2.png" alt=" تعمیر مارکت | تعمیرات انواع ساید بای ساید  | تعمیر انواع ساید بای ساید ">
+            <img class="style-of-new-news-img" src="img/new news/2.webp" alt=" تعمیر مارکت | تعمیرات انواع ساید بای ساید  | تعمیر انواع ساید بای ساید ">
         </td>
         <td class="style-of-new-news-td">
-            <img class="style-of-new-news-img" src="img/new news/3.png" alt=" تعمیر مارکت | تعمیرات انواع ماکروویو  | تعمیر انواع ماکروویو ">
+            <img class="style-of-new-news-img" src="img/new news/3.webp" alt=" تعمیر مارکت | تعمیرات انواع ماکروویو  | تعمیر انواع ماکروویو ">
         </td>
         <td class="style-of-new-news-td">
-            <img class="style-of-new-news-img" src="img/new news/4.png" alt=" تعمیر مارکت | تعمیرات انواع لباسشویی  | تعمیر انواع لباسشویی ">
+            <img class="style-of-new-news-img" src="img/new news/4.webp" alt=" تعمیر مارکت | تعمیرات انواع لباسشویی  | تعمیر انواع لباسشویی ">
         </td>
         <td class="style-of-new-news-td">
-            <img class="style-of-new-news-img" src="img/new news/8.png" alt=" تعمیر مارکت | تعمیرات انواع جاروبرقی  | تعمیر انواع جاروبرقی ">
+            <img class="style-of-new-news-img" src="img/new news/8.webp" alt=" تعمیر مارکت | تعمیرات انواع جاروبرقی  | تعمیر انواع جاروبرقی ">
         </td>
     </tr>
     <tr>
         <td class="style-of-new-news-td">
-            <img class="style-of-new-news-img" src="img/new news/5.png" alt=" تعمیر مارکت | تعمیرات انواع کولر گازی  | تعمیر انواع کولر گازی ">
+            <img class="style-of-new-news-img" src="img/new news/5.webp" alt=" تعمیر مارکت | تعمیرات انواع کولر گازی  | تعمیر انواع کولر گازی ">
         </td>
         <td class="style-of-new-news-td">
-            <img class="style-of-new-news-img" src="img/new news/6.png" alt=" تعمیر مارکت | تعمیرات انواع یخچال فریزر  | تعمیر انواع یخچال فریرز ">
+            <img class="style-of-new-news-img" src="img/new news/6.webp" alt=" تعمیر مارکت | تعمیرات انواع یخچال فریزر  | تعمیر انواع یخچال فریرز ">
         </td>
         <td class="style-of-new-news-td">
-            <img class="style-of-new-news-img" src="img/new news/7.png" alt=" تعمیر مارکت | تعمیرات انواع لوازم آشپزخانه  | تعمیر انواع لوازم اشپزخانه ">
+            <img class="style-of-new-news-img" src="img/new news/7.webp" alt=" تعمیر مارکت | تعمیرات انواع لوازم آشپزخانه  | تعمیر انواع لوازم اشپزخانه ">
         </td>
         <td class="style-of-new-news-td">
-            <img class="style-of-new-news-img" src="img/new news/8.png" alt=" تعمیر مارکت | تعمیرات انواع جاروبرقی  | تعمیر انواع جاروبرقی ">
+            <img class="style-of-new-news-img" src="img/new news/8.webp" alt=" تعمیر مارکت | تعمیرات انواع جاروبرقی  | تعمیر انواع جاروبرقی ">
         </td>
         <td class="style-of-new-news-td">
-            <img class="style-of-new-news-img" src="img/new news/7.png" alt=" تعمیر مارکت | تعمیرات انواع لوازم آشپزخانه  | تعمیر انواع لوازم اشپزخانه ">
+            <img class="style-of-new-news-img" src="img/new news/7.webp" alt=" تعمیر مارکت | تعمیرات انواع لوازم آشپزخانه  | تعمیر انواع لوازم اشپزخانه ">
         </td>
 
     </tr>
@@ -543,42 +775,42 @@
 <table class="style-of-new-news-table-box-mo">
     <tr class="style-of-new-news-tr">
         <td class="style-of-new-news-td">
-            <img class="style-of-new-news-img" src="img/new news/1.png" alt=" تعمیر مارکت | تعمیرات انواع ظرفشویی | تعمیر انواع ظرفشویی ">
+            <img class="style-of-new-news-img" src="img/new news/1.webp" alt=" تعمیر مارکت | تعمیرات انواع ظرفشویی | تعمیر انواع ظرفشویی ">
         </td>
         <td class="style-of-new-news-td">
-            <img class="style-of-new-news-img" src="img/new news/2.png" alt=" تعمیر مارکت | تعمیرات انواع ساید بای ساید  | تعمیر انواع ساید بای ساید ">
-        </td>
-    </tr>
-    <tr class="style-of-new-news-tr">
-        <td class="style-of-new-news-td">
-            <img class="style-of-new-news-img" src="img/new news/3.png" alt=" تعمیر مارکت | تعمیرات انواع ماکروویو  | تعمیر انواع ماکروویو ">
-        </td>
-        <td class="style-of-new-news-td">
-            <img class="style-of-new-news-img" src="img/new news/4.png" alt=" تعمیر مارکت | تعمیرات انواع لباسشویی  | تعمیر انواع لباسشویی ">
+            <img class="style-of-new-news-img" src="img/new news/2.webp" alt=" تعمیر مارکت | تعمیرات انواع ساید بای ساید  | تعمیر انواع ساید بای ساید ">
         </td>
     </tr>
     <tr class="style-of-new-news-tr">
         <td class="style-of-new-news-td">
-            <img class="style-of-new-news-img" src="img/new news/5.png" alt=" تعمیر مارکت | تعمیرات انواع کولر گازی  | تعمیر انواع کولر گازی ">
+            <img class="style-of-new-news-img" src="img/new news/3.webp" alt=" تعمیر مارکت | تعمیرات انواع ماکروویو  | تعمیر انواع ماکروویو ">
         </td>
         <td class="style-of-new-news-td">
-            <img class="style-of-new-news-img" src="img/new news/6.png" alt=" تعمیر مارکت | تعمیرات انواع یخچال فریزر  | تعمیر انواع یخچال فریرز ">
-        </td>
-    </tr>
-    <tr class="style-of-new-news-tr">
-        <td class="style-of-new-news-td">
-            <img class="style-of-new-news-img" src="img/new news/7.png" alt=" تعمیر مارکت | تعمیرات انواع لوازم آشپزخانه  | تعمیر انواع لوازم اشپزخانه ">
-        </td>
-        <td class="style-of-new-news-td">
-            <img class="style-of-new-news-img" src="img/new news/8.png" alt=" تعمیر مارکت | تعمیرات انواع جاروبرقی  | تعمیر انواع جاروبرقی ">
+            <img class="style-of-new-news-img" src="img/new news/4.webp" alt=" تعمیر مارکت | تعمیرات انواع لباسشویی  | تعمیر انواع لباسشویی ">
         </td>
     </tr>
     <tr class="style-of-new-news-tr">
         <td class="style-of-new-news-td">
-            <img class="style-of-new-news-img" src="img/new news/7.png" alt=" تعمیر مارکت | تعمیرات انواع لوازم آشپزخانه  | تعمیر انواع لوازم اشپزخانه ">
+            <img class="style-of-new-news-img" src="img/new news/5.webp" alt=" تعمیر مارکت | تعمیرات انواع کولر گازی  | تعمیر انواع کولر گازی ">
         </td>
         <td class="style-of-new-news-td">
-            <img class="style-of-new-news-img" src="img/new news/8.png" alt=" تعمیر مارکت | تعمیرات انواع جاروبرقی  | تعمیر انواع جاروبرقی ">
+            <img class="style-of-new-news-img" src="img/new news/6.webp" alt=" تعمیر مارکت | تعمیرات انواع یخچال فریزر  | تعمیر انواع یخچال فریرز ">
+        </td>
+    </tr>
+    <tr class="style-of-new-news-tr">
+        <td class="style-of-new-news-td">
+            <img class="style-of-new-news-img" src="img/new news/7.webp" alt=" تعمیر مارکت | تعمیرات انواع لوازم آشپزخانه  | تعمیر انواع لوازم اشپزخانه ">
+        </td>
+        <td class="style-of-new-news-td">
+            <img class="style-of-new-news-img" src="img/new news/8.webp" alt=" تعمیر مارکت | تعمیرات انواع جاروبرقی  | تعمیر انواع جاروبرقی ">
+        </td>
+    </tr>
+    <tr class="style-of-new-news-tr">
+        <td class="style-of-new-news-td">
+            <img class="style-of-new-news-img" src="img/new news/7.webp" alt=" تعمیر مارکت | تعمیرات انواع لوازم آشپزخانه  | تعمیر انواع لوازم اشپزخانه ">
+        </td>
+        <td class="style-of-new-news-td">
+            <img class="style-of-new-news-img" src="img/new news/8.webp" alt=" تعمیر مارکت | تعمیرات انواع جاروبرقی  | تعمیر انواع جاروبرقی ">
         </td>
     </tr>
 </table>
@@ -600,7 +832,7 @@
     </tr>
     <tr>
         <td rowspan="2" class="style-of-footer-td">
-            <img class="style-of-footer-logo" src="img/footer/footerlogo.png" alt="ارتباط با ما | تعمیر مارکت">
+            <img class="style-of-footer-logo" src="img/footer/footerlogo.webp" alt="ارتباط با ما | تعمیر مارکت">
         </td>
         <td class="style-of-footer-td">
                 <p class="style-of-footer-title">۰۹۱۲-۳۲۰۲۰۱۳</p>  
@@ -656,7 +888,7 @@
     </tr>
     <tr>
     <td class="style-of-footer-td">
-        <img class="style-of-footer-logo" src="img/footer/footerlogo.png" alt="ارتباط با ما | تعمیر مارکت">
+        <img class="style-of-footer-logo" src="img/footer/footerlogo.webp" alt="ارتباط با ما | تعمیر مارکت">
     </td>
     </tr>
     <tr>
@@ -729,13 +961,14 @@
     <!-- ---------------------------------------------------------------------------------------------------- -->
 
 <!-- keywords  -->
-<h1 class="style-pf-secret-key-words"> ارج - تعمیر - تعمیرات - رفع - ایراد - ایرادات - مشکل - وسیله ی مورد نظر - ماشین - دوقلو - درب - از - بالا - در - استان - تهران - البرز - کرج - خشک - کن - دار-اتوماتیک - تعمیر مارکت - تعمیرگاه - خدمات - مجاز - مرکزی - سرویس - نصب - جاده - چالوس - زنبق -عظیمیه -بعثت - طالقانی - شمالی - طالقانی - جنوبی - میدان - اسبی - میدان - مهران - بلوار - کاج - پامچال - شمالی - پامچال - جنوبی - برغان - اسلام - اباد - آباد - ازادگان - آزادگان - حسن - اباد- آباد - نواب - مطهری - میدان - نبوت - بلوار - جمهوری - شمالی - بلوار - جمهوری - جنوبی - بلوار - موذن - اشتراکی - شمالی - اشتراکی - جنوبی - کوی - پیروزی - شهرک - بهارستان - ملکشاه - بلوار - امام - رضا - بلوار - ملاصدرا - ملا صدرا - جهانشهر - کسری - شمالی - کسری - جنوبی - بلوار - ماهان - بلوار - بهارستان - فرمانداری - رجایی - شهر - گوهر - دشت - بلوار - رستاخیز - بلوار - شهرداری - بلوار - انقلاب - اوقافی - محمود - اباد - باغستان - باغستان - غربی - خیابان - قلم - بنیاد - شاهین - ویلا - جواد - اباد - کوی - داریوش - شهرک - یاس - حصارک - بالا - حصارک - پایین - کمال - اباد - خرمدشت - پیشاهنگی - نظر - اباد - هشتگرد - شهرک - رازی - مهر - شهر- بلوار - ارم - حسین - اباد - مهرشهر - کیانمهر - فاز - 4 - مهر - شهر - 45 -متری - گلشهر - شهرک - مترو- شهرک - پردیسان - شهرک - سلمان - فارسی - دهقان - ویلای - اول - دهقان - ویلای - دوم - میانجاده - حیدر - اباد - کرج - نو - سه - راه - گوهر - دشت - بلوار - سه - باندی - کوی - داریوش - زمین - های - خانم - انصاری - کوی - کارمندان - شمالی - کوی - کارمندان - جنوبی - مهر - ویلا - بلوار - دانش - اموز - دولت - اباد - چهار - صد - دستگاه - هفت - تیر - محمد - شهر - شهرک - مهندسی - زراعی - فردیس - شهرک - وحدت - شهرک - منظریه - ساسانی - فردوسی - رزکان - نو - قلمستان - مصباح - کلاک - بالا - کلاک - پایین - کلاک -  شهرداری - گرمدره - شهرک - جهان - نما - شهرک - خاتم - حسین - آباد - راهن - راه - آهن - اهن - جاده - چالوس - زنبق - عظیمیه - بعثت - طالقانی - شمالی - طالقانی - جنوبی - میدان - اسبی - میدان - مهران - بلوار - کاج - پامچال - شمالی - پامچال - جنوبی - برغان - اسلام - اباد - ازادگان - حسن - اباد - نواب - مطهری - میدان - نبوت - بلوار - جمهوری - شمالی - بلوار - جمهوری - جنوبی - بلوار - موذن - اشتراکی - شمالی - اشتراکی - جنوبی - کوی - پیروزی - شهرک - بهارستان - ملکشاه - بلوار - امام - رضا - بلوار - ملا - صدرا - ملاصدرا - جهانشهر - کسری - شمالی - کسری - جنوبی - بلوار - ماهان - بلوار - بهارستان - فرمانداری - رجایی - شهر - گوهر - دشت - بلوار - رستاخیز - بلوار - شهرداری - بلوار - انقلاب - اوقافی - محمود - اباد - باغستان - باغستان - غربی - خیابان - قلم - بنیاد - شاهین - ویلا - جواد - اباد - کوی - داریوش - شهرک - یاس - حصارک - بالا - حصارک - پایین - کمال - اباد - خرمدشت - پیشاهنگی - نظر - اباد - هشتگرد - شهرک - رازی - مهر - شهر - بلوار - ارم - حسین - اباد - مهر - شهر - کیانمهر - کیان - مهر - فاز - چهار - 4 - مهر - شهر - 45متری - چهل - و- پنج - متری - گلشهر - شهرک - مترو - شهرک - پردیسان - شهرک - سلمان - فارسی - دهقان - ویلای - اول - دهقان - ویلای - دوم - میانجاده - حیدر - اباد - کرج - نو - سه - راه - گوهر - دشت - بلوار - سه - باندی - کوی - داریوش - زمین - های - خانم - انصاری - کوی - کارمندان - شمالی - کوی - کارمندان - جنوبی - مهر - ویلا - بلوار - دانش - اموز - آموز - دولت - اباد - چهار - صد - دستگاه - هفت - تیر - محمد - شهر - شهرک - مهندسی - زراعی - فردیس - شهرک - وحدت - شهرک - منظریه - ساسانی - فردوسی - رزکان - نو - قلمستان - مصباح - کلاک - بالا - کلاک -پایین - کلاک - شهرداری - گرمدره - شهرک - جهان - نما - شهرک - خاتم - حسین - آباد - راهن - منیریه - گمرک - نازی‌ - آباد - خانی‌ - آباد - خزانه - کیان‌ - شهر - بریانک - پیروزی - نیرو - هوایی - صفا - افسریه - بهارستان - دروازه - شمیران - شکوفه - مشیریه - شهر - ری - نازی - آباد - میدان - خراسان - خاوران - سعادت - آباد - شهرک - غرب - پونک - جی - باغ فیض - شهران - ستارخان - صادقیه - گیشا - اکباتان - سردار - جنگل - کاشانی - المپیک - آزادی - درکه - تهرانسر - شهرآرا - شهرزیبا - مرزداران - فردوس - اوین - ایوانک - نیاوران - دزاشیب - پاسداران - فرمانیه - ازگل - ارتش - تجریش - زعفرانیه - قیطریه - چیذر - اختیاریه - قلهک - ظفر - میرداماد - جردن - نوبنیاد - نو بنیاد - شریعتی - هفت تیر - یوسف آباد - سهروردی - وزرا - الهیه - گاندی - تهرانپارس - حکیمیه - رسالت - هفت - حوض - سراج - دلاوران - شمیران - نو - هنگام - نارمک - مجیدیه - بهار - سبلان - دردشت - نظام - آباد - علم - و - صنعت - پیروزی - پلیس - کرمان - مدنی - امام - حسین - تهران - نو</h1>
+ 
+<div class="style-pf-secret-key-words">
 <h2 class="style-pf-secret-key-words"> ارج - تعمیر - تعمیرات - رفع - ایراد - ایرادات - مشکل - وسیله ی مورد نظر - ماشین - دوقلو - درب - از - بالا - در - استان - تهران - البرز - کرج - خشک - کن - دار-اتوماتیک - تعمیر مارکت - تعمیرگاه - خدمات - مجاز - مرکزی - سرویس - نصب - جاده - چالوس - زنبق -عظیمیه -بعثت - طالقانی - شمالی - طالقانی - جنوبی - میدان - اسبی - میدان - مهران - بلوار - کاج - پامچال - شمالی - پامچال - جنوبی - برغان - اسلام - اباد - آباد - ازادگان - آزادگان - حسن - اباد- آباد - نواب - مطهری - میدان - نبوت - بلوار - جمهوری - شمالی - بلوار - جمهوری - جنوبی - بلوار - موذن - اشتراکی - شمالی - اشتراکی - جنوبی - کوی - پیروزی - شهرک - بهارستان - ملکشاه - بلوار - امام - رضا - بلوار - ملاصدرا - ملا صدرا - جهانشهر - کسری - شمالی - کسری - جنوبی - بلوار - ماهان - بلوار - بهارستان - فرمانداری - رجایی - شهر - گوهر - دشت - بلوار - رستاخیز - بلوار - شهرداری - بلوار - انقلاب - اوقافی - محمود - اباد - باغستان - باغستان - غربی - خیابان - قلم - بنیاد - شاهین - ویلا - جواد - اباد - کوی - داریوش - شهرک - یاس - حصارک - بالا - حصارک - پایین - کمال - اباد - خرمدشت - پیشاهنگی - نظر - اباد - هشتگرد - شهرک - رازی - مهر - شهر- بلوار - ارم - حسین - اباد - مهرشهر - کیانمهر - فاز - 4 - مهر - شهر - 45 -متری - گلشهر - شهرک - مترو- شهرک - پردیسان - شهرک - سلمان - فارسی - دهقان - ویلای - اول - دهقان - ویلای - دوم - میانجاده - حیدر - اباد - کرج - نو - سه - راه - گوهر - دشت - بلوار - سه - باندی - کوی - داریوش - زمین - های - خانم - انصاری - کوی - کارمندان - شمالی - کوی - کارمندان - جنوبی - مهر - ویلا - بلوار - دانش - اموز - دولت - اباد - چهار - صد - دستگاه - هفت - تیر - محمد - شهر - شهرک - مهندسی - زراعی - فردیس - شهرک - وحدت - شهرک - منظریه - ساسانی - فردوسی - رزکان - نو - قلمستان - مصباح - کلاک - بالا - کلاک - پایین - کلاک -  شهرداری - گرمدره - شهرک - جهان - نما - شهرک - خاتم - حسین - آباد - راهن - راه - آهن - اهن - جاده - چالوس - زنبق - عظیمیه - بعثت - طالقانی - شمالی - طالقانی - جنوبی - میدان - اسبی - میدان - مهران - بلوار - کاج - پامچال - شمالی - پامچال - جنوبی - برغان - اسلام - اباد - ازادگان - حسن - اباد - نواب - مطهری - میدان - نبوت - بلوار - جمهوری - شمالی - بلوار - جمهوری - جنوبی - بلوار - موذن - اشتراکی - شمالی - اشتراکی - جنوبی - کوی - پیروزی - شهرک - بهارستان - ملکشاه - بلوار - امام - رضا - بلوار - ملا - صدرا - ملاصدرا - جهانشهر - کسری - شمالی - کسری - جنوبی - بلوار - ماهان - بلوار - بهارستان - فرمانداری - رجایی - شهر - گوهر - دشت - بلوار - رستاخیز - بلوار - شهرداری - بلوار - انقلاب - اوقافی - محمود - اباد - باغستان - باغستان - غربی - خیابان - قلم - بنیاد - شاهین - ویلا - جواد - اباد - کوی - داریوش - شهرک - یاس - حصارک - بالا - حصارک - پایین - کمال - اباد - خرمدشت - پیشاهنگی - نظر - اباد - هشتگرد - شهرک - رازی - مهر - شهر - بلوار - ارم - حسین - اباد - مهر - شهر - کیانمهر - کیان - مهر - فاز - چهار - 4 - مهر - شهر - 45متری - چهل - و- پنج - متری - گلشهر - شهرک - مترو - شهرک - پردیسان - شهرک - سلمان - فارسی - دهقان - ویلای - اول - دهقان - ویلای - دوم - میانجاده - حیدر - اباد - کرج - نو - سه - راه - گوهر - دشت - بلوار - سه - باندی - کوی - داریوش - زمین - های - خانم - انصاری - کوی - کارمندان - شمالی - کوی - کارمندان - جنوبی - مهر - ویلا - بلوار - دانش - اموز - آموز - دولت - اباد - چهار - صد - دستگاه - هفت - تیر - محمد - شهر - شهرک - مهندسی - زراعی - فردیس - شهرک - وحدت - شهرک - منظریه - ساسانی - فردوسی - رزکان - نو - قلمستان - مصباح - کلاک - بالا - کلاک -پایین - کلاک - شهرداری - گرمدره - شهرک - جهان - نما - شهرک - خاتم - حسین - آباد - راهن - منیریه - گمرک - نازی‌ - آباد - خانی‌ - آباد - خزانه - کیان‌ - شهر - بریانک - پیروزی - نیرو - هوایی - صفا - افسریه - بهارستان - دروازه - شمیران - شکوفه - مشیریه - شهر - ری - نازی - آباد - میدان - خراسان - خاوران - سعادت - آباد - شهرک - غرب - پونک - جی - باغ فیض - شهران - ستارخان - صادقیه - گیشا - اکباتان - سردار - جنگل - کاشانی - المپیک - آزادی - درکه - تهرانسر - شهرآرا - شهرزیبا - مرزداران - فردوس - اوین - ایوانک - نیاوران - دزاشیب - پاسداران - فرمانیه - ازگل - ارتش - تجریش - زعفرانیه - قیطریه - چیذر - اختیاریه - قلهک - ظفر - میرداماد - جردن - نوبنیاد - نو بنیاد - شریعتی - هفت تیر - یوسف آباد - سهروردی - وزرا - الهیه - گاندی - تهرانپارس - حکیمیه - رسالت - هفت - حوض - سراج - دلاوران - شمیران - نو - هنگام - نارمک - مجیدیه - بهار - سبلان - دردشت - نظام - آباد - علم - و - صنعت - پیروزی - پلیس - کرمان - مدنی - امام - حسین - تهران - نو</h2>
 <h3 class="style-pf-secret-key-words"> ارج - تعمیر - تعمیرات - رفع - ایراد - ایرادات - مشکل - وسیله ی مورد نظر - ماشین - دوقلو - درب - از - بالا - در - استان - تهران - البرز - کرج - خشک - کن - دار-اتوماتیک - تعمیر مارکت - تعمیرگاه - خدمات - مجاز - مرکزی - سرویس - نصب - جاده - چالوس - زنبق -عظیمیه -بعثت - طالقانی - شمالی - طالقانی - جنوبی - میدان - اسبی - میدان - مهران - بلوار - کاج - پامچال - شمالی - پامچال - جنوبی - برغان - اسلام - اباد - آباد - ازادگان - آزادگان - حسن - اباد- آباد - نواب - مطهری - میدان - نبوت - بلوار - جمهوری - شمالی - بلوار - جمهوری - جنوبی - بلوار - موذن - اشتراکی - شمالی - اشتراکی - جنوبی - کوی - پیروزی - شهرک - بهارستان - ملکشاه - بلوار - امام - رضا - بلوار - ملاصدرا - ملا صدرا - جهانشهر - کسری - شمالی - کسری - جنوبی - بلوار - ماهان - بلوار - بهارستان - فرمانداری - رجایی - شهر - گوهر - دشت - بلوار - رستاخیز - بلوار - شهرداری - بلوار - انقلاب - اوقافی - محمود - اباد - باغستان - باغستان - غربی - خیابان - قلم - بنیاد - شاهین - ویلا - جواد - اباد - کوی - داریوش - شهرک - یاس - حصارک - بالا - حصارک - پایین - کمال - اباد - خرمدشت - پیشاهنگی - نظر - اباد - هشتگرد - شهرک - رازی - مهر - شهر- بلوار - ارم - حسین - اباد - مهرشهر - کیانمهر - فاز - 4 - مهر - شهر - 45 -متری - گلشهر - شهرک - مترو- شهرک - پردیسان - شهرک - سلمان - فارسی - دهقان - ویلای - اول - دهقان - ویلای - دوم - میانجاده - حیدر - اباد - کرج - نو - سه - راه - گوهر - دشت - بلوار - سه - باندی - کوی - داریوش - زمین - های - خانم - انصاری - کوی - کارمندان - شمالی - کوی - کارمندان - جنوبی - مهر - ویلا - بلوار - دانش - اموز - دولت - اباد - چهار - صد - دستگاه - هفت - تیر - محمد - شهر - شهرک - مهندسی - زراعی - فردیس - شهرک - وحدت - شهرک - منظریه - ساسانی - فردوسی - رزکان - نو - قلمستان - مصباح - کلاک - بالا - کلاک - پایین - کلاک -  شهرداری - گرمدره - شهرک - جهان - نما - شهرک - خاتم - حسین - آباد - راهن - راه - آهن - اهن - جاده - چالوس - زنبق - عظیمیه - بعثت - طالقانی - شمالی - طالقانی - جنوبی - میدان - اسبی - میدان - مهران - بلوار - کاج - پامچال - شمالی - پامچال - جنوبی - برغان - اسلام - اباد - ازادگان - حسن - اباد - نواب - مطهری - میدان - نبوت - بلوار - جمهوری - شمالی - بلوار - جمهوری - جنوبی - بلوار - موذن - اشتراکی - شمالی - اشتراکی - جنوبی - کوی - پیروزی - شهرک - بهارستان - ملکشاه - بلوار - امام - رضا - بلوار - ملا - صدرا - ملاصدرا - جهانشهر - کسری - شمالی - کسری - جنوبی - بلوار - ماهان - بلوار - بهارستان - فرمانداری - رجایی - شهر - گوهر - دشت - بلوار - رستاخیز - بلوار - شهرداری - بلوار - انقلاب - اوقافی - محمود - اباد - باغستان - باغستان - غربی - خیابان - قلم - بنیاد - شاهین - ویلا - جواد - اباد - کوی - داریوش - شهرک - یاس - حصارک - بالا - حصارک - پایین - کمال - اباد - خرمدشت - پیشاهنگی - نظر - اباد - هشتگرد - شهرک - رازی - مهر - شهر - بلوار - ارم - حسین - اباد - مهر - شهر - کیانمهر - کیان - مهر - فاز - چهار - 4 - مهر - شهر - 45متری - چهل - و- پنج - متری - گلشهر - شهرک - مترو - شهرک - پردیسان - شهرک - سلمان - فارسی - دهقان - ویلای - اول - دهقان - ویلای - دوم - میانجاده - حیدر - اباد - کرج - نو - سه - راه - گوهر - دشت - بلوار - سه - باندی - کوی - داریوش - زمین - های - خانم - انصاری - کوی - کارمندان - شمالی - کوی - کارمندان - جنوبی - مهر - ویلا - بلوار - دانش - اموز - آموز - دولت - اباد - چهار - صد - دستگاه - هفت - تیر - محمد - شهر - شهرک - مهندسی - زراعی - فردیس - شهرک - وحدت - شهرک - منظریه - ساسانی - فردوسی - رزکان - نو - قلمستان - مصباح - کلاک - بالا - کلاک -پایین - کلاک - شهرداری - گرمدره - شهرک - جهان - نما - شهرک - خاتم - حسین - آباد - راهن - منیریه - گمرک - نازی‌ - آباد - خانی‌ - آباد - خزانه - کیان‌ - شهر - بریانک - پیروزی - نیرو - هوایی - صفا - افسریه - بهارستان - دروازه - شمیران - شکوفه - مشیریه - شهر - ری - نازی - آباد - میدان - خراسان - خاوران - سعادت - آباد - شهرک - غرب - پونک - جی - باغ فیض - شهران - ستارخان - صادقیه - گیشا - اکباتان - سردار - جنگل - کاشانی - المپیک - آزادی - درکه - تهرانسر - شهرآرا - شهرزیبا - مرزداران - فردوس - اوین - ایوانک - نیاوران - دزاشیب - پاسداران - فرمانیه - ازگل - ارتش - تجریش - زعفرانیه - قیطریه - چیذر - اختیاریه - قلهک - ظفر - میرداماد - جردن - نوبنیاد - نو بنیاد - شریعتی - هفت تیر - یوسف آباد - سهروردی - وزرا - الهیه - گاندی - تهرانپارس - حکیمیه - رسالت - هفت - حوض - سراج - دلاوران - شمیران - نو - هنگام - نارمک - مجیدیه - بهار - سبلان - دردشت - نظام - آباد - علم - و - صنعت - پیروزی - پلیس - کرمان - مدنی - امام - حسین - تهران - نو</h3>
 <h4 class="style-pf-secret-key-words"> ارج - تعمیر - تعمیرات - رفع - ایراد - ایرادات - مشکل - وسیله ی مورد نظر - ماشین - دوقلو - درب - از - بالا - در - استان - تهران - البرز - کرج - خشک - کن - دار-اتوماتیک - تعمیر مارکت - تعمیرگاه - خدمات - مجاز - مرکزی - سرویس - نصب - جاده - چالوس - زنبق -عظیمیه -بعثت - طالقانی - شمالی - طالقانی - جنوبی - میدان - اسبی - میدان - مهران - بلوار - کاج - پامچال - شمالی - پامچال - جنوبی - برغان - اسلام - اباد - آباد - ازادگان - آزادگان - حسن - اباد- آباد - نواب - مطهری - میدان - نبوت - بلوار - جمهوری - شمالی - بلوار - جمهوری - جنوبی - بلوار - موذن - اشتراکی - شمالی - اشتراکی - جنوبی - کوی - پیروزی - شهرک - بهارستان - ملکشاه - بلوار - امام - رضا - بلوار - ملاصدرا - ملا صدرا - جهانشهر - کسری - شمالی - کسری - جنوبی - بلوار - ماهان - بلوار - بهارستان - فرمانداری - رجایی - شهر - گوهر - دشت - بلوار - رستاخیز - بلوار - شهرداری - بلوار - انقلاب - اوقافی - محمود - اباد - باغستان - باغستان - غربی - خیابان - قلم - بنیاد - شاهین - ویلا - جواد - اباد - کوی - داریوش - شهرک - یاس - حصارک - بالا - حصارک - پایین - کمال - اباد - خرمدشت - پیشاهنگی - نظر - اباد - هشتگرد - شهرک - رازی - مهر - شهر- بلوار - ارم - حسین - اباد - مهرشهر - کیانمهر - فاز - 4 - مهر - شهر - 45 -متری - گلشهر - شهرک - مترو- شهرک - پردیسان - شهرک - سلمان - فارسی - دهقان - ویلای - اول - دهقان - ویلای - دوم - میانجاده - حیدر - اباد - کرج - نو - سه - راه - گوهر - دشت - بلوار - سه - باندی - کوی - داریوش - زمین - های - خانم - انصاری - کوی - کارمندان - شمالی - کوی - کارمندان - جنوبی - مهر - ویلا - بلوار - دانش - اموز - دولت - اباد - چهار - صد - دستگاه - هفت - تیر - محمد - شهر - شهرک - مهندسی - زراعی - فردیس - شهرک - وحدت - شهرک - منظریه - ساسانی - فردوسی - رزکان - نو - قلمستان - مصباح - کلاک - بالا - کلاک - پایین - کلاک -  شهرداری - گرمدره - شهرک - جهان - نما - شهرک - خاتم - حسین - آباد - راهن - راه - آهن - اهن - جاده - چالوس - زنبق - عظیمیه - بعثت - طالقانی - شمالی - طالقانی - جنوبی - میدان - اسبی - میدان - مهران - بلوار - کاج - پامچال - شمالی - پامچال - جنوبی - برغان - اسلام - اباد - ازادگان - حسن - اباد - نواب - مطهری - میدان - نبوت - بلوار - جمهوری - شمالی - بلوار - جمهوری - جنوبی - بلوار - موذن - اشتراکی - شمالی - اشتراکی - جنوبی - کوی - پیروزی - شهرک - بهارستان - ملکشاه - بلوار - امام - رضا - بلوار - ملا - صدرا - ملاصدرا - جهانشهر - کسری - شمالی - کسری - جنوبی - بلوار - ماهان - بلوار - بهارستان - فرمانداری - رجایی - شهر - گوهر - دشت - بلوار - رستاخیز - بلوار - شهرداری - بلوار - انقلاب - اوقافی - محمود - اباد - باغستان - باغستان - غربی - خیابان - قلم - بنیاد - شاهین - ویلا - جواد - اباد - کوی - داریوش - شهرک - یاس - حصارک - بالا - حصارک - پایین - کمال - اباد - خرمدشت - پیشاهنگی - نظر - اباد - هشتگرد - شهرک - رازی - مهر - شهر - بلوار - ارم - حسین - اباد - مهر - شهر - کیانمهر - کیان - مهر - فاز - چهار - 4 - مهر - شهر - 45متری - چهل - و- پنج - متری - گلشهر - شهرک - مترو - شهرک - پردیسان - شهرک - سلمان - فارسی - دهقان - ویلای - اول - دهقان - ویلای - دوم - میانجاده - حیدر - اباد - کرج - نو - سه - راه - گوهر - دشت - بلوار - سه - باندی - کوی - داریوش - زمین - های - خانم - انصاری - کوی - کارمندان - شمالی - کوی - کارمندان - جنوبی - مهر - ویلا - بلوار - دانش - اموز - آموز - دولت - اباد - چهار - صد - دستگاه - هفت - تیر - محمد - شهر - شهرک - مهندسی - زراعی - فردیس - شهرک - وحدت - شهرک - منظریه - ساسانی - فردوسی - رزکان - نو - قلمستان - مصباح - کلاک - بالا - کلاک -پایین - کلاک - شهرداری - گرمدره - شهرک - جهان - نما - شهرک - خاتم - حسین - آباد - راهن - منیریه - گمرک - نازی‌ - آباد - خانی‌ - آباد - خزانه - کیان‌ - شهر - بریانک - پیروزی - نیرو - هوایی - صفا - افسریه - بهارستان - دروازه - شمیران - شکوفه - مشیریه - شهر - ری - نازی - آباد - میدان - خراسان - خاوران - سعادت - آباد - شهرک - غرب - پونک - جی - باغ فیض - شهران - ستارخان - صادقیه - گیشا - اکباتان - سردار - جنگل - کاشانی - المپیک - آزادی - درکه - تهرانسر - شهرآرا - شهرزیبا - مرزداران - فردوس - اوین - ایوانک - نیاوران - دزاشیب - پاسداران - فرمانیه - ازگل - ارتش - تجریش - زعفرانیه - قیطریه - چیذر - اختیاریه - قلهک - ظفر - میرداماد - جردن - نوبنیاد - نو بنیاد - شریعتی - هفت تیر - یوسف آباد - سهروردی - وزرا - الهیه - گاندی - تهرانپارس - حکیمیه - رسالت - هفت - حوض - سراج - دلاوران - شمیران - نو - هنگام - نارمک - مجیدیه - بهار - سبلان - دردشت - نظام - آباد - علم - و - صنعت - پیروزی - پلیس - کرمان - مدنی - امام - حسین - تهران - نو</h4>
 <h5 class="style-pf-secret-key-words"> ارج - تعمیر - تعمیرات - رفع - ایراد - ایرادات - مشکل - وسیله ی مورد نظر - ماشین - دوقلو - درب - از - بالا - در - استان - تهران - البرز - کرج - خشک - کن - دار-اتوماتیک - تعمیر مارکت - تعمیرگاه - خدمات - مجاز - مرکزی - سرویس - نصب - جاده - چالوس - زنبق -عظیمیه -بعثت - طالقانی - شمالی - طالقانی - جنوبی - میدان - اسبی - میدان - مهران - بلوار - کاج - پامچال - شمالی - پامچال - جنوبی - برغان - اسلام - اباد - آباد - ازادگان - آزادگان - حسن - اباد- آباد - نواب - مطهری - میدان - نبوت - بلوار - جمهوری - شمالی - بلوار - جمهوری - جنوبی - بلوار - موذن - اشتراکی - شمالی - اشتراکی - جنوبی - کوی - پیروزی - شهرک - بهارستان - ملکشاه - بلوار - امام - رضا - بلوار - ملاصدرا - ملا صدرا - جهانشهر - کسری - شمالی - کسری - جنوبی - بلوار - ماهان - بلوار - بهارستان - فرمانداری - رجایی - شهر - گوهر - دشت - بلوار - رستاخیز - بلوار - شهرداری - بلوار - انقلاب - اوقافی - محمود - اباد - باغستان - باغستان - غربی - خیابان - قلم - بنیاد - شاهین - ویلا - جواد - اباد - کوی - داریوش - شهرک - یاس - حصارک - بالا - حصارک - پایین - کمال - اباد - خرمدشت - پیشاهنگی - نظر - اباد - هشتگرد - شهرک - رازی - مهر - شهر- بلوار - ارم - حسین - اباد - مهرشهر - کیانمهر - فاز - 4 - مهر - شهر - 45 -متری - گلشهر - شهرک - مترو- شهرک - پردیسان - شهرک - سلمان - فارسی - دهقان - ویلای - اول - دهقان - ویلای - دوم - میانجاده - حیدر - اباد - کرج - نو - سه - راه - گوهر - دشت - بلوار - سه - باندی - کوی - داریوش - زمین - های - خانم - انصاری - کوی - کارمندان - شمالی - کوی - کارمندان - جنوبی - مهر - ویلا - بلوار - دانش - اموز - دولت - اباد - چهار - صد - دستگاه - هفت - تیر - محمد - شهر - شهرک - مهندسی - زراعی - فردیس - شهرک - وحدت - شهرک - منظریه - ساسانی - فردوسی - رزکان - نو - قلمستان - مصباح - کلاک - بالا - کلاک - پایین - کلاک -  شهرداری - گرمدره - شهرک - جهان - نما - شهرک - خاتم - حسین - آباد - راهن - راه - آهن - اهن - جاده - چالوس - زنبق - عظیمیه - بعثت - طالقانی - شمالی - طالقانی - جنوبی - میدان - اسبی - میدان - مهران - بلوار - کاج - پامچال - شمالی - پامچال - جنوبی - برغان - اسلام - اباد - ازادگان - حسن - اباد - نواب - مطهری - میدان - نبوت - بلوار - جمهوری - شمالی - بلوار - جمهوری - جنوبی - بلوار - موذن - اشتراکی - شمالی - اشتراکی - جنوبی - کوی - پیروزی - شهرک - بهارستان - ملکشاه - بلوار - امام - رضا - بلوار - ملا - صدرا - ملاصدرا - جهانشهر - کسری - شمالی - کسری - جنوبی - بلوار - ماهان - بلوار - بهارستان - فرمانداری - رجایی - شهر - گوهر - دشت - بلوار - رستاخیز - بلوار - شهرداری - بلوار - انقلاب - اوقافی - محمود - اباد - باغستان - باغستان - غربی - خیابان - قلم - بنیاد - شاهین - ویلا - جواد - اباد - کوی - داریوش - شهرک - یاس - حصارک - بالا - حصارک - پایین - کمال - اباد - خرمدشت - پیشاهنگی - نظر - اباد - هشتگرد - شهرک - رازی - مهر - شهر - بلوار - ارم - حسین - اباد - مهر - شهر - کیانمهر - کیان - مهر - فاز - چهار - 4 - مهر - شهر - 45متری - چهل - و- پنج - متری - گلشهر - شهرک - مترو - شهرک - پردیسان - شهرک - سلمان - فارسی - دهقان - ویلای - اول - دهقان - ویلای - دوم - میانجاده - حیدر - اباد - کرج - نو - سه - راه - گوهر - دشت - بلوار - سه - باندی - کوی - داریوش - زمین - های - خانم - انصاری - کوی - کارمندان - شمالی - کوی - کارمندان - جنوبی - مهر - ویلا - بلوار - دانش - اموز - آموز - دولت - اباد - چهار - صد - دستگاه - هفت - تیر - محمد - شهر - شهرک - مهندسی - زراعی - فردیس - شهرک - وحدت - شهرک - منظریه - ساسانی - فردوسی - رزکان - نو - قلمستان - مصباح - کلاک - بالا - کلاک -پایین - کلاک - شهرداری - گرمدره - شهرک - جهان - نما - شهرک - خاتم - حسین - آباد - راهن - منیریه - گمرک - نازی‌ - آباد - خانی‌ - آباد - خزانه - کیان‌ - شهر - بریانک - پیروزی - نیرو - هوایی - صفا - افسریه - بهارستان - دروازه - شمیران - شکوفه - مشیریه - شهر - ری - نازی - آباد - میدان - خراسان - خاوران - سعادت - آباد - شهرک - غرب - پونک - جی - باغ فیض - شهران - ستارخان - صادقیه - گیشا - اکباتان - سردار - جنگل - کاشانی - المپیک - آزادی - درکه - تهرانسر - شهرآرا - شهرزیبا - مرزداران - فردوس - اوین - ایوانک - نیاوران - دزاشیب - پاسداران - فرمانیه - ازگل - ارتش - تجریش - زعفرانیه - قیطریه - چیذر - اختیاریه - قلهک - ظفر - میرداماد - جردن - نوبنیاد - نو بنیاد - شریعتی - هفت تیر - یوسف آباد - سهروردی - وزرا - الهیه - گاندی - تهرانپارس - حکیمیه - رسالت - هفت - حوض - سراج - دلاوران - شمیران - نو - هنگام - نارمک - مجیدیه - بهار - سبلان - دردشت - نظام - آباد - علم - و - صنعت - پیروزی - پلیس - کرمان - مدنی - امام - حسین - تهران - نو</h5>
 <h6 class="style-pf-secret-key-words"> ارج - تعمیر - تعمیرات - رفع - ایراد - ایرادات - مشکل - وسیله ی مورد نظر - ماشین - دوقلو - درب - از - بالا - در - استان - تهران - البرز - کرج - خشک - کن - دار-اتوماتیک - تعمیر مارکت - تعمیرگاه - خدمات - مجاز - مرکزی - سرویس - نصب - جاده - چالوس - زنبق -عظیمیه -بعثت - طالقانی - شمالی - طالقانی - جنوبی - میدان - اسبی - میدان - مهران - بلوار - کاج - پامچال - شمالی - پامچال - جنوبی - برغان - اسلام - اباد - آباد - ازادگان - آزادگان - حسن - اباد- آباد - نواب - مطهری - میدان - نبوت - بلوار - جمهوری - شمالی - بلوار - جمهوری - جنوبی - بلوار - موذن - اشتراکی - شمالی - اشتراکی - جنوبی - کوی - پیروزی - شهرک - بهارستان - ملکشاه - بلوار - امام - رضا - بلوار - ملاصدرا - ملا صدرا - جهانشهر - کسری - شمالی - کسری - جنوبی - بلوار - ماهان - بلوار - بهارستان - فرمانداری - رجایی - شهر - گوهر - دشت - بلوار - رستاخیز - بلوار - شهرداری - بلوار - انقلاب - اوقافی - محمود - اباد - باغستان - باغستان - غربی - خیابان - قلم - بنیاد - شاهین - ویلا - جواد - اباد - کوی - داریوش - شهرک - یاس - حصارک - بالا - حصارک - پایین - کمال - اباد - خرمدشت - پیشاهنگی - نظر - اباد - هشتگرد - شهرک - رازی - مهر - شهر- بلوار - ارم - حسین - اباد - مهرشهر - کیانمهر - فاز - 4 - مهر - شهر - 45 -متری - گلشهر - شهرک - مترو- شهرک - پردیسان - شهرک - سلمان - فارسی - دهقان - ویلای - اول - دهقان - ویلای - دوم - میانجاده - حیدر - اباد - کرج - نو - سه - راه - گوهر - دشت - بلوار - سه - باندی - کوی - داریوش - زمین - های - خانم - انصاری - کوی - کارمندان - شمالی - کوی - کارمندان - جنوبی - مهر - ویلا - بلوار - دانش - اموز - دولت - اباد - چهار - صد - دستگاه - هفت - تیر - محمد - شهر - شهرک - مهندسی - زراعی - فردیس - شهرک - وحدت - شهرک - منظریه - ساسانی - فردوسی - رزکان - نو - قلمستان - مصباح - کلاک - بالا - کلاک - پایین - کلاک -  شهرداری - گرمدره - شهرک - جهان - نما - شهرک - خاتم - حسین - آباد - راهن - راه - آهن - اهن - جاده - چالوس - زنبق - عظیمیه - بعثت - طالقانی - شمالی - طالقانی - جنوبی - میدان - اسبی - میدان - مهران - بلوار - کاج - پامچال - شمالی - پامچال - جنوبی - برغان - اسلام - اباد - ازادگان - حسن - اباد - نواب - مطهری - میدان - نبوت - بلوار - جمهوری - شمالی - بلوار - جمهوری - جنوبی - بلوار - موذن - اشتراکی - شمالی - اشتراکی - جنوبی - کوی - پیروزی - شهرک - بهارستان - ملکشاه - بلوار - امام - رضا - بلوار - ملا - صدرا - ملاصدرا - جهانشهر - کسری - شمالی - کسری - جنوبی - بلوار - ماهان - بلوار - بهارستان - فرمانداری - رجایی - شهر - گوهر - دشت - بلوار - رستاخیز - بلوار - شهرداری - بلوار - انقلاب - اوقافی - محمود - اباد - باغستان - باغستان - غربی - خیابان - قلم - بنیاد - شاهین - ویلا - جواد - اباد - کوی - داریوش - شهرک - یاس - حصارک - بالا - حصارک - پایین - کمال - اباد - خرمدشت - پیشاهنگی - نظر - اباد - هشتگرد - شهرک - رازی - مهر - شهر - بلوار - ارم - حسین - اباد - مهر - شهر - کیانمهر - کیان - مهر - فاز - چهار - 4 - مهر - شهر - 45متری - چهل - و- پنج - متری - گلشهر - شهرک - مترو - شهرک - پردیسان - شهرک - سلمان - فارسی - دهقان - ویلای - اول - دهقان - ویلای - دوم - میانجاده - حیدر - اباد - کرج - نو - سه - راه - گوهر - دشت - بلوار - سه - باندی - کوی - داریوش - زمین - های - خانم - انصاری - کوی - کارمندان - شمالی - کوی - کارمندان - جنوبی - مهر - ویلا - بلوار - دانش - اموز - آموز - دولت - اباد - چهار - صد - دستگاه - هفت - تیر - محمد - شهر - شهرک - مهندسی - زراعی - فردیس - شهرک - وحدت - شهرک - منظریه - ساسانی - فردوسی - رزکان - نو - قلمستان - مصباح - کلاک - بالا - کلاک -پایین - کلاک - شهرداری - گرمدره - شهرک - جهان - نما - شهرک - خاتم - حسین - آباد - راهن - منیریه - گمرک - نازی‌ - آباد - خانی‌ - آباد - خزانه - کیان‌ - شهر - بریانک - پیروزی - نیرو - هوایی - صفا - افسریه - بهارستان - دروازه - شمیران - شکوفه - مشیریه - شهر - ری - نازی - آباد - میدان - خراسان - خاوران - سعادت - آباد - شهرک - غرب - پونک - جی - باغ فیض - شهران - ستارخان - صادقیه - گیشا - اکباتان - سردار - جنگل - کاشانی - المپیک - آزادی - درکه - تهرانسر - شهرآرا - شهرزیبا - مرزداران - فردوس - اوین - ایوانک - نیاوران - دزاشیب - پاسداران - فرمانیه - ازگل - ارتش - تجریش - زعفرانیه - قیطریه - چیذر - اختیاریه - قلهک - ظفر - میرداماد - جردن - نوبنیاد - نو بنیاد - شریعتی - هفت تیر - یوسف آباد - سهروردی - وزرا - الهیه - گاندی - تهرانپارس - حکیمیه - رسالت - هفت - حوض - سراج - دلاوران - شمیران - نو - هنگام - نارمک - مجیدیه - بهار - سبلان - دردشت - نظام - آباد - علم - و - صنعت - پیروزی - پلیس - کرمان - مدنی - امام - حسین - تهران - نو</h6>
-<!-- end keywords -->
+</div><!-- end keywords -->
 <script src="JS/js.min.js"></script>
 <!-- end script files  -->
 </body>
