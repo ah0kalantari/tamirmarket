@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en-fa" >
     <head>
- 
         <meta charset="UTF-8">
         <meta name="description" content="تعمیر مارکت در زمینه تعمیرات تخصصی انواع لوازم خانگی و برد های الکترونیکی با متخصصان با تجربه آماده خدمت رسانی به شماست.">
         <link rel="stylesheet" href="css/css.min.css">
