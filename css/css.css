@@ -16,12 +16,12 @@
         z-index: 3;
     }
     .keywords-tag-style{
-        color: black !important;
-        font-size: 30px !important;
-        border-top-left-radius: 0px !important;
-        border-top-right-radius: 0px !important;
         border-bottom-left-radius: 0px !important;
         border-bottom-right-radius: 0px !important;
+        border-top-left-radius: 0px !important;
+        border-top-right-radius: 0px !important;
+        color: black !important;
+        font-size: 30px !important;
         list-style: none !important;
     }
     .keywords-tag-style-p{
@@ -33,19 +33,19 @@
         color: #0c2b06;
         font-family: iransans;
         font-size: 30px;
-        text-align: center;
         font-weight: bold;
         padding-top: 50px !important;
+        text-align: center;
     }
     .instagram-logo{
-        width: 5%;
-        text-align: center;
-        margin: 0 auto;
-        box-shadow: rgba(0, 0, 0, 0.452) 5px 5px 5px;
-        border: solid rgba(0, 0, 0, 0.678) 3px;
         border-radius: 25px;
-        padding: 10px;
+        border: solid rgba(0, 0, 0, 0.678) 3px;
+        box-shadow: rgba(0, 0, 0, 0.452) 5px 5px 5px;
         margin-left: 47%;
+        margin: 0 auto;
+        padding: 10px;
+        text-align: center;
+        width: 5%;
     }
     /* blog styles  */
     .blog-title{
@@ -55,24 +55,24 @@
     }
     .blog-titr{
         color: #0d22df;
-        font-family: iransans;
-        text-align: center;
-        font-size: 30px;
-        padding-top: 10px;
-        padding-bottom: 10px;
         direction: rtl;
+        font-family: iransans;
+        font-size: 30px;
+        padding-bottom: 10px;
+        padding-top: 10px;
+        text-align: center;
     }
     .blog-etelaat{
-        padding-top: 10px;
-        padding-bottom: 10px;
-        width: 100% !important;
-        border-top: solid 2px #0d22df;
         border-bottom: solid 2px #0d22df;
+        border-top: solid 2px #0d22df;
+        padding-bottom: 10px;
+        padding-top: 10px;
+        width: 100% !important;
     }
     .blog-etelaat-left{
         color: #0d22df;
-        font-family: yekanplusbold;
         direction: rtl;
+        font-family: yekanplusbold;
         font-size: 17px;
         padding-left: 20px;
         text-align: right;
