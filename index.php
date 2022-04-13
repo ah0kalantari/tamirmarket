@@ -220,8 +220,8 @@
             <img src="img/slide show/10.webp"alt="تعمیرات لوازم آشپزخانه (اشپزخانه) | تعمیر لوازم اشپزخانه | juldvhj g,hcl Hamcohki )hamcohki( | juldv g,hcl hamcohki">
         </div>
 
-        <a class="prev" href="#">&#10094</a>
-        <a class="next" href="#">&#10095</a>
+        <a class="prev" href="">&#10094</a>
+        <a class="next" href="">&#10095</a>
 
     </div>
     

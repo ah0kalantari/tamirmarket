@@ -42,7 +42,6 @@
         border: solid rgba(0, 0, 0, 0.678) 3px;
         box-shadow: rgba(0, 0, 0, 0.452) 5px 5px 5px;
         margin-left: 47%;
-        margin: 0 auto;
         padding: 10px;
         text-align: center;
         width: 5%;
@@ -72,14 +71,14 @@
     .blog-etelaat-left{
         color: #0d22df;
         direction: rtl;
-        font-family: yekanplusbold;
+        font-family: iransansplusbold;
         font-size: 17px;
         padding-left: 20px;
         text-align: right;
     }
     .blog-etelaat-right{
         color: #0d22df;
-        font-family: yekanplusbold;
+        font-family: iransansplusbold;
         direction: ltr;
         font-size: 17px;
         padding-right: 20px;
@@ -594,7 +593,7 @@
         background-color: #1a58af;
         border-top-left-radius: 50%;
         border-bottom-left-radius: 50%;
-        font-family: yekanplusbold;
+        font-family: iransansplusbold;
         font-size: 30px;
         color: white;
         width: 60px;
@@ -1292,6 +1291,10 @@
     src: url('fonts/A Noor.ttf');
 }
 @font-face {
+    font-family: iransans;
+    src: url('fonts/W_iransans.ttf');
+}
+@font-face {
     font-family: negar;
     src: url('fonts/Negaar\ Regular.ttf');
 }
@@ -1301,15 +1304,9 @@
 }
 
 @font-face {
-    font-family: YekanPlus;
-    src: url('fonts/BYekan+.ttf');
+    font-family: iransansPlus;
+    src: url('fonts/Biransans+.ttf');
 }
-
-@font-face {
-    font-family: iransans;
-    src: url('fonts/BYekan+\ Bold.ttf');
-} 
-
 @font-face {
     font-family: homa;
     src: url('fonts/BHoma.ttf');
@@ -1578,13 +1575,13 @@
         }
         .blog-etelaat-left{
             color: #0d22df;
-            font-family: yekanplusbold;
+            font-family: iransansplusbold;
             font-size: 37px;
             text-align: center;
         }
         .blog-etelaat-right{
             color: #0d22df;
-            font-family: yekanplusbold;
+            font-family: iransansplusbold;
             font-size: 37px;
             text-align: center;
         }
