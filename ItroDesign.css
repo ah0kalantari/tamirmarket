@@ -965,20 +965,20 @@
         /* *** */
     /* Font Family */
         /* *** */
-            .font-family-yekan-plus{
-                font-family: yekanplus;
+            .font-family-iransans-plus{
+                font-family: iransansplus;
             }
             @font-face {
-                font-family: yekanplus;
-                src: url('MrDesignFonts/BYekan+.ttf');
+                font-family: iransansplus;
+                src: url('MrDesignFonts/Biransans+.ttf');
             }
-            .font-family-yekan-plus-bold{
-                font-family: yekanplusbold;
+            .font-family-iransans-plus-bold{
+                font-family: iransansplusbold;
                 line-height: 30px;
             }
             @font-face {
-                font-family: yekanplusbold;
-                src: url('MrDesignFonts/BYekan+\ Bold.ttf');
+                font-family: iransansplusbold;
+                src: url('MrDesignFonts/Biransans+\ Bold.ttf');
             }
         /* *** */
   /* End Font Family */

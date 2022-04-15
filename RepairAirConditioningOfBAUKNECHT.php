@@ -232,9 +232,9 @@
             <img src="img/sharayetegarantyimg.gif" alt="شرایط گارانتی سانیاران">
             </td>
             <td class="width-70-100">
-            <p class="font-size-40 text-center font-family-yekan-plus-bold text-color-green-5">تعمیر مارکت</p>
-            <p class="font-size-20 text-center font-family-yekan-plus-bold">تعمیرات تخصصی لوازم خانگی</p>
-            <p class="direction-rtl font-family-yekan-plus-bold">
+            <p class="font-size-40 text-center font-family-iransans-plus-bold text-color-green-5">تعمیر مارکت</p>
+            <p class="font-size-20 text-center font-family-iransans-plus-bold">تعمیرات تخصصی لوازم خانگی</p>
+            <p class="direction-rtl font-family-iransans-plus-bold">
             <span class="text-color-green-5 style-ra-text">۱) اگر لوازم خانگی شما دارای گارانتی مفید از خود شرکت سازنده باشد ، در
                    صورت بروز هرگونه ایراد با شرکت مربوطه تماس حاصل فرمایید
                    تا از مزایای گارانتی بهره مند شوید.
@@ -257,9 +257,9 @@
         </tr>
         <tr>
             <td class="width-100-100-mo">
-            <p class="font-size-40 text-center font-family-yekan-plus-bold text-color-green-5">تعمیر مارکت</p>
-            <p class="font-size-20 text-center font-family-yekan-plus-bold">تعمیرات تخصصی لوازم خانگی</p>
-            <p class="direction-rtl font-family-yekan-plus-bold">
+            <p class="font-size-40 text-center font-family-iransans-plus-bold text-color-green-5">تعمیر مارکت</p>
+            <p class="font-size-20 text-center font-family-iransans-plus-bold">تعمیرات تخصصی لوازم خانگی</p>
+            <p class="direction-rtl font-family-iransans-plus-bold">
             <span class="text-color-green-5 style-ra-text">۱) اگر لوازم خانگی شما دارای گارانتی مفید از خود شرکت سازنده باشد ، در
                    صورت بروز هرگونه ایراد با شرکت مربوطه تماس حاصل فرمایید
                    تا از مزایای گارانتی بهره مند شوید.
