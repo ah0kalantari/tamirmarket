@@ -53,7 +53,7 @@
         direction: rtl;
     }
     .blog-titr{
-        color: #0d22df;
+        color: rgb(218, 0, 11);
         direction: rtl;
         font-family: iransans;
         font-size: 30px;
@@ -62,14 +62,14 @@
         text-align: center;
     }
     .blog-etelaat{
-        border-bottom: solid 2px #0d22df;
-        border-top: solid 2px #0d22df;
+        border-bottom: solid 2px rgb(218, 0, 11);
+        border-top: solid 2px rgb(218, 0, 11);
         padding-bottom: 10px;
         padding-top: 10px;
         width: 100% !important;
     }
     .blog-etelaat-left{
-        color: #0d22df;
+        color: rgb(218, 0, 11);
         direction: rtl;
         font-family: iransansplusbold;
         font-size: 17px;
@@ -77,7 +77,7 @@
         text-align: right;
     }
     .blog-etelaat-right{
-        color: #0d22df;
+        color: rgb(218, 0, 11);
         font-family: iransansplusbold;
         direction: ltr;
         font-size: 17px;
@@ -123,7 +123,7 @@
         line-height: 40px;
     }
     .blog-first-text-p{
-        color: rgb(0, 132, 255);
+        color: rgb(218, 0, 11);
         font-family: iransans;
         font-size: 30px;
         text-align: right;
@@ -234,13 +234,13 @@
     }
     /* end choose RG or SBS  */
     .style-of-hr-in-first-brand-page{
-        border: blue solid 4px;
+        border: black solid 4px;
         opacity: 1;
     }
     .style-of-ItemTamirat-box-in-brand-page{
         width: 92% !important;
-        border-top: solid 4px blue;
-        border-bottom: solid 4px blue;
+        border-top: solid 4px black;
+        border-bottom: solid 4px black;
         margin-left: 0% !important;
         margin-right: 0% !important;
         padding-left: 4% !important;
@@ -389,7 +389,7 @@
     .style-of-all-menu{
         position: fixed !important;
         top: 0%;
-        background-color: #1a58af !important;
+        background-color: rgb(218, 0, 11) !important;
         width: 100%;
         z-index: unset !important;
         display: block;
@@ -404,7 +404,7 @@
         width: 100%;
     }
     .style-of-menu{
-        background-color: #1a58af;
+        background-color: rgb(218, 0, 11);
     }
     .style-of-sdf{
         text-decoration: none !important;
@@ -443,7 +443,7 @@
         padding-bottom: 10px !important;
         padding-right: 0px !important;
         padding-left: 0px !important;
-        background-color: #1a58af;
+        background-color: rgb(218, 0, 11);
         border-top-left-radius: 0px;
         border-top-right-radius: 0px;
         border-bottom-right-radius: 0px;
@@ -464,7 +464,7 @@
         display: inline;
     }
     .style-of-all-of-zirmajmoee{
-        background-color: #1a58af;
+        background-color: rgb(218, 0, 11);
     }
     .solid-animation{
         animation-name: solid-animation !important;
@@ -480,7 +480,7 @@
         padding-bottom: 10px !important;
         padding-right: 0px !important;
         padding-left: 0px !important;
-        background-color: #1a58af;
+        background-color: rgb(218, 0, 11);
         border-top-left-radius: 0px;
         border-top-right-radius: 0px;
         border-bottom-right-radius: 0px;
@@ -499,7 +499,7 @@
         padding-bottom: 10px !important;
         padding-right: 0px !important;
         padding-left: 0px !important;
-        background-color: #1a58af;
+        background-color: rgb(218, 0, 11);
         border-top-left-radius: 0px;
         border-top-right-radius: 0px;
         border-bottom-right-radius: 0px;
@@ -520,7 +520,7 @@
         padding-bottom: 10px !important;
         padding-right: 0px !important;
         padding-left: 0px !important;
-        background-color: #1a58af;
+        background-color: rgb(218, 0, 11);
         border-top-left-radius: 0px;
         border-top-right-radius: 0px;
         border-bottom-right-radius: 0px;
@@ -539,7 +539,7 @@
         padding-bottom: 10px !important;
         padding-right: 0px !important;
         padding-left: 0px !important;
-        background-color: #1a58af;
+        background-color: rgb(218, 0, 11);
         border-top-left-radius: 0px;
         border-top-right-radius: 0px;
         border-bottom-right-radius: 0px;
@@ -560,7 +560,7 @@
         padding-bottom: 10px !important;
         padding-right: 0px !important;
         padding-left: 0px !important;
-        background-color: #1a58af;
+        background-color: rgb(218, 0, 11);
         border-top-left-radius: 0px;
         border-top-right-radius: 0px;
         border-bottom-right-radius: 0px;
@@ -579,7 +579,7 @@
         padding-bottom: 10px !important;
         padding-right: 0px !important;
         padding-left: 0px !important;
-        background-color: #1a58af;
+        background-color: rgb(218, 0, 11);
         border-top-left-radius: 0px;
         border-top-right-radius: 0px;
         border-bottom-right-radius: 0px;
@@ -590,7 +590,7 @@
         animation-duration:1000ms;
     }
     .style-show-menu-button{
-        background-color: #1a58af;
+        background-color: rgb(218, 0, 11);
         border-top-left-radius: 50%;
         border-bottom-left-radius: 50%;
         font-family: iransansplusbold;
@@ -628,7 +628,7 @@
         margin-left: 5%;
     }
     .style-of-hr-in-bottom-of-first-logo-in-all-pages{
-        background-color: blue;
+        background-color: black;
         height: 5px !important;
         opacity: 1;
     }
@@ -670,7 +670,7 @@
         font-size: 35px;
         direction: rtl;
         margin: 0% !important;
-        background-color: #1a58af;
+        background-color: rgb(218, 0, 11);
     }
     .style-of-moarefi-shoql2{
         color: white;
@@ -682,7 +682,7 @@
         font-size: 25px;
         direction: rtl;
         margin: 0% !important;
-        background-color: #1a58af;
+        background-color: rgb(218, 0, 11);
     }
     .style-of-moarefi-shoql3{
         color: white;
@@ -694,7 +694,7 @@
         font-size: 25px;
         direction: rtl;
         margin: 0% !important;
-        background-color: #1a58af;
+        background-color: rgb(218, 0, 11);
     }
     .style-of-shoar-img-in-index{
         width: 70%;
@@ -704,26 +704,26 @@
     }
     .style-of-entekhab-brand{
         color: white;
-        background-color: #1a58af;
+        background-color: rgb(218, 0, 11);
         text-align: center;
         padding-top: 20px;
         padding-bottom: 20px;
         font-family: iransans;
         line-height: 40px;
         font-size: 25px;
-        /* animation-name: taqir-BackgroundColor-az-blue-be-sabz;
+        /* animation-name: taqir-BackgroundColor-az-black-be-sabz;
         animation-duration: 2000ms;
         animation-iteration-count: infinite; */
     }
     .style-of-edame-brand{
         color: white;
-        background-color: #2bc607;
+        background-color: #000000;
         text-align: center;
         padding-top: 20px;
         padding-bottom: 20px;
         font-family: iransans;
         font-size: 25px;
-        /* animation-name: taqir-BackgroundColor-az-blue-be-sabz;
+        /* animation-name: taqir-BackgroundColor-az-black-be-sabz;
         animation-duration: 2000ms;
         animation-iteration-count: infinite; */
         margin-left: 30%;
@@ -962,9 +962,9 @@
         display: none;
     }
     .style-of-naqshe-iran-box{
-        background-color: #0c489c !important;
+        background-color: #9c0c0c !important;
         float: right;
-        border-top: #070ac6 solid 3px;
+        border-top: #c60707 solid 3px;
     }
     .style-of-naqshe-iran-img{
         width: 60%;
@@ -983,7 +983,7 @@
         font-size: 30px;
         font-family: iransans;
         text-align: center;
-        background-color: #0c489c !important;
+        background-color: #9c0c0c !important;
         font-weight: bold;
         padding: 0%;
         margin: 0%;
@@ -995,7 +995,7 @@
         font-family: iransans;
         color: white;
         text-align: center;
-        background-color: #0c489c !important;
+        background-color: #9c0c0c !important;
         font-weight: bold;
         padding: 0%;
         margin: 0%;
@@ -1009,7 +1009,7 @@
         font-family: iransans;
         color: white;
         text-align: center;
-        background-color: #0c489c !important;
+        background-color: #9c0c0c !important;
         font-weight: bold;
         padding-right: 25px;
     }
@@ -1113,7 +1113,7 @@
         padding: 0% !important;
     }
     .style-of-footer-email{
-        color: rgb(0, 51, 218);
+        color: rgb(218, 0, 11);
         font-size: 22px;
         font-family: iransans;
         text-align: center;
@@ -1153,8 +1153,8 @@
         display: inline;
         float: right !important;
         width: 67% !important;
-        border-top: blue solid 3px;
-        border-left: blue solid 3px;
+        border-top: black solid 3px;
+        border-left: black solid 3px;
         border-bottom: none !important;
         padding-top: 50px;
         margin-right: 1%;
@@ -1207,7 +1207,7 @@
     .right-left img{
         width: 80%;
         margin-left: 0%;
-        border: solid #0c489c 3px;
+        border: solid #9c0c0c 3px;
         border-radius: 5px;
         margin-top: 4px;
         padding-top: 10px;
@@ -1238,7 +1238,7 @@
         float: left !important;
         width: 30% !important;
         display: inline;
-        border-top: blue solid 3px;
+        border-top: black solid 3px;
         padding-top: 50px;
         border: #585858 3px solid;
         border-radius: 15px;
@@ -1272,7 +1272,7 @@
 /* end brand image styles  */
 /* ---------------------------------------------------------------------------------------------------- */
 .style-of-moarefi-shoql-box{
-    background-color: #1a58af;
+    background-color: rgb(218, 0, 11);
 }
 .style-of-comming-soon-fa{
     color: black;
@@ -1393,7 +1393,7 @@
         padding-bottom: 10px !important;
         padding-right: 0px !important;
         padding-left: 0px !important;
-        background-color: #1a58af;
+        background-color: rgb(218, 0, 11);
         border-top-left-radius: 0px;
         border-top-right-radius: 0px;
         border-bottom-right-radius: 0px;
@@ -1428,7 +1428,7 @@
         padding-bottom: 10px !important;
         padding-right: 0px !important;
         padding-left: 0px !important;
-        background-color: #1a58af;
+        background-color: rgb(218, 0, 11);
         border-top-left-radius: 0px;
         border-top-right-radius: 0px;
         border-bottom-right-radius: 0px;
@@ -1498,7 +1498,7 @@
 
     .left {
         width: 100% !important;
-        border-top: blue solid 3px;
+        border-top: black solid 3px;
         padding-top: 50px;
         border: #585858 3px solid;
         border-radius: 15px;
@@ -1557,7 +1557,7 @@
             text-align: right !important;
         }
         .blog-first-text-p{
-            color: rgb(0, 132, 255);
+            color: rgb(218, 0, 11);
             font-family: iransans;
             font-size: 20px;
             text-align: right;
@@ -1570,17 +1570,17 @@
             padding-top: 10px;
             padding-bottom: 10px;
             width: 100% !important;
-            border-top: solid 5px #0d22df;
-            border-bottom: solid 5px #0d22df;
+            border-top: solid 5px rgb(218, 0, 11);
+            border-bottom: solid 5px rgb(218, 0, 11);
         }
         .blog-etelaat-left{
-            color: #0d22df;
+            color: rgb(218, 0, 11);
             font-family: iransansplusbold;
             font-size: 37px;
             text-align: center;
         }
         .blog-etelaat-right{
-            color: #0d22df;
+            color: rgb(218, 0, 11);
             font-family: iransansplusbold;
             font-size: 37px;
             text-align: center;
@@ -1600,7 +1600,7 @@
             font-family: iransans;
             text-align: center;
             font-size: 25px;
-            background-color: #0d22df;
+            background-color: rgb(218, 0, 11);
             padding-top: 10px;
             padding-bottom: 10px;
             direction: rtl;
@@ -1714,7 +1714,7 @@
         width: 100%;
     }
     .style-of-footer-email{
-        color: rgb(0, 51, 218);
+        color: rgb(218, 0, 11);
         font-size: 22px;
         font-family: iransans;
         text-align: center;
@@ -1762,7 +1762,7 @@
         width: 100%;
     }
     .style-of-hr-in-bottom-of-first-logo-in-all-pages{
-        background-color: blue;
+        background-color: black;
         height: 5px !important;
         opacity: 1;
     }
@@ -1777,7 +1777,7 @@
     }
     .style-of-moarefi-shoql{
         color: white;
-        background-color: #1a58af;
+        background-color: rgb(218, 0, 11);
         text-align: center;
         padding-top: 10px;
         padding-bottom: 20px;
@@ -1791,7 +1791,7 @@
     }
     .style-of-moarefi-shoql2{
         color: white;
-        background-color: #1a58af;
+        background-color: rgb(218, 0, 11);
         text-align: center;
         padding-top: 20px;
         padding-bottom: 10px;
@@ -1805,7 +1805,7 @@
     }
     .style-of-moarefi-shoql3{
         color: white;
-        background-color: #1a58af;
+        background-color: rgb(218, 0, 11);
         text-align: center;
         padding-top: 40px;
         padding-bottom: 40px;
@@ -1823,14 +1823,14 @@
     }
     .style-of-entekhab-brand{
         color: white;
-        background-color: #1a58af;
+        background-color: rgb(218, 0, 11);
         text-align: center;
         padding-top: 20px;
         padding-bottom: 20px;
         font-family: iransans;
         line-height: 60px;
         font-size: 45px;
-        /* animation-name: taqir-BackgroundColor-az-blue-be-sabz;
+        /* animation-name: taqir-BackgroundColor-az-black-be-sabz;
         animation-duration: 2000ms;
         animation-iteration-count: infinite; */
     }
@@ -1924,13 +1924,13 @@
     }
     .style-of-edame-brand{
         color: white;
-        background-color: #2bc607;
+        background-color: #000000;
         text-align: center;
         padding-top: 20px;
         padding-bottom: 20px;
         font-family: iransans;
         font-size: 25px;
-        /* animation-name: taqir-BackgroundColor-az-blue-be-sabz;
+        /* animation-name: taqir-BackgroundColor-az-black-be-sabz;
         animation-duration: 2000ms;
         animation-iteration-count: infinite; */
         margin-left: 30%;
@@ -2203,13 +2203,13 @@
     }
     .right {
         width: 100% !important;
-        border: blue solid 3px;
+        border: black solid 3px;
         padding-top: 50px;
     }
     .left {
         width: 100% !important;
         display: inline;
-        border-top: blue solid 3px;
+        border-top: black solid 3px;
         padding-top: 50px;
     }
     .left p {
@@ -2309,7 +2309,7 @@
     .style-of-all-menu{
         position: fixed !important;
         top: 0%;
-        background-color: #1a58af !important;
+        background-color: rgb(218, 0, 11) !important;
         width: 100%;
         display: block;
         direction: rtl !important;
@@ -2380,7 +2380,7 @@
 /* ---------------------------------------------------------------------------------------------------- */
 /* style of naqshe-iran */
     .style-of-naqshe-iran-box-mo{
-        background-color: #0c489c !important;
+        background-color: #9c0c0c !important;
         width: 100% !important;
     }
     .style-of-naqshe-iran-box{
@@ -2389,7 +2389,7 @@
     .style-of-naqshe-iran-img{
         width: 80%;
         margin: 9% !important;
-        background-color: #0c489c;
+        background-color: #9c0c0c;
         border-radius:20px;
         border: white solid 5px;
     }
@@ -2399,7 +2399,7 @@
         font-size: 40px;
         font-family: iransans;
         text-align: center;
-        background-color: #0c489c !important;
+        background-color: #9c0c0c !important;
         font-weight: bold;
         padding: 0%;
         margin: 0%;
@@ -2411,7 +2411,7 @@
         font-family: iransans;
         color: white;
         text-align: center;
-        background-color: #0c489c !important;
+        background-color: #9c0c0c !important;
         font-weight: bold;
         padding: 0%;
         margin: 0%;
@@ -2425,7 +2425,7 @@
         font-family: iransans;
         color: white;
         text-align: center;
-        background-color: #0c489c !important;
+        background-color: #9c0c0c !important;
         font-weight: bold;
         padding-right: 25px;
         padding-left: 25px;
@@ -2948,13 +2948,15 @@
     z-index: 1;
 }
 ::-webkit-scrollbar-track{
-    background-color: #1a58af;
+    background-color: rgb(218, 0, 11);
     z-index: 1;
 }
 ::-webkit-scrollbar-thumb{
-    background-color: #2bc607;
+    background-color: #ffffff;
     border-top: solid white 2px;
     border-bottom: solid white 2px;
+    border-left: solid rgb(218, 0, 11) 1px;
+    border-right: solid rgb(218, 0, 11) 1px;
     border-radius: 5px;
     z-index: 1;
 }
@@ -2993,7 +2995,7 @@
 @keyframes hide-menu-button {
     0%{
         right: 0%;
-        background-color: #1a58af;
+        background-color: rgb(218, 0, 11);
     }
     100%{
         right: 100%;
@@ -3100,7 +3102,7 @@
         color: #2bc607;
     }
     50%{
-        color: #1a58af;
+        color: rgb(218, 0, 11);
     }
 }
 @keyframes color-of-mazit-estefade-az-ma-text {
@@ -3113,7 +3115,7 @@
 }
 @keyframes color-of-about-brand-title {
     0% , 100%{
-        color: #0d22df;
+        color: rgb(218, 0, 11);
     }
     50%{
         color: #ee0a15;
@@ -3121,7 +3123,7 @@
 }
 @keyframes in-bakhsh-be-zoodi-dar-dastres-khahab-bood-animation {
 0% , 100% {
-    color: blue;
+    color: black;
 }
 50% {
     color: green;
@@ -3263,7 +3265,7 @@
 }
 @keyframes taqir-BackgroundColor-az-blue-be-sabz {
 0%{
-    background-color: #1a58af;
+    background-color: rgb(218, 0, 11);
 }
 50%{
     background-color: #2bc607;

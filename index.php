@@ -665,7 +665,7 @@
 <table class="style-of-footer-title display-none-mo">
     <tr>
         <td class="style-of-footer-td">
-            <p class="style-of-footer-asli-title"><span class="text-color-darkblue-2">تعمیرات لوازم خانگی  
+            <p class="style-of-footer-asli-title"><span class="text-color-red-2">تعمیرات لوازم خانگی  
             <br> 
             تعمیر مارکت</span></p>
         </td>
@@ -729,7 +729,7 @@
     <table class="style-of-footer-title display-none-pc">
     <tr>
     <td class="style-of-footer-td">
-         <p class="style-of-footer-asli-title"><span class="text-color-darkblue-2">تعمیر مارکت</span></p>
+         <p class="style-of-footer-asli-title"><span class="text-color-red-2">تعمیر مارکت</span></p>
     </td>
     </tr>
     <tr>

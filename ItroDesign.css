@@ -34,7 +34,7 @@
 
 /* color reds */
 .text-color-red-1{
-    color: rgb(255, 0, 0);
+    color: black;
 }
 .text-color-red-2{
     color: rgb(218, 0, 0);
@@ -522,7 +522,7 @@
 /* ***background colors*** */
     /* red */
         .background-color-red-1{
-            background-color: rgb(255, 0, 0);
+            background-color: black;
         }
         .background-color-red-2{
             background-color: rgb(218, 0, 0);
@@ -820,7 +820,7 @@
 }
 
 .color-blue-saniaran-site{
-    color: #1a58af !important;
+    color: rgb(218, 0, 11) !important;
 }
 .color-green-saniaran-site{
     color: #2bc607 !important;
@@ -833,7 +833,7 @@
 }
 
 .background-color-blue-saniaran-site{
-    background-color: #1a58af !important;
+    background-color: rgb(218, 0, 11) !important;
 }
 .background-color-green-saniaran-site{
     background-color: #2bc607 !important;
