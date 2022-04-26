@@ -13,5 +13,7 @@ $("#BVB2").click(function(){
 
 console.log("jquery text in loaded !!");
 
-document.getElementById("loading-gif-back").style.display=("none");
-document.getElementById("loading-gif").style.width=("0px");
+setTimeout(function(){
+    document.getElementById("loading-gif-back").style.display=("none");
+    document.getElementById("loading-gif").style.width=("0px");
+  },3000);

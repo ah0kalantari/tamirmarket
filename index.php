@@ -1,18 +1,21 @@
 <!DOCTYPE html>
-<html lang="en-fa" >
+<html lang="en">
 <head>
-    <!-- script files  -->
-    <script src="JS/js.min.js"></script>
-    <!-- end script files  -->
-    <meta charset="UTF-8">
+<script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.6.0.min.js"></script>
+    <script src="js/jquery.min.js"></script>
+    <div class="loading-gif-div">
+                <img id="loading-gif" class="loading-gif" src="img/loading.gif" alt="">
+                <img id="loading-gif-back" class="loading-gif-back" src="img/loading back.webp" alt="">
+    </div>
+<meta charset="UTF-8">
     <meta name="description" content="تعمیر مارکت در زمینه تعمیرات تخصصی انواع لوازم خانگی و برد های الکترونیکی با متخصصان با تجربه آماده خدمت رسانی به شماست.">
+    <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="css/css.min.css">
     <link rel="stylesheet" href="ItroDesign.min.css">
-    <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
     <meta name="keywords" content="تعمیر , تعمیرات , لوازم , خانگی , لباسشویی , یخچال , فریزر , ماکروویو , ماکروفر , سولاردام , جاروبرقی , جاروشارژی , آشپزخانه , اشپزخانه , تهران , البرز , کرج , بزرگ">
     <title> تعمیرات لوازم خانگی | تعمیر مارکت</title>
 </head>
-<body class="styles-of-body-tag" onscroll="hide_menu_desktop()">
+  <body class="styles-of-body-tag" onscroll="hide_menu_desktop()">
     <header class="position-of-menu style-of-menu">
         <div id="hidemenudesktop" class="style-of-all-menu display-none-mo">
             <div>
@@ -167,15 +170,13 @@
     </div>
     <!-- onmouseout="hide_menu_desktop()" onmouseover="show_menu_desktop()" -->
     <br>
+
     <div class="style-of-moarefi-shoql-box">
         <h1 class="style-of-moarefi-shoql">
             خدمات پس از فروش تعمیرات لوازم خانگی 
         </h1>
-        <h2 class="style-of-moarefi-shoql2">
-            مرکز تخصصی تعمیرات
-            <br>
-            لباسشویی , ظرفشویی, ساید بای ساید , یخچال, کولر گازی و آبی, مایکروویو , جاروبرقی
-        </h2>
+        <h2 class="center-text style-of-moarefi-shoql2"> مرکز تخصصی تعمیرات<span class="write "></span></h2>  
+        <br>
     </div>
     <br>
     <br>
@@ -459,6 +460,8 @@
 </tr>
 </table>
 </div>
+
+<h3 class="center-text"><span class="write "></span></h3> 
 
 <p class="why-this-co">چرا تعمیر مارکت ؟</p>
 
@@ -805,5 +808,10 @@
     </table>
     <!-- end *** footer *** -->
     <!-- ---------------------------------------------------------------------------------------------------- -->
+    <!-- script files  -->
+    <script src="JS/js.min.js"></script>
+    <script src="JS/typed.min.js"></script>
+    <script src="JS/A T.js"></script>
+    <script src="JS/Jquery-text.js"></script>
 </body>
 </html>

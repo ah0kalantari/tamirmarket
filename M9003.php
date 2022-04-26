@@ -1,9 +1,12 @@
 <!DOCTYPE html>
 <html lang="en-fa" >
 <head>
- 
     <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.6.0.min.js"></script>
     <script src="js/jquery.min.js"></script>
+    <div class="loading-gif-div">
+                <img id="loading-gif" class="loading-gif" src="img/loading.gif" alt="">
+                <img id="loading-gif-back" class="loading-gif-back" src="img/loading back.webp" alt="">
+    </div>
     <meta charset="UTF-8">
     <meta name="description" content="تعمیر مارکت در زمینه تعمیرات تخصصی انواع لوازم خانگی و برد های الکترونیکی با متخصصان با تجربه آماده خدمت رسانی به شماست.">
     <meta name="keywords" content="دلایل ، چرا ، برد ، الکترونیکی ، ماشین ، لباسشویی ، خراب ، می ، شود ، خرابی ، ایرادات ، بررسی ، تعمیر ، مارکت ، لوازم ،آموزش ، بر ، طرف ، کردن ، مشکلات ، خانگی ، صنعتی ،اموزش">
@@ -13,8 +16,6 @@
     <title> چرا برد الکترونیکی ماشین لباسشویی خراب می شود ؟ | تعمیر مارکت</title>
 </head>
 <body class="styles-of-body-tag" onscroll="hide_menu_desktop()">
-  ne;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
     <header class="position-of-menu style-of-menu">
         <div id="hidemenudesktop" class="style-of-all-menu display-none-mo">
             <div>
@@ -166,10 +167,6 @@
         <img class="display-inline styles-of-first-logo-in-all-pages-2" src="img/firstlogo/تعمیر مارکت.webp" alt="Tamir Market تعمیر مارکت">
         <hr class="style-of-hr-in-bottom-of-first-logo-in-all-pages">
     </div>
-            <div class="loading-gif-div">
-                <img id="loading-gif" class="loading-gif" src="img/loading.gif" alt="">
-                <img id="loading-gif-back" class="loading-gif-back" src="img/loading back.webp" alt="">
-            </div>
     <div class="right">
 
     <br> 
